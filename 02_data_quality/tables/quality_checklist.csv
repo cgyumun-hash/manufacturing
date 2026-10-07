@@ -1,0 +1,8 @@
+check,status,result
+Required columns,PASS,"TimeStamp, 3 sensors, Equipment_state are present"
+Missing values,PASS,Total missing/parse failures: 0
+Infinite sensor values,PASS,Total infinite values: 0
+Exact duplicate rows,CAUTION,Normal has 1 extra duplicate row; anomaly has 0
+Timestamp continuity,CAUTION,Data contain many gaps; analyze within segment only
+Label/date confounding,CRITICAL,Normal and anomaly were collected on different dates
+Class imbalance by row,CAUTION,Normal:anomaly = 33.33:1 after duplicate removal

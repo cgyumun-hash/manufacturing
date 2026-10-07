@@ -1,0 +1,3 @@
+class,segment_count,mean_samples,std_samples,min_samples,q05_samples,q25_samples,median_samples,q75_samples,q95_samples,max_samples
+normal,599,33.3873121869783,16.385415632176244,1,5.0,20.0,37.0,50.0,50.0,50
+anomaly,21,28.571428571428573,17.537307172343844,3,4.0,15.0,28.0,47.0,50.0,50

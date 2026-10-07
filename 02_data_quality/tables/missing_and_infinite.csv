@@ -1,0 +1,11 @@
+class,column,missing_or_parse_failure,infinite
+normal,TimeStamp,0,0
+normal,AI0_Vibration,0,0
+normal,AI1_Vibration,0,0
+normal,AI2_Current,0,0
+normal,Equipment_state,0,0
+anomaly,TimeStamp,0,0
+anomaly,AI0_Vibration,0,0
+anomaly,AI1_Vibration,0,0
+anomaly,AI2_Current,0,0
+anomaly,Equipment_state,0,0

@@ -1,0 +1,9 @@
+class,relation,value_type,segments,value
+normal,AI0 ↔ AI1 signed correlation within window,median of per-window Pearson correlations,452,0.29536829848750945
+normal,AI0_RMS ↔ AI1_RMS,Pearson correlation across segments,452,0.7290107127330433
+normal,Current_RMS ↔ AI0_RMS,Pearson correlation across segments,452,0.6623290786236752
+normal,Current_RMS ↔ AI1_RMS,Pearson correlation across segments,452,0.9490175035602143
+anomaly,AI0 ↔ AI1 signed correlation within window,median of per-window Pearson correlations,13,-0.3817851145028868
+anomaly,AI0_RMS ↔ AI1_RMS,Pearson correlation across segments,13,0.7756418083324674
+anomaly,Current_RMS ↔ AI0_RMS,Pearson correlation across segments,13,0.1788678798901429
+anomaly,Current_RMS ↔ AI1_RMS,Pearson correlation across segments,13,-0.12354481710587495
