@@ -1,0 +1,3 @@
+class,interval_count,expected_0.1s_count,gap_count_over_0.1s,nonpositive_interval_count,duplicate_timestamp_extra_rows_raw,min_positive_interval,median_interval,max_interval,estimated_missing_if_continuous_10Hz
+normal,19998,19400,598,0,1,0.1,0.1,16.643,26164
+anomaly,599,579,20,0,0,0.1,0.1,8.572,1058
