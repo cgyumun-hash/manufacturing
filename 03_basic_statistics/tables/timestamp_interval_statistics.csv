@@ -1,3 +1,0 @@
-class,count,mean_seconds,std_seconds,min_seconds,q05_seconds,median_seconds,q95_seconds,max_seconds,exact_0.1s_count,gap_over_0.1s_count
-normal,19998,0.2308135313531353,0.8568669075285282,0.1,0.1,0.1,0.1,16.643,19400,598
-anomaly,599,0.27645575959933216,1.039043023963979,0.1,0.1,0.1,0.1,8.572,579,20
