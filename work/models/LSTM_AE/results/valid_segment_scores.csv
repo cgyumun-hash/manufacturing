@@ -1,0 +1,4186 @@
+﻿group,label,score,fold,configuration,input_label
+normal_5,0,0.0016059931,1,raw_single,단일시점
+normal_13,0,0.0050091054,1,raw_single,단일시점
+normal_23,0,0.001466969,1,raw_single,단일시점
+normal_25,0,0.0103364475,1,raw_single,단일시점
+normal_26,0,0.0021089304,1,raw_single,단일시점
+normal_31,0,0.008945137,1,raw_single,단일시점
+normal_34,0,0.017052535,1,raw_single,단일시점
+normal_42,0,0.0023625023,1,raw_single,단일시점
+normal_59,0,0.002412261,1,raw_single,단일시점
+normal_63,0,0.026070604,1,raw_single,단일시점
+normal_66,0,0.0022653134,1,raw_single,단일시점
+normal_67,0,0.002218233,1,raw_single,단일시점
+normal_90,0,0.006314443,1,raw_single,단일시점
+normal_91,0,0.0075614653,1,raw_single,단일시점
+normal_101,0,0.006758523,1,raw_single,단일시점
+normal_105,0,0.0023574708,1,raw_single,단일시점
+normal_113,0,0.0015810535,1,raw_single,단일시점
+normal_114,0,0.0057207397,1,raw_single,단일시점
+normal_135,0,0.0016849587,1,raw_single,단일시점
+normal_145,0,0.0033106413,1,raw_single,단일시점
+normal_146,0,0.011256336,1,raw_single,단일시점
+normal_153,0,0.0021558343,1,raw_single,단일시점
+normal_154,0,0.0027975566,1,raw_single,단일시점
+normal_166,0,0.0045529353,1,raw_single,단일시점
+normal_182,0,0.018919457,1,raw_single,단일시점
+normal_194,0,0.010355863,1,raw_single,단일시점
+normal_204,0,0.0022867657,1,raw_single,단일시점
+normal_210,0,0.0075101266,1,raw_single,단일시점
+normal_218,0,0.0031112547,1,raw_single,단일시점
+normal_231,0,0.0021393131,1,raw_single,단일시점
+normal_234,0,0.0018329213,1,raw_single,단일시점
+normal_242,0,0.014397083,1,raw_single,단일시점
+normal_254,0,0.0016586467,1,raw_single,단일시점
+normal_267,0,0.0019312687,1,raw_single,단일시점
+normal_275,0,0.0016251547,1,raw_single,단일시점
+normal_276,0,0.0021924947,1,raw_single,단일시점
+normal_287,0,0.01615242,1,raw_single,단일시점
+normal_295,0,0.0016686267,1,raw_single,단일시점
+normal_296,0,0.007185925,1,raw_single,단일시점
+normal_300,0,0.0027615156,1,raw_single,단일시점
+normal_307,0,0.0022573052,1,raw_single,단일시점
+normal_308,0,0.0030387216,1,raw_single,단일시점
+normal_317,0,0.0023814277,1,raw_single,단일시점
+normal_319,0,0.0022776718,1,raw_single,단일시점
+normal_325,0,0.0019180957,1,raw_single,단일시점
+normal_326,0,0.011269717,1,raw_single,단일시점
+normal_329,0,0.0054528415,1,raw_single,단일시점
+normal_330,0,0.0012945419,1,raw_single,단일시점
+normal_343,0,0.017058564,1,raw_single,단일시점
+normal_355,0,0.046647184,1,raw_single,단일시점
+normal_358,0,0.02632581,1,raw_single,단일시점
+normal_369,0,0.002887991,1,raw_single,단일시점
+normal_376,0,0.007685084,1,raw_single,단일시점
+normal_379,0,0.0023014161,1,raw_single,단일시점
+normal_381,0,0.011958211,1,raw_single,단일시점
+normal_401,0,0.013685334,1,raw_single,단일시점
+normal_413,0,0.0018169716,1,raw_single,단일시점
+normal_420,0,0.012911049,1,raw_single,단일시점
+normal_423,0,0.026744645,1,raw_single,단일시점
+normal_425,0,0.002809484,1,raw_single,단일시점
+normal_437,0,0.0022956883,1,raw_single,단일시점
+normal_446,0,0.004156749,1,raw_single,단일시점
+normal_447,0,0.00088946597,1,raw_single,단일시점
+normal_458,0,0.0016455397,1,raw_single,단일시점
+normal_462,0,0.001862054,1,raw_single,단일시점
+normal_468,0,0.019766638,1,raw_single,단일시점
+normal_471,0,0.0024015554,1,raw_single,단일시점
+normal_474,0,0.0014630798,1,raw_single,단일시점
+normal_479,0,0.0013440339,1,raw_single,단일시점
+normal_480,0,0.0014411522,1,raw_single,단일시점
+normal_482,0,0.0020705527,1,raw_single,단일시점
+normal_486,0,0.0012707291,1,raw_single,단일시점
+normal_492,0,0.0026301336,1,raw_single,단일시점
+normal_493,0,0.0014237596,1,raw_single,단일시점
+normal_498,0,0.0016902816,1,raw_single,단일시점
+normal_502,0,0.0022825561,1,raw_single,단일시점
+normal_507,0,0.0018401562,1,raw_single,단일시점
+normal_520,0,0.0015814664,1,raw_single,단일시점
+normal_522,0,0.0014784748,1,raw_single,단일시점
+normal_538,0,0.0029373234,1,raw_single,단일시점
+normal_543,0,0.0017496938,1,raw_single,단일시점
+normal_544,0,0.0017037634,1,raw_single,단일시점
+normal_552,0,0.0018863464,1,raw_single,단일시점
+normal_557,0,0.00244292,1,raw_single,단일시점
+normal_559,0,0.0021092375,1,raw_single,단일시점
+normal_579,0,0.010823118,1,raw_single,단일시점
+normal_585,0,0.0020313659,1,raw_single,단일시점
+normal_589,0,0.0014992224,1,raw_single,단일시점
+normal_590,0,0.017449722,1,raw_single,단일시점
+normal_598,0,0.0023715403,1,raw_single,단일시점
+anomaly_2,1,0.5727452,1,raw_single,단일시점
+anomaly_8,1,4.6389055,1,raw_single,단일시점
+anomaly_9,1,2.8415494,1,raw_single,단일시점
+normal_5,0,0.13812858,1,raw_window_5,원데이터 0.5초
+normal_13,0,0.39018828,1,raw_window_5,원데이터 0.5초
+normal_23,0,0.5261243,1,raw_window_5,원데이터 0.5초
+normal_25,0,0.36931184,1,raw_window_5,원데이터 0.5초
+normal_26,0,0.32279512,1,raw_window_5,원데이터 0.5초
+normal_31,0,0.40160313,1,raw_window_5,원데이터 0.5초
+normal_34,0,0.47414437,1,raw_window_5,원데이터 0.5초
+normal_42,0,0.29337892,1,raw_window_5,원데이터 0.5초
+normal_59,0,0.33522597,1,raw_window_5,원데이터 0.5초
+normal_63,0,0.56982064,1,raw_window_5,원데이터 0.5초
+normal_66,0,0.4029565,1,raw_window_5,원데이터 0.5초
+normal_67,0,0.4291203,1,raw_window_5,원데이터 0.5초
+normal_90,0,0.39139882,1,raw_window_5,원데이터 0.5초
+normal_91,0,0.4498199,1,raw_window_5,원데이터 0.5초
+normal_101,0,0.39449364,1,raw_window_5,원데이터 0.5초
+normal_105,0,0.14142975,1,raw_window_5,원데이터 0.5초
+normal_113,0,0.27477568,1,raw_window_5,원데이터 0.5초
+normal_114,0,0.35320175,1,raw_window_5,원데이터 0.5초
+normal_135,0,0.18796213,1,raw_window_5,원데이터 0.5초
+normal_145,0,0.33500496,1,raw_window_5,원데이터 0.5초
+normal_146,0,0.5450472,1,raw_window_5,원데이터 0.5초
+normal_153,0,0.30103835,1,raw_window_5,원데이터 0.5초
+normal_154,0,0.60202944,1,raw_window_5,원데이터 0.5초
+normal_166,0,0.34587616,1,raw_window_5,원데이터 0.5초
+normal_182,0,0.44105354,1,raw_window_5,원데이터 0.5초
+normal_194,0,0.45684463,1,raw_window_5,원데이터 0.5초
+normal_204,0,0.4049101,1,raw_window_5,원데이터 0.5초
+normal_210,0,0.40890622,1,raw_window_5,원데이터 0.5초
+normal_218,0,0.6517971,1,raw_window_5,원데이터 0.5초
+normal_231,0,0.2706787,1,raw_window_5,원데이터 0.5초
+normal_234,0,0.1774111,1,raw_window_5,원데이터 0.5초
+normal_242,0,0.39475152,1,raw_window_5,원데이터 0.5초
+normal_254,0,0.3778067,1,raw_window_5,원데이터 0.5초
+normal_267,0,0.30422467,1,raw_window_5,원데이터 0.5초
+normal_275,0,0.19762531,1,raw_window_5,원데이터 0.5초
+normal_276,0,0.27787784,1,raw_window_5,원데이터 0.5초
+normal_287,0,0.51907563,1,raw_window_5,원데이터 0.5초
+normal_295,0,0.20021336,1,raw_window_5,원데이터 0.5초
+normal_296,0,0.48015276,1,raw_window_5,원데이터 0.5초
+normal_300,0,0.12531844,1,raw_window_5,원데이터 0.5초
+normal_307,0,0.116150595,1,raw_window_5,원데이터 0.5초
+normal_308,0,0.3862798,1,raw_window_5,원데이터 0.5초
+normal_317,0,0.3568103,1,raw_window_5,원데이터 0.5초
+normal_319,0,0.13378903,1,raw_window_5,원데이터 0.5초
+normal_325,0,0.36483437,1,raw_window_5,원데이터 0.5초
+normal_326,0,0.484059,1,raw_window_5,원데이터 0.5초
+normal_329,0,0.48611885,1,raw_window_5,원데이터 0.5초
+normal_330,0,0.32379624,1,raw_window_5,원데이터 0.5초
+normal_343,0,0.4696867,1,raw_window_5,원데이터 0.5초
+normal_355,0,0.40427685,1,raw_window_5,원데이터 0.5초
+normal_358,0,0.6379774,1,raw_window_5,원데이터 0.5초
+normal_369,0,0.3680988,1,raw_window_5,원데이터 0.5초
+normal_376,0,0.3737623,1,raw_window_5,원데이터 0.5초
+normal_379,0,0.28087777,1,raw_window_5,원데이터 0.5초
+normal_381,0,0.7583524,1,raw_window_5,원데이터 0.5초
+normal_401,0,0.47375554,1,raw_window_5,원데이터 0.5초
+normal_413,0,0.15559314,1,raw_window_5,원데이터 0.5초
+normal_420,0,0.44999248,1,raw_window_5,원데이터 0.5초
+normal_423,0,0.69030964,1,raw_window_5,원데이터 0.5초
+normal_425,0,0.31962556,1,raw_window_5,원데이터 0.5초
+normal_437,0,0.20658109,1,raw_window_5,원데이터 0.5초
+normal_446,0,0.48426095,1,raw_window_5,원데이터 0.5초
+normal_447,0,0.16180941,1,raw_window_5,원데이터 0.5초
+normal_458,0,0.43977252,1,raw_window_5,원데이터 0.5초
+normal_462,0,0.23553357,1,raw_window_5,원데이터 0.5초
+normal_468,0,0.42486405,1,raw_window_5,원데이터 0.5초
+normal_471,0,0.5762424,1,raw_window_5,원데이터 0.5초
+normal_474,0,0.16866103,1,raw_window_5,원데이터 0.5초
+normal_479,0,0.18462253,1,raw_window_5,원데이터 0.5초
+normal_480,0,0.2303622,1,raw_window_5,원데이터 0.5초
+normal_482,0,0.15207757,1,raw_window_5,원데이터 0.5초
+normal_486,0,0.1642886,1,raw_window_5,원데이터 0.5초
+normal_492,0,0.19529243,1,raw_window_5,원데이터 0.5초
+normal_493,0,0.20355089,1,raw_window_5,원데이터 0.5초
+normal_498,0,0.16969189,1,raw_window_5,원데이터 0.5초
+normal_502,0,0.14340916,1,raw_window_5,원데이터 0.5초
+normal_507,0,0.13907015,1,raw_window_5,원데이터 0.5초
+normal_520,0,0.22215012,1,raw_window_5,원데이터 0.5초
+normal_522,0,0.11453798,1,raw_window_5,원데이터 0.5초
+normal_538,0,0.17204404,1,raw_window_5,원데이터 0.5초
+normal_543,0,0.10975514,1,raw_window_5,원데이터 0.5초
+normal_544,0,0.15889019,1,raw_window_5,원데이터 0.5초
+normal_552,0,0.16249517,1,raw_window_5,원데이터 0.5초
+normal_557,0,0.1521878,1,raw_window_5,원데이터 0.5초
+normal_559,0,0.21750689,1,raw_window_5,원데이터 0.5초
+normal_579,0,0.6276769,1,raw_window_5,원데이터 0.5초
+normal_585,0,0.3984428,1,raw_window_5,원데이터 0.5초
+normal_589,0,0.32462084,1,raw_window_5,원데이터 0.5초
+normal_590,0,0.35637087,1,raw_window_5,원데이터 0.5초
+normal_598,0,0.36795473,1,raw_window_5,원데이터 0.5초
+anomaly_2,1,11.121462,1,raw_window_5,원데이터 0.5초
+anomaly_8,1,8.173353,1,raw_window_5,원데이터 0.5초
+anomaly_9,1,8.041628,1,raw_window_5,원데이터 0.5초
+normal_5,0,0.13608378,1,raw_window_10,원데이터 1.0초
+normal_13,0,0.6245199,1,raw_window_10,원데이터 1.0초
+normal_23,0,0.54051095,1,raw_window_10,원데이터 1.0초
+normal_25,0,1.1513792,1,raw_window_10,원데이터 1.0초
+normal_26,0,0.3504739,1,raw_window_10,원데이터 1.0초
+normal_31,0,1.253174,1,raw_window_10,원데이터 1.0초
+normal_34,0,0.8846599,1,raw_window_10,원데이터 1.0초
+normal_42,0,0.31683907,1,raw_window_10,원데이터 1.0초
+normal_59,0,0.36074746,1,raw_window_10,원데이터 1.0초
+normal_63,0,1.5095837,1,raw_window_10,원데이터 1.0초
+normal_66,0,0.82371557,1,raw_window_10,원데이터 1.0초
+normal_67,0,0.7423302,1,raw_window_10,원데이터 1.0초
+normal_90,0,1.3122894,1,raw_window_10,원데이터 1.0초
+normal_91,0,0.78373504,1,raw_window_10,원데이터 1.0초
+normal_101,0,0.3929574,1,raw_window_10,원데이터 1.0초
+normal_105,0,0.1547591,1,raw_window_10,원데이터 1.0초
+normal_113,0,0.19097506,1,raw_window_10,원데이터 1.0초
+normal_114,0,1.1411197,1,raw_window_10,원데이터 1.0초
+normal_135,0,0.16402909,1,raw_window_10,원데이터 1.0초
+normal_145,0,0.7660735,1,raw_window_10,원데이터 1.0초
+normal_146,0,1.1390406,1,raw_window_10,원데이터 1.0초
+normal_153,0,0.28933752,1,raw_window_10,원데이터 1.0초
+normal_154,0,0.58829,1,raw_window_10,원데이터 1.0초
+normal_166,0,1.0161057,1,raw_window_10,원데이터 1.0초
+normal_182,0,1.469086,1,raw_window_10,원데이터 1.0초
+normal_194,0,1.3475904,1,raw_window_10,원데이터 1.0초
+normal_204,0,0.42074817,1,raw_window_10,원데이터 1.0초
+normal_210,0,0.93017036,1,raw_window_10,원데이터 1.0초
+normal_218,0,0.71897143,1,raw_window_10,원데이터 1.0초
+normal_231,0,0.2503501,1,raw_window_10,원데이터 1.0초
+normal_234,0,0.19211668,1,raw_window_10,원데이터 1.0초
+normal_242,0,1.3760799,1,raw_window_10,원데이터 1.0초
+normal_254,0,0.9030055,1,raw_window_10,원데이터 1.0초
+normal_267,0,0.33674237,1,raw_window_10,원데이터 1.0초
+normal_275,0,0.24333756,1,raw_window_10,원데이터 1.0초
+normal_276,0,0.36859047,1,raw_window_10,원데이터 1.0초
+normal_287,0,1.4833285,1,raw_window_10,원데이터 1.0초
+normal_295,0,0.21521649,1,raw_window_10,원데이터 1.0초
+normal_296,0,1.1284882,1,raw_window_10,원데이터 1.0초
+normal_300,0,0.12994972,1,raw_window_10,원데이터 1.0초
+normal_307,0,0.1620704,1,raw_window_10,원데이터 1.0초
+normal_308,0,0.5816841,1,raw_window_10,원데이터 1.0초
+normal_317,0,0.9562108,1,raw_window_10,원데이터 1.0초
+normal_319,0,0.16852468,1,raw_window_10,원데이터 1.0초
+normal_325,0,0.5271548,1,raw_window_10,원데이터 1.0초
+normal_326,0,1.4713119,1,raw_window_10,원데이터 1.0초
+normal_329,0,1.086699,1,raw_window_10,원데이터 1.0초
+normal_330,0,0.773885,1,raw_window_10,원데이터 1.0초
+normal_343,0,1.419895,1,raw_window_10,원데이터 1.0초
+normal_355,0,1.5502499,1,raw_window_10,원데이터 1.0초
+normal_358,0,1.5980844,1,raw_window_10,원데이터 1.0초
+normal_369,0,0.30227125,1,raw_window_10,원데이터 1.0초
+normal_376,0,1.2794785,1,raw_window_10,원데이터 1.0초
+normal_379,0,0.5078456,1,raw_window_10,원데이터 1.0초
+normal_381,0,1.0019033,1,raw_window_10,원데이터 1.0초
+normal_401,0,1.4270358,1,raw_window_10,원데이터 1.0초
+normal_413,0,0.16605702,1,raw_window_10,원데이터 1.0초
+normal_420,0,1.4089833,1,raw_window_10,원데이터 1.0초
+normal_423,0,1.6388724,1,raw_window_10,원데이터 1.0초
+normal_425,0,0.4105258,1,raw_window_10,원데이터 1.0초
+normal_437,0,0.28548253,1,raw_window_10,원데이터 1.0초
+normal_446,0,1.1033137,1,raw_window_10,원데이터 1.0초
+normal_447,0,0.17978524,1,raw_window_10,원데이터 1.0초
+normal_458,0,0.5385171,1,raw_window_10,원데이터 1.0초
+normal_462,0,0.25349623,1,raw_window_10,원데이터 1.0초
+normal_468,0,1.5226676,1,raw_window_10,원데이터 1.0초
+normal_471,0,0.7911209,1,raw_window_10,원데이터 1.0초
+normal_474,0,0.17267825,1,raw_window_10,원데이터 1.0초
+normal_479,0,0.18748078,1,raw_window_10,원데이터 1.0초
+normal_480,0,0.21752888,1,raw_window_10,원데이터 1.0초
+normal_482,0,0.16635953,1,raw_window_10,원데이터 1.0초
+normal_486,0,0.17466725,1,raw_window_10,원데이터 1.0초
+normal_492,0,0.18636762,1,raw_window_10,원데이터 1.0초
+normal_493,0,0.18006754,1,raw_window_10,원데이터 1.0초
+normal_498,0,0.15005898,1,raw_window_10,원데이터 1.0초
+normal_502,0,0.11412731,1,raw_window_10,원데이터 1.0초
+normal_507,0,0.1316232,1,raw_window_10,원데이터 1.0초
+normal_520,0,0.22281016,1,raw_window_10,원데이터 1.0초
+normal_522,0,0.0996245,1,raw_window_10,원데이터 1.0초
+normal_538,0,0.1502007,1,raw_window_10,원데이터 1.0초
+normal_543,0,0.09462356,1,raw_window_10,원데이터 1.0초
+normal_544,0,0.14407258,1,raw_window_10,원데이터 1.0초
+normal_552,0,0.14008428,1,raw_window_10,원데이터 1.0초
+normal_557,0,0.12381782,1,raw_window_10,원데이터 1.0초
+normal_559,0,0.21368575,1,raw_window_10,원데이터 1.0초
+normal_579,0,0.87600654,1,raw_window_10,원데이터 1.0초
+normal_585,0,0.573277,1,raw_window_10,원데이터 1.0초
+normal_589,0,0.3049747,1,raw_window_10,원데이터 1.0초
+normal_590,0,1.163998,1,raw_window_10,원데이터 1.0초
+normal_598,0,0.73418593,1,raw_window_10,원데이터 1.0초
+anomaly_2,1,12.53693,1,raw_window_10,원데이터 1.0초
+anomaly_8,1,7.9521065,1,raw_window_10,원데이터 1.0초
+anomaly_9,1,8.139779,1,raw_window_10,원데이터 1.0초
+normal_5,0,0.16143072,1,raw_window_15,원데이터 1.5초
+normal_13,0,0.6748337,1,raw_window_15,원데이터 1.5초
+normal_23,0,0.5817417,1,raw_window_15,원데이터 1.5초
+normal_25,0,1.2086425,1,raw_window_15,원데이터 1.5초
+normal_26,0,0.36137438,1,raw_window_15,원데이터 1.5초
+normal_31,0,1.2632214,1,raw_window_15,원데이터 1.5초
+normal_34,0,0.9590842,1,raw_window_15,원데이터 1.5초
+normal_42,0,0.3126937,1,raw_window_15,원데이터 1.5초
+normal_59,0,0.4020042,1,raw_window_15,원데이터 1.5초
+normal_63,0,1.5046911,1,raw_window_15,원데이터 1.5초
+normal_66,0,0.84029037,1,raw_window_15,원데이터 1.5초
+normal_67,0,0.78301233,1,raw_window_15,원데이터 1.5초
+normal_90,0,1.4673352,1,raw_window_15,원데이터 1.5초
+normal_91,0,0.8713231,1,raw_window_15,원데이터 1.5초
+normal_101,0,0.42375872,1,raw_window_15,원데이터 1.5초
+normal_105,0,0.15348339,1,raw_window_15,원데이터 1.5초
+normal_113,0,0.25212893,1,raw_window_15,원데이터 1.5초
+normal_114,0,1.2255946,1,raw_window_15,원데이터 1.5초
+normal_135,0,0.17512333,1,raw_window_15,원데이터 1.5초
+normal_145,0,0.83708936,1,raw_window_15,원데이터 1.5초
+normal_146,0,1.1198504,1,raw_window_15,원데이터 1.5초
+normal_153,0,0.3069699,1,raw_window_15,원데이터 1.5초
+normal_154,0,0.61820894,1,raw_window_15,원데이터 1.5초
+normal_166,0,1.0573864,1,raw_window_15,원데이터 1.5초
+normal_182,0,1.5078974,1,raw_window_15,원데이터 1.5초
+normal_194,0,1.4466285,1,raw_window_15,원데이터 1.5초
+normal_204,0,0.43630528,1,raw_window_15,원데이터 1.5초
+normal_210,0,0.9623572,1,raw_window_15,원데이터 1.5초
+normal_218,0,0.7412173,1,raw_window_15,원데이터 1.5초
+normal_231,0,0.28015602,1,raw_window_15,원데이터 1.5초
+normal_234,0,0.22404546,1,raw_window_15,원데이터 1.5초
+normal_242,0,1.5139211,1,raw_window_15,원데이터 1.5초
+normal_254,0,0.97191554,1,raw_window_15,원데이터 1.5초
+normal_267,0,0.3297575,1,raw_window_15,원데이터 1.5초
+normal_275,0,0.25638294,1,raw_window_15,원데이터 1.5초
+normal_276,0,0.40590182,1,raw_window_15,원데이터 1.5초
+normal_287,0,1.4919113,1,raw_window_15,원데이터 1.5초
+normal_295,0,0.24161597,1,raw_window_15,원데이터 1.5초
+normal_296,0,1.2009376,1,raw_window_15,원데이터 1.5초
+normal_300,0,0.15306377,1,raw_window_15,원데이터 1.5초
+normal_307,0,0.17293249,1,raw_window_15,원데이터 1.5초
+normal_308,0,0.6375684,1,raw_window_15,원데이터 1.5초
+normal_317,0,0.9945789,1,raw_window_15,원데이터 1.5초
+normal_319,0,0.19141124,1,raw_window_15,원데이터 1.5초
+normal_325,0,0.5594978,1,raw_window_15,원데이터 1.5초
+normal_326,0,1.4679149,1,raw_window_15,원데이터 1.5초
+normal_329,0,1.1825546,1,raw_window_15,원데이터 1.5초
+normal_330,0,0.7853465,1,raw_window_15,원데이터 1.5초
+normal_343,0,1.4523166,1,raw_window_15,원데이터 1.5초
+normal_355,0,1.5948213,1,raw_window_15,원데이터 1.5초
+normal_358,0,1.7476957,1,raw_window_15,원데이터 1.5초
+normal_369,0,0.39022112,1,raw_window_15,원데이터 1.5초
+normal_376,0,1.2723609,1,raw_window_15,원데이터 1.5초
+normal_379,0,0.52844596,1,raw_window_15,원데이터 1.5초
+normal_381,0,0.9839268,1,raw_window_15,원데이터 1.5초
+normal_401,0,1.5292735,1,raw_window_15,원데이터 1.5초
+normal_413,0,0.18931958,1,raw_window_15,원데이터 1.5초
+normal_420,0,1.533194,1,raw_window_15,원데이터 1.5초
+normal_423,0,1.8723578,1,raw_window_15,원데이터 1.5초
+normal_425,0,0.4142366,1,raw_window_15,원데이터 1.5초
+normal_437,0,0.28700823,1,raw_window_15,원데이터 1.5초
+normal_446,0,1.1262294,1,raw_window_15,원데이터 1.5초
+normal_447,0,0.1875149,1,raw_window_15,원데이터 1.5초
+normal_458,0,0.5564738,1,raw_window_15,원데이터 1.5초
+normal_462,0,0.25743315,1,raw_window_15,원데이터 1.5초
+normal_468,0,1.583093,1,raw_window_15,원데이터 1.5초
+normal_471,0,0.83083916,1,raw_window_15,원데이터 1.5초
+normal_474,0,0.16630048,1,raw_window_15,원데이터 1.5초
+normal_479,0,0.18999828,1,raw_window_15,원데이터 1.5초
+normal_480,0,0.22813685,1,raw_window_15,원데이터 1.5초
+normal_482,0,0.17054135,1,raw_window_15,원데이터 1.5초
+normal_486,0,0.1708885,1,raw_window_15,원데이터 1.5초
+normal_492,0,0.20166852,1,raw_window_15,원데이터 1.5초
+normal_493,0,0.19094832,1,raw_window_15,원데이터 1.5초
+normal_498,0,0.15564683,1,raw_window_15,원데이터 1.5초
+normal_502,0,0.1294301,1,raw_window_15,원데이터 1.5초
+normal_507,0,0.12881854,1,raw_window_15,원데이터 1.5초
+normal_520,0,0.22886823,1,raw_window_15,원데이터 1.5초
+normal_522,0,0.10400061,1,raw_window_15,원데이터 1.5초
+normal_538,0,0.15836965,1,raw_window_15,원데이터 1.5초
+normal_543,0,0.10291016,1,raw_window_15,원데이터 1.5초
+normal_544,0,0.15269794,1,raw_window_15,원데이터 1.5초
+normal_552,0,0.14078586,1,raw_window_15,원데이터 1.5초
+normal_557,0,0.12929608,1,raw_window_15,원데이터 1.5초
+normal_559,0,0.21364318,1,raw_window_15,원데이터 1.5초
+normal_579,0,0.8688116,1,raw_window_15,원데이터 1.5초
+normal_585,0,0.5430648,1,raw_window_15,원데이터 1.5초
+normal_589,0,0.31580454,1,raw_window_15,원데이터 1.5초
+normal_590,0,1.2426919,1,raw_window_15,원데이터 1.5초
+normal_598,0,0.7513713,1,raw_window_15,원데이터 1.5초
+anomaly_2,1,14.214797,1,raw_window_15,원데이터 1.5초
+anomaly_8,1,6.8064218,1,raw_window_15,원데이터 1.5초
+anomaly_9,1,8.173017,1,raw_window_15,원데이터 1.5초
+normal_5,0,0.2697024,1,raw_window_20,원데이터 2.0초
+normal_13,0,1.0004653,1,raw_window_20,원데이터 2.0초
+normal_23,0,0.7527808,1,raw_window_20,원데이터 2.0초
+normal_25,0,1.6689004,1,raw_window_20,원데이터 2.0초
+normal_26,0,0.48442703,1,raw_window_20,원데이터 2.0초
+normal_31,0,1.898375,1,raw_window_20,원데이터 2.0초
+normal_34,0,1.3349084,1,raw_window_20,원데이터 2.0초
+normal_42,0,0.45420122,1,raw_window_20,원데이터 2.0초
+normal_59,0,0.49316996,1,raw_window_20,원데이터 2.0초
+normal_63,0,2.0439541,1,raw_window_20,원데이터 2.0초
+normal_66,0,1.1885978,1,raw_window_20,원데이터 2.0초
+normal_67,0,1.2396771,1,raw_window_20,원데이터 2.0초
+normal_90,0,1.9824346,1,raw_window_20,원데이터 2.0초
+normal_91,0,1.155595,1,raw_window_20,원데이터 2.0초
+normal_101,0,0.5819915,1,raw_window_20,원데이터 2.0초
+normal_105,0,0.27780604,1,raw_window_20,원데이터 2.0초
+normal_113,0,0.33275273,1,raw_window_20,원데이터 2.0초
+normal_114,0,1.7466877,1,raw_window_20,원데이터 2.0초
+normal_135,0,0.2873917,1,raw_window_20,원데이터 2.0초
+normal_145,0,1.2200708,1,raw_window_20,원데이터 2.0초
+normal_146,0,1.5405834,1,raw_window_20,원데이터 2.0초
+normal_153,0,0.4183366,1,raw_window_20,원데이터 2.0초
+normal_154,0,0.7924379,1,raw_window_20,원데이터 2.0초
+normal_166,0,1.4293567,1,raw_window_20,원데이터 2.0초
+normal_182,0,2.1231093,1,raw_window_20,원데이터 2.0초
+normal_194,0,2.0403302,1,raw_window_20,원데이터 2.0초
+normal_204,0,0.6025752,1,raw_window_20,원데이터 2.0초
+normal_210,0,1.4781183,1,raw_window_20,원데이터 2.0초
+normal_218,0,0.9063722,1,raw_window_20,원데이터 2.0초
+normal_231,0,0.36801124,1,raw_window_20,원데이터 2.0초
+normal_234,0,0.31487632,1,raw_window_20,원데이터 2.0초
+normal_242,0,2.0629559,1,raw_window_20,원데이터 2.0초
+normal_254,0,1.3391953,1,raw_window_20,원데이터 2.0초
+normal_267,0,0.44182897,1,raw_window_20,원데이터 2.0초
+normal_275,0,0.370967,1,raw_window_20,원데이터 2.0초
+normal_276,0,0.645681,1,raw_window_20,원데이터 2.0초
+normal_287,0,2.0946636,1,raw_window_20,원데이터 2.0초
+normal_295,0,0.3654728,1,raw_window_20,원데이터 2.0초
+normal_296,0,1.659246,1,raw_window_20,원데이터 2.0초
+normal_300,0,0.26579526,1,raw_window_20,원데이터 2.0초
+normal_307,0,0.29321054,1,raw_window_20,원데이터 2.0초
+normal_308,0,0.81693465,1,raw_window_20,원데이터 2.0초
+normal_317,0,1.4249544,1,raw_window_20,원데이터 2.0초
+normal_319,0,0.30422857,1,raw_window_20,원데이터 2.0초
+normal_325,0,0.69074994,1,raw_window_20,원데이터 2.0초
+normal_326,0,2.0680087,1,raw_window_20,원데이터 2.0초
+normal_329,0,1.5695776,1,raw_window_20,원데이터 2.0초
+normal_330,0,1.1703594,1,raw_window_20,원데이터 2.0초
+normal_343,0,2.1242363,1,raw_window_20,원데이터 2.0초
+normal_355,0,2.2094193,1,raw_window_20,원데이터 2.0초
+normal_358,0,2.2233348,1,raw_window_20,원데이터 2.0초
+normal_369,0,0.486858,1,raw_window_20,원데이터 2.0초
+normal_376,0,1.7386278,1,raw_window_20,원데이터 2.0초
+normal_379,0,0.70770085,1,raw_window_20,원데이터 2.0초
+normal_381,0,1.220145,1,raw_window_20,원데이터 2.0초
+normal_401,0,2.1494498,1,raw_window_20,원데이터 2.0초
+normal_413,0,0.29727992,1,raw_window_20,원데이터 2.0초
+normal_420,0,1.9697448,1,raw_window_20,원데이터 2.0초
+normal_423,0,2.3224106,1,raw_window_20,원데이터 2.0초
+normal_425,0,0.56280875,1,raw_window_20,원데이터 2.0초
+normal_437,0,0.39535713,1,raw_window_20,원데이터 2.0초
+normal_446,0,1.4754677,1,raw_window_20,원데이터 2.0초
+normal_447,0,0.31705078,1,raw_window_20,원데이터 2.0초
+normal_458,0,0.7642212,1,raw_window_20,원데이터 2.0초
+normal_462,0,0.3904242,1,raw_window_20,원데이터 2.0초
+normal_468,0,2.1326168,1,raw_window_20,원데이터 2.0초
+normal_471,0,1.0001105,1,raw_window_20,원데이터 2.0초
+normal_474,0,0.2894522,1,raw_window_20,원데이터 2.0초
+normal_479,0,0.32442456,1,raw_window_20,원데이터 2.0초
+normal_480,0,0.35150236,1,raw_window_20,원데이터 2.0초
+normal_482,0,0.29527196,1,raw_window_20,원데이터 2.0초
+normal_486,0,0.3109169,1,raw_window_20,원데이터 2.0초
+normal_492,0,0.31611824,1,raw_window_20,원데이터 2.0초
+normal_493,0,0.31354925,1,raw_window_20,원데이터 2.0초
+normal_498,0,0.29079795,1,raw_window_20,원데이터 2.0초
+normal_502,0,0.24338387,1,raw_window_20,원데이터 2.0초
+normal_507,0,0.26487103,1,raw_window_20,원데이터 2.0초
+normal_520,0,0.36038336,1,raw_window_20,원데이터 2.0초
+normal_522,0,0.2351951,1,raw_window_20,원데이터 2.0초
+normal_538,0,0.28671622,1,raw_window_20,원데이터 2.0초
+normal_543,0,0.23851712,1,raw_window_20,원데이터 2.0초
+normal_544,0,0.27300626,1,raw_window_20,원데이터 2.0초
+normal_552,0,0.27775997,1,raw_window_20,원데이터 2.0초
+normal_557,0,0.2555228,1,raw_window_20,원데이터 2.0초
+normal_559,0,0.35788554,1,raw_window_20,원데이터 2.0초
+normal_579,0,1.1312718,1,raw_window_20,원데이터 2.0초
+normal_585,0,0.775557,1,raw_window_20,원데이터 2.0초
+normal_589,0,0.4493234,1,raw_window_20,원데이터 2.0초
+normal_590,0,1.920884,1,raw_window_20,원데이터 2.0초
+normal_598,0,1.2128344,1,raw_window_20,원데이터 2.0초
+anomaly_2,1,12.886777,1,raw_window_20,원데이터 2.0초
+anomaly_8,1,7.441199,1,raw_window_20,원데이터 2.0초
+anomaly_9,1,8.896774,1,raw_window_20,원데이터 2.0초
+normal_5,0,0.11203925,1,derived_5,파생 0.5초
+normal_13,0,0.39010465,1,derived_5,파생 0.5초
+normal_23,0,0.31074387,1,derived_5,파생 0.5초
+normal_25,0,0.5433918,1,derived_5,파생 0.5초
+normal_26,0,0.20040032,1,derived_5,파생 0.5초
+normal_31,0,0.5594635,1,derived_5,파생 0.5초
+normal_34,0,0.40278023,1,derived_5,파생 0.5초
+normal_42,0,0.1777221,1,derived_5,파생 0.5초
+normal_59,0,0.21210575,1,derived_5,파생 0.5초
+normal_63,0,0.61299986,1,derived_5,파생 0.5초
+normal_66,0,0.4338143,1,derived_5,파생 0.5초
+normal_67,0,0.3904646,1,derived_5,파생 0.5초
+normal_90,0,0.61390465,1,derived_5,파생 0.5초
+normal_91,0,0.32519633,1,derived_5,파생 0.5초
+normal_101,0,0.24588501,1,derived_5,파생 0.5초
+normal_105,0,0.100125514,1,derived_5,파생 0.5초
+normal_113,0,0.17042425,1,derived_5,파생 0.5초
+normal_114,0,0.49870697,1,derived_5,파생 0.5초
+normal_135,0,0.10492833,1,derived_5,파생 0.5초
+normal_145,0,0.40137634,1,derived_5,파생 0.5초
+normal_146,0,0.51912296,1,derived_5,파생 0.5초
+normal_153,0,0.20939907,1,derived_5,파생 0.5초
+normal_154,0,0.34590954,1,derived_5,파생 0.5초
+normal_166,0,0.490448,1,derived_5,파생 0.5초
+normal_182,0,0.63977104,1,derived_5,파생 0.5초
+normal_194,0,0.8060522,1,derived_5,파생 0.5초
+normal_204,0,0.23807411,1,derived_5,파생 0.5초
+normal_210,0,0.4523205,1,derived_5,파생 0.5초
+normal_218,0,0.33756584,1,derived_5,파생 0.5초
+normal_231,0,0.17756543,1,derived_5,파생 0.5초
+normal_234,0,0.15160693,1,derived_5,파생 0.5초
+normal_242,0,0.6004339,1,derived_5,파생 0.5초
+normal_254,0,0.41692692,1,derived_5,파생 0.5초
+normal_267,0,0.19426128,1,derived_5,파생 0.5초
+normal_275,0,0.15933722,1,derived_5,파생 0.5초
+normal_276,0,0.22258809,1,derived_5,파생 0.5초
+normal_287,0,0.78846216,1,derived_5,파생 0.5초
+normal_295,0,0.14512464,1,derived_5,파생 0.5초
+normal_296,0,0.6179698,1,derived_5,파생 0.5초
+normal_300,0,0.10761385,1,derived_5,파생 0.5초
+normal_307,0,0.11160028,1,derived_5,파생 0.5초
+normal_308,0,0.31050193,1,derived_5,파생 0.5초
+normal_317,0,0.40623528,1,derived_5,파생 0.5초
+normal_319,0,0.10333874,1,derived_5,파생 0.5초
+normal_325,0,0.2491335,1,derived_5,파생 0.5초
+normal_326,0,0.710853,1,derived_5,파생 0.5초
+normal_329,0,0.5269832,1,derived_5,파생 0.5초
+normal_330,0,0.37542707,1,derived_5,파생 0.5초
+normal_343,0,0.8935833,1,derived_5,파생 0.5초
+normal_355,0,0.8201559,1,derived_5,파생 0.5초
+normal_358,0,0.84519017,1,derived_5,파생 0.5초
+normal_369,0,0.35063678,1,derived_5,파생 0.5초
+normal_376,0,0.603241,1,derived_5,파생 0.5초
+normal_379,0,0.32744712,1,derived_5,파생 0.5초
+normal_381,0,0.52137244,1,derived_5,파생 0.5초
+normal_401,0,0.8732606,1,derived_5,파생 0.5초
+normal_413,0,0.13561177,1,derived_5,파생 0.5초
+normal_420,0,0.6391574,1,derived_5,파생 0.5초
+normal_423,0,1.2544588,1,derived_5,파생 0.5초
+normal_425,0,0.21293008,1,derived_5,파생 0.5초
+normal_437,0,0.19754328,1,derived_5,파생 0.5초
+normal_446,0,0.7475366,1,derived_5,파생 0.5초
+normal_447,0,0.12578353,1,derived_5,파생 0.5초
+normal_458,0,0.2637698,1,derived_5,파생 0.5초
+normal_462,0,0.17572372,1,derived_5,파생 0.5초
+normal_468,0,0.6986616,1,derived_5,파생 0.5초
+normal_471,0,0.36439437,1,derived_5,파생 0.5초
+normal_474,0,0.124009445,1,derived_5,파생 0.5초
+normal_479,0,0.10597291,1,derived_5,파생 0.5초
+normal_480,0,0.11325379,1,derived_5,파생 0.5초
+normal_482,0,0.11094022,1,derived_5,파생 0.5초
+normal_486,0,0.109585784,1,derived_5,파생 0.5초
+normal_492,0,0.12684144,1,derived_5,파생 0.5초
+normal_493,0,0.09825565,1,derived_5,파생 0.5초
+normal_498,0,0.09477184,1,derived_5,파생 0.5초
+normal_502,0,0.09866755,1,derived_5,파생 0.5초
+normal_507,0,0.07888233,1,derived_5,파생 0.5초
+normal_520,0,0.12575457,1,derived_5,파생 0.5초
+normal_522,0,0.08657622,1,derived_5,파생 0.5초
+normal_538,0,0.09819509,1,derived_5,파생 0.5초
+normal_543,0,0.07008075,1,derived_5,파생 0.5초
+normal_544,0,0.092219375,1,derived_5,파생 0.5초
+normal_552,0,0.09315109,1,derived_5,파생 0.5초
+normal_557,0,0.079944365,1,derived_5,파생 0.5초
+normal_559,0,0.106462374,1,derived_5,파생 0.5초
+normal_579,0,0.4446257,1,derived_5,파생 0.5초
+normal_585,0,0.277665,1,derived_5,파생 0.5초
+normal_589,0,0.17533465,1,derived_5,파생 0.5초
+normal_590,0,0.67933947,1,derived_5,파생 0.5초
+normal_598,0,0.34093672,1,derived_5,파생 0.5초
+anomaly_2,1,16.558613,1,derived_5,파생 0.5초
+anomaly_8,1,11.365614,1,derived_5,파생 0.5초
+anomaly_9,1,11.805823,1,derived_5,파생 0.5초
+normal_5,0,0.22314212,1,derived_10,파생 1.0초
+normal_13,0,0.76973695,1,derived_10,파생 1.0초
+normal_23,0,0.5327344,1,derived_10,파생 1.0초
+normal_25,0,1.1968836,1,derived_10,파생 1.0초
+normal_26,0,0.33124155,1,derived_10,파생 1.0초
+normal_31,0,1.2692826,1,derived_10,파생 1.0초
+normal_34,0,0.89794266,1,derived_10,파생 1.0초
+normal_42,0,0.31050822,1,derived_10,파생 1.0초
+normal_59,0,0.36678302,1,derived_10,파생 1.0초
+normal_63,0,1.4134862,1,derived_10,파생 1.0초
+normal_66,0,0.8628593,1,derived_10,파생 1.0초
+normal_67,0,0.93210644,1,derived_10,파생 1.0초
+normal_90,0,1.3252133,1,derived_10,파생 1.0초
+normal_91,0,0.72923297,1,derived_10,파생 1.0초
+normal_101,0,0.50087315,1,derived_10,파생 1.0초
+normal_105,0,0.22876506,1,derived_10,파생 1.0초
+normal_113,0,0.28468147,1,derived_10,파생 1.0초
+normal_114,0,1.0319409,1,derived_10,파생 1.0초
+normal_135,0,0.22324397,1,derived_10,파생 1.0초
+normal_145,0,0.90196323,1,derived_10,파생 1.0초
+normal_146,0,1.0995502,1,derived_10,파생 1.0초
+normal_153,0,0.37518522,1,derived_10,파생 1.0초
+normal_154,0,0.5612297,1,derived_10,파생 1.0초
+normal_166,0,1.1003014,1,derived_10,파생 1.0초
+normal_182,0,1.4896318,1,derived_10,파생 1.0초
+normal_194,0,1.3319544,1,derived_10,파생 1.0초
+normal_204,0,0.5299149,1,derived_10,파생 1.0초
+normal_210,0,0.9085635,1,derived_10,파생 1.0초
+normal_218,0,0.5376394,1,derived_10,파생 1.0초
+normal_231,0,0.37708905,1,derived_10,파생 1.0초
+normal_234,0,0.31376997,1,derived_10,파생 1.0초
+normal_242,0,1.4889852,1,derived_10,파생 1.0초
+normal_254,0,0.93432945,1,derived_10,파생 1.0초
+normal_267,0,0.36078766,1,derived_10,파생 1.0초
+normal_275,0,0.3084458,1,derived_10,파생 1.0초
+normal_276,0,0.4946676,1,derived_10,파생 1.0초
+normal_287,0,1.4964328,1,derived_10,파생 1.0초
+normal_295,0,0.31866336,1,derived_10,파생 1.0초
+normal_296,0,1.1157919,1,derived_10,파생 1.0초
+normal_300,0,0.20305663,1,derived_10,파생 1.0초
+normal_307,0,0.258441,1,derived_10,파생 1.0초
+normal_308,0,0.57297945,1,derived_10,파생 1.0초
+normal_317,0,0.9890265,1,derived_10,파생 1.0초
+normal_319,0,0.253087,1,derived_10,파생 1.0초
+normal_325,0,0.51264,1,derived_10,파생 1.0초
+normal_326,0,1.4741424,1,derived_10,파생 1.0초
+normal_329,0,1.0958862,1,derived_10,파생 1.0초
+normal_330,0,0.7989906,1,derived_10,파생 1.0초
+normal_343,0,1.5826628,1,derived_10,파생 1.0초
+normal_355,0,1.3524022,1,derived_10,파생 1.0초
+normal_358,0,1.4042829,1,derived_10,파생 1.0초
+normal_369,0,0.6734645,1,derived_10,파생 1.0초
+normal_376,0,1.0718971,1,derived_10,파생 1.0초
+normal_379,0,0.50648856,1,derived_10,파생 1.0초
+normal_381,0,0.8249301,1,derived_10,파생 1.0초
+normal_401,0,1.5407906,1,derived_10,파생 1.0초
+normal_413,0,0.264221,1,derived_10,파생 1.0초
+normal_420,0,1.4302472,1,derived_10,파생 1.0초
+normal_423,0,1.9580797,1,derived_10,파생 1.0초
+normal_425,0,0.39166027,1,derived_10,파생 1.0초
+normal_437,0,0.39539215,1,derived_10,파생 1.0초
+normal_446,0,1.1598395,1,derived_10,파생 1.0초
+normal_447,0,0.25604883,1,derived_10,파생 1.0초
+normal_458,0,0.5186512,1,derived_10,파생 1.0초
+normal_462,0,0.3148147,1,derived_10,파생 1.0초
+normal_468,0,1.5349907,1,derived_10,파생 1.0초
+normal_471,0,0.5894568,1,derived_10,파생 1.0초
+normal_474,0,0.22201684,1,derived_10,파생 1.0초
+normal_479,0,0.21863121,1,derived_10,파생 1.0초
+normal_480,0,0.25602332,1,derived_10,파생 1.0초
+normal_482,0,0.2012182,1,derived_10,파생 1.0초
+normal_486,0,0.21211407,1,derived_10,파생 1.0초
+normal_492,0,0.2711946,1,derived_10,파생 1.0초
+normal_493,0,0.2490513,1,derived_10,파생 1.0초
+normal_498,0,0.21734545,1,derived_10,파생 1.0초
+normal_502,0,0.18729572,1,derived_10,파생 1.0초
+normal_507,0,0.17859931,1,derived_10,파생 1.0초
+normal_520,0,0.23064047,1,derived_10,파생 1.0초
+normal_522,0,0.16465198,1,derived_10,파생 1.0초
+normal_538,0,0.21875995,1,derived_10,파생 1.0초
+normal_543,0,0.16444026,1,derived_10,파생 1.0초
+normal_544,0,0.19760187,1,derived_10,파생 1.0초
+normal_552,0,0.19919908,1,derived_10,파생 1.0초
+normal_557,0,0.19237652,1,derived_10,파생 1.0초
+normal_559,0,0.23176691,1,derived_10,파생 1.0초
+normal_579,0,0.88889986,1,derived_10,파생 1.0초
+normal_585,0,0.5471131,1,derived_10,파생 1.0초
+normal_589,0,0.29457015,1,derived_10,파생 1.0초
+normal_590,0,1.2367029,1,derived_10,파생 1.0초
+normal_598,0,0.8316047,1,derived_10,파생 1.0초
+anomaly_2,1,21.679688,1,derived_10,파생 1.0초
+anomaly_8,1,14.34562,1,derived_10,파생 1.0초
+anomaly_9,1,12.990421,1,derived_10,파생 1.0초
+normal_5,0,0.24850442,1,derived_15,파생 1.5초
+normal_13,0,0.942766,1,derived_15,파생 1.5초
+normal_23,0,0.5964513,1,derived_15,파생 1.5초
+normal_25,0,1.1612569,1,derived_15,파생 1.5초
+normal_26,0,0.33441058,1,derived_15,파생 1.5초
+normal_31,0,1.2351967,1,derived_15,파생 1.5초
+normal_34,0,0.9873748,1,derived_15,파생 1.5초
+normal_42,0,0.35551044,1,derived_15,파생 1.5초
+normal_59,0,0.4711949,1,derived_15,파생 1.5초
+normal_63,0,1.4465312,1,derived_15,파생 1.5초
+normal_66,0,0.9702575,1,derived_15,파생 1.5초
+normal_67,0,0.9840829,1,derived_15,파생 1.5초
+normal_90,0,1.5703214,1,derived_15,파생 1.5초
+normal_91,0,0.9285987,1,derived_15,파생 1.5초
+normal_101,0,0.5018241,1,derived_15,파생 1.5초
+normal_105,0,0.23602572,1,derived_15,파생 1.5초
+normal_113,0,0.28338316,1,derived_15,파생 1.5초
+normal_114,0,1.2151445,1,derived_15,파생 1.5초
+normal_135,0,0.24386716,1,derived_15,파생 1.5초
+normal_145,0,0.9658062,1,derived_15,파생 1.5초
+normal_146,0,1.1828815,1,derived_15,파생 1.5초
+normal_153,0,0.36575353,1,derived_15,파생 1.5초
+normal_154,0,0.47440204,1,derived_15,파생 1.5초
+normal_166,0,1.0429964,1,derived_15,파생 1.5초
+normal_182,0,1.4129268,1,derived_15,파생 1.5초
+normal_194,0,1.6231413,1,derived_15,파생 1.5초
+normal_204,0,0.58713955,1,derived_15,파생 1.5초
+normal_210,0,1.0803319,1,derived_15,파생 1.5초
+normal_218,0,0.59063315,1,derived_15,파생 1.5초
+normal_231,0,0.37309322,1,derived_15,파생 1.5초
+normal_234,0,0.37736717,1,derived_15,파생 1.5초
+normal_242,0,1.5792538,1,derived_15,파생 1.5초
+normal_254,0,1.0057117,1,derived_15,파생 1.5초
+normal_267,0,0.3931489,1,derived_15,파생 1.5초
+normal_275,0,0.33456495,1,derived_15,파생 1.5초
+normal_276,0,0.52163297,1,derived_15,파생 1.5초
+normal_287,0,1.6221334,1,derived_15,파생 1.5초
+normal_295,0,0.3185771,1,derived_15,파생 1.5초
+normal_296,0,1.3031672,1,derived_15,파생 1.5초
+normal_300,0,0.25160262,1,derived_15,파생 1.5초
+normal_307,0,0.286843,1,derived_15,파생 1.5초
+normal_308,0,0.67585534,1,derived_15,파생 1.5초
+normal_317,0,1.0193287,1,derived_15,파생 1.5초
+normal_319,0,0.27798444,1,derived_15,파생 1.5초
+normal_325,0,0.46660566,1,derived_15,파생 1.5초
+normal_326,0,1.7307856,1,derived_15,파생 1.5초
+normal_329,0,1.3621763,1,derived_15,파생 1.5초
+normal_330,0,0.83012414,1,derived_15,파생 1.5초
+normal_343,0,1.6533676,1,derived_15,파생 1.5초
+normal_355,0,1.6532364,1,derived_15,파생 1.5초
+normal_358,0,1.4579206,1,derived_15,파생 1.5초
+normal_369,0,0.57457024,1,derived_15,파생 1.5초
+normal_376,0,1.1472406,1,derived_15,파생 1.5초
+normal_379,0,0.60147685,1,derived_15,파생 1.5초
+normal_381,0,0.8487621,1,derived_15,파생 1.5초
+normal_401,0,1.4362427,1,derived_15,파생 1.5초
+normal_413,0,0.2925753,1,derived_15,파생 1.5초
+normal_420,0,1.617356,1,derived_15,파생 1.5초
+normal_423,0,1.9941463,1,derived_15,파생 1.5초
+normal_425,0,0.4019776,1,derived_15,파생 1.5초
+normal_437,0,0.5049352,1,derived_15,파생 1.5초
+normal_446,0,1.4649092,1,derived_15,파생 1.5초
+normal_447,0,0.27614737,1,derived_15,파생 1.5초
+normal_458,0,0.5698553,1,derived_15,파생 1.5초
+normal_462,0,0.33363435,1,derived_15,파생 1.5초
+normal_468,0,1.6850863,1,derived_15,파생 1.5초
+normal_471,0,0.540996,1,derived_15,파생 1.5초
+normal_474,0,0.23162216,1,derived_15,파생 1.5초
+normal_479,0,0.2368012,1,derived_15,파생 1.5초
+normal_480,0,0.2719027,1,derived_15,파생 1.5초
+normal_482,0,0.23122744,1,derived_15,파생 1.5초
+normal_486,0,0.22223218,1,derived_15,파생 1.5초
+normal_492,0,0.28543398,1,derived_15,파생 1.5초
+normal_493,0,0.24326389,1,derived_15,파생 1.5초
+normal_498,0,0.21267359,1,derived_15,파생 1.5초
+normal_502,0,0.22881182,1,derived_15,파생 1.5초
+normal_507,0,0.19271383,1,derived_15,파생 1.5초
+normal_520,0,0.28404626,1,derived_15,파생 1.5초
+normal_522,0,0.20213112,1,derived_15,파생 1.5초
+normal_538,0,0.22035505,1,derived_15,파생 1.5초
+normal_543,0,0.1872105,1,derived_15,파생 1.5초
+normal_544,0,0.20794396,1,derived_15,파생 1.5초
+normal_552,0,0.22380318,1,derived_15,파생 1.5초
+normal_557,0,0.21238285,1,derived_15,파생 1.5초
+normal_559,0,0.22613648,1,derived_15,파생 1.5초
+normal_579,0,0.813154,1,derived_15,파생 1.5초
+normal_585,0,0.53806627,1,derived_15,파생 1.5초
+normal_589,0,0.287213,1,derived_15,파생 1.5초
+normal_590,0,1.332062,1,derived_15,파생 1.5초
+normal_598,0,0.9475546,1,derived_15,파생 1.5초
+anomaly_2,1,27.647474,1,derived_15,파생 1.5초
+anomaly_8,1,11.706975,1,derived_15,파생 1.5초
+anomaly_9,1,13.699435,1,derived_15,파생 1.5초
+normal_5,0,0.25306216,1,derived_20,파생 2.0초
+normal_13,0,0.9370815,1,derived_20,파생 2.0초
+normal_23,0,0.5794219,1,derived_20,파생 2.0초
+normal_25,0,1.1748399,1,derived_20,파생 2.0초
+normal_26,0,0.35785633,1,derived_20,파생 2.0초
+normal_31,0,1.2490554,1,derived_20,파생 2.0초
+normal_34,0,1.01375,1,derived_20,파생 2.0초
+normal_42,0,0.3841114,1,derived_20,파생 2.0초
+normal_59,0,0.4202759,1,derived_20,파생 2.0초
+normal_63,0,1.4673167,1,derived_20,파생 2.0초
+normal_66,0,0.96972394,1,derived_20,파생 2.0초
+normal_67,0,1.0575547,1,derived_20,파생 2.0초
+normal_90,0,1.5255542,1,derived_20,파생 2.0초
+normal_91,0,0.8562499,1,derived_20,파생 2.0초
+normal_101,0,0.5381304,1,derived_20,파생 2.0초
+normal_105,0,0.25109807,1,derived_20,파생 2.0초
+normal_113,0,0.32610804,1,derived_20,파생 2.0초
+normal_114,0,1.0852323,1,derived_20,파생 2.0초
+normal_135,0,0.28526223,1,derived_20,파생 2.0초
+normal_145,0,0.93232405,1,derived_20,파생 2.0초
+normal_146,0,1.1350594,1,derived_20,파생 2.0초
+normal_153,0,0.4018707,1,derived_20,파생 2.0초
+normal_154,0,0.57174355,1,derived_20,파생 2.0초
+normal_166,0,1.130846,1,derived_20,파생 2.0초
+normal_182,0,1.5125184,1,derived_20,파생 2.0초
+normal_194,0,1.5255799,1,derived_20,파생 2.0초
+normal_204,0,0.56444895,1,derived_20,파생 2.0초
+normal_210,0,1.0335175,1,derived_20,파생 2.0초
+normal_218,0,0.5874178,1,derived_20,파생 2.0초
+normal_231,0,0.3800156,1,derived_20,파생 2.0초
+normal_234,0,0.39773172,1,derived_20,파생 2.0초
+normal_242,0,1.491018,1,derived_20,파생 2.0초
+normal_254,0,1.0914737,1,derived_20,파생 2.0초
+normal_267,0,0.41153112,1,derived_20,파생 2.0초
+normal_275,0,0.35701913,1,derived_20,파생 2.0초
+normal_276,0,0.5647983,1,derived_20,파생 2.0초
+normal_287,0,1.7107952,1,derived_20,파생 2.0초
+normal_295,0,0.34702215,1,derived_20,파생 2.0초
+normal_296,0,1.3041891,1,derived_20,파생 2.0초
+normal_300,0,0.2700283,1,derived_20,파생 2.0초
+normal_307,0,0.30699572,1,derived_20,파생 2.0초
+normal_308,0,0.6555946,1,derived_20,파생 2.0초
+normal_317,0,1.0350754,1,derived_20,파생 2.0초
+normal_319,0,0.3050463,1,derived_20,파생 2.0초
+normal_325,0,0.5202495,1,derived_20,파생 2.0초
+normal_326,0,1.6261659,1,derived_20,파생 2.0초
+normal_329,0,1.1833134,1,derived_20,파생 2.0초
+normal_330,0,0.9772405,1,derived_20,파생 2.0초
+normal_343,0,1.7527392,1,derived_20,파생 2.0초
+normal_355,0,1.5060266,1,derived_20,파생 2.0초
+normal_358,0,1.5134863,1,derived_20,파생 2.0초
+normal_369,0,0.6630137,1,derived_20,파생 2.0초
+normal_376,0,1.2712891,1,derived_20,파생 2.0초
+normal_379,0,0.5083616,1,derived_20,파생 2.0초
+normal_381,0,0.90925825,1,derived_20,파생 2.0초
+normal_401,0,1.678963,1,derived_20,파생 2.0초
+normal_413,0,0.30076528,1,derived_20,파생 2.0초
+normal_420,0,1.488783,1,derived_20,파생 2.0초
+normal_423,0,1.958264,1,derived_20,파생 2.0초
+normal_425,0,0.42474344,1,derived_20,파생 2.0초
+normal_437,0,0.43706828,1,derived_20,파생 2.0초
+normal_446,0,1.3356996,1,derived_20,파생 2.0초
+normal_447,0,0.2874461,1,derived_20,파생 2.0초
+normal_458,0,0.5996698,1,derived_20,파생 2.0초
+normal_462,0,0.3428108,1,derived_20,파생 2.0초
+normal_468,0,1.7540214,1,derived_20,파생 2.0초
+normal_471,0,0.5362797,1,derived_20,파생 2.0초
+normal_474,0,0.24226806,1,derived_20,파생 2.0초
+normal_479,0,0.25338006,1,derived_20,파생 2.0초
+normal_480,0,0.2682834,1,derived_20,파생 2.0초
+normal_482,0,0.23868719,1,derived_20,파생 2.0초
+normal_486,0,0.24337593,1,derived_20,파생 2.0초
+normal_492,0,0.29315686,1,derived_20,파생 2.0초
+normal_493,0,0.2600105,1,derived_20,파생 2.0초
+normal_498,0,0.22283436,1,derived_20,파생 2.0초
+normal_502,0,0.23986533,1,derived_20,파생 2.0초
+normal_507,0,0.1959995,1,derived_20,파생 2.0초
+normal_520,0,0.26778564,1,derived_20,파생 2.0초
+normal_522,0,0.21334709,1,derived_20,파생 2.0초
+normal_538,0,0.24166036,1,derived_20,파생 2.0초
+normal_543,0,0.19551009,1,derived_20,파생 2.0초
+normal_544,0,0.23236664,1,derived_20,파생 2.0초
+normal_552,0,0.23495473,1,derived_20,파생 2.0초
+normal_557,0,0.22069949,1,derived_20,파생 2.0초
+normal_559,0,0.26797938,1,derived_20,파생 2.0초
+normal_579,0,0.912292,1,derived_20,파생 2.0초
+normal_585,0,0.6683383,1,derived_20,파생 2.0초
+normal_589,0,0.31228396,1,derived_20,파생 2.0초
+normal_590,0,1.485941,1,derived_20,파생 2.0초
+normal_598,0,0.9811932,1,derived_20,파생 2.0초
+anomaly_2,1,29.111399,1,derived_20,파생 2.0초
+anomaly_8,1,14.734233,1,derived_20,파생 2.0초
+anomaly_9,1,15.252014,1,derived_20,파생 2.0초
+normal_7,0,0.003243453,2,raw_single,단일시점
+normal_18,0,0.002278599,2,raw_single,단일시점
+normal_25,0,0.010857083,2,raw_single,단일시점
+normal_28,0,0.0016037183,2,raw_single,단일시점
+normal_34,0,0.017080197,2,raw_single,단일시점
+normal_45,0,0.0030903644,2,raw_single,단일시점
+normal_49,0,0.0013610974,2,raw_single,단일시점
+normal_52,0,0.0014351684,2,raw_single,단일시점
+normal_54,0,0.011924199,2,raw_single,단일시점
+normal_58,0,0.00227789,2,raw_single,단일시점
+normal_61,0,0.008753521,2,raw_single,단일시점
+normal_65,0,0.0020976707,2,raw_single,단일시점
+normal_69,0,0.0058195814,2,raw_single,단일시점
+normal_88,0,0.029036975,2,raw_single,단일시점
+normal_91,0,0.010731059,2,raw_single,단일시점
+normal_102,0,0.027561616,2,raw_single,단일시점
+normal_109,0,0.02073011,2,raw_single,단일시점
+normal_113,0,0.0029205447,2,raw_single,단일시점
+normal_116,0,0.0012913586,2,raw_single,단일시점
+normal_120,0,0.0052224603,2,raw_single,단일시점
+normal_121,0,0.0018367975,2,raw_single,단일시점
+normal_130,0,0.0020581763,2,raw_single,단일시점
+normal_132,0,0.0019634697,2,raw_single,단일시점
+normal_138,0,0.003435649,2,raw_single,단일시점
+normal_145,0,0.0040832106,2,raw_single,단일시점
+normal_165,0,0.0015665035,2,raw_single,단일시점
+normal_167,0,0.0036977027,2,raw_single,단일시점
+normal_170,0,0.0015893735,2,raw_single,단일시점
+normal_176,0,0.004104706,2,raw_single,단일시점
+normal_180,0,0.0026722138,2,raw_single,단일시점
+normal_184,0,0.0014265478,2,raw_single,단일시점
+normal_188,0,0.0014397623,2,raw_single,단일시점
+normal_195,0,0.003897552,2,raw_single,단일시점
+normal_201,0,0.0014130719,2,raw_single,단일시점
+normal_202,0,0.007286103,2,raw_single,단일시점
+normal_204,0,0.0031853043,2,raw_single,단일시점
+normal_207,0,0.003568333,2,raw_single,단일시점
+normal_222,0,0.019343292,2,raw_single,단일시점
+normal_223,0,0.002602891,2,raw_single,단일시점
+normal_225,0,0.02177709,2,raw_single,단일시점
+normal_228,0,0.0070499377,2,raw_single,단일시점
+normal_234,0,0.0027438554,2,raw_single,단일시점
+normal_242,0,0.01800107,2,raw_single,단일시점
+normal_260,0,0.01527074,2,raw_single,단일시점
+normal_268,0,0.0040789642,2,raw_single,단일시점
+normal_271,0,0.015447624,2,raw_single,단일시점
+normal_275,0,0.0027589218,2,raw_single,단일시점
+normal_278,0,0.0021289983,2,raw_single,단일시점
+normal_286,0,0.0034922617,2,raw_single,단일시점
+normal_302,0,0.058431875,2,raw_single,단일시점
+normal_305,0,0.0018998347,2,raw_single,단일시점
+normal_307,0,0.0023432993,2,raw_single,단일시점
+normal_319,0,0.0018352617,2,raw_single,단일시점
+normal_324,0,0.002301555,2,raw_single,단일시점
+normal_329,0,0.0074918745,2,raw_single,단일시점
+normal_338,0,0.0014562339,2,raw_single,단일시점
+normal_339,0,0.0031183362,2,raw_single,단일시점
+normal_341,0,0.0070067695,2,raw_single,단일시점
+normal_343,0,0.018073438,2,raw_single,단일시점
+normal_345,0,0.0022360398,2,raw_single,단일시점
+normal_354,0,0.0014129791,2,raw_single,단일시점
+normal_363,0,0.0043593207,2,raw_single,단일시점
+normal_367,0,0.017586697,2,raw_single,단일시점
+normal_368,0,0.011532905,2,raw_single,단일시점
+normal_373,0,0.0045039738,2,raw_single,단일시점
+normal_378,0,0.0018202541,2,raw_single,단일시점
+normal_381,0,0.028749749,2,raw_single,단일시점
+normal_385,0,0.001515466,2,raw_single,단일시점
+normal_390,0,0.020818291,2,raw_single,단일시점
+normal_392,0,0.0023787771,2,raw_single,단일시점
+normal_403,0,0.002110341,2,raw_single,단일시점
+normal_426,0,0.060512703,2,raw_single,단일시점
+normal_429,0,0.0035227197,2,raw_single,단일시점
+normal_432,0,0.001367882,2,raw_single,단일시점
+normal_439,0,0.004730364,2,raw_single,단일시점
+normal_458,0,0.003513401,2,raw_single,단일시점
+normal_461,0,0.021872392,2,raw_single,단일시점
+normal_467,0,0.0023304657,2,raw_single,단일시점
+normal_469,0,0.002845734,2,raw_single,단일시점
+normal_470,0,0.02871688,2,raw_single,단일시점
+normal_478,0,0.002646317,2,raw_single,단일시점
+normal_483,0,0.0017937254,2,raw_single,단일시점
+normal_489,0,0.0015942047,2,raw_single,단일시점
+normal_510,0,0.0014172788,2,raw_single,단일시점
+normal_511,0,0.0013617764,2,raw_single,단일시점
+normal_513,0,0.001909237,2,raw_single,단일시점
+normal_545,0,0.0019243944,2,raw_single,단일시점
+normal_565,0,0.0055453046,2,raw_single,단일시점
+normal_584,0,0.012277127,2,raw_single,단일시점
+normal_598,0,0.005884881,2,raw_single,단일시점
+anomaly_16,1,4.226843,2,raw_single,단일시점
+anomaly_18,1,6.228802,2,raw_single,단일시점
+anomaly_19,1,28.734325,2,raw_single,단일시점
+normal_7,0,0.48809442,2,raw_window_5,원데이터 0.5초
+normal_18,0,0.24493936,2,raw_window_5,원데이터 0.5초
+normal_25,0,0.59479153,2,raw_window_5,원데이터 0.5초
+normal_28,0,0.35375044,2,raw_window_5,원데이터 0.5초
+normal_34,0,0.68364584,2,raw_window_5,원데이터 0.5초
+normal_45,0,0.43287688,2,raw_window_5,원데이터 0.5초
+normal_49,0,0.17058106,2,raw_window_5,원데이터 0.5초
+normal_52,0,0.25933155,2,raw_window_5,원데이터 0.5초
+normal_54,0,0.5941219,2,raw_window_5,원데이터 0.5초
+normal_58,0,0.46876445,2,raw_window_5,원데이터 0.5초
+normal_61,0,0.7227747,2,raw_window_5,원데이터 0.5초
+normal_65,0,0.5373885,2,raw_window_5,원데이터 0.5초
+normal_69,0,0.7678204,2,raw_window_5,원데이터 0.5초
+normal_88,0,0.9690722,2,raw_window_5,원데이터 0.5초
+normal_91,0,0.61479384,2,raw_window_5,원데이터 0.5초
+normal_102,0,0.7782016,2,raw_window_5,원데이터 0.5초
+normal_109,0,0.83110464,2,raw_window_5,원데이터 0.5초
+normal_113,0,0.31405818,2,raw_window_5,원데이터 0.5초
+normal_116,0,0.15669973,2,raw_window_5,원데이터 0.5초
+normal_120,0,0.6139841,2,raw_window_5,원데이터 0.5초
+normal_121,0,0.17540616,2,raw_window_5,원데이터 0.5초
+normal_130,0,0.45663288,2,raw_window_5,원데이터 0.5초
+normal_132,0,0.112197876,2,raw_window_5,원데이터 0.5초
+normal_138,0,0.43439832,2,raw_window_5,원데이터 0.5초
+normal_145,0,0.62196434,2,raw_window_5,원데이터 0.5초
+normal_165,0,0.41474667,2,raw_window_5,원데이터 0.5초
+normal_167,0,0.6642943,2,raw_window_5,원데이터 0.5초
+normal_170,0,0.4882864,2,raw_window_5,원데이터 0.5초
+normal_176,0,0.5378688,2,raw_window_5,원데이터 0.5초
+normal_180,0,0.79808575,2,raw_window_5,원데이터 0.5초
+normal_184,0,0.21425772,2,raw_window_5,원데이터 0.5초
+normal_188,0,0.27796432,2,raw_window_5,원데이터 0.5초
+normal_195,0,0.4173287,2,raw_window_5,원데이터 0.5초
+normal_201,0,0.1364846,2,raw_window_5,원데이터 0.5초
+normal_202,0,0.8283745,2,raw_window_5,원데이터 0.5초
+normal_204,0,0.44597587,2,raw_window_5,원데이터 0.5초
+normal_207,0,0.39880282,2,raw_window_5,원데이터 0.5초
+normal_222,0,0.8268582,2,raw_window_5,원데이터 0.5초
+normal_223,0,0.64323735,2,raw_window_5,원데이터 0.5초
+normal_225,0,0.69773865,2,raw_window_5,원데이터 0.5초
+normal_228,0,0.7903468,2,raw_window_5,원데이터 0.5초
+normal_234,0,0.19864272,2,raw_window_5,원데이터 0.5초
+normal_242,0,0.74321616,2,raw_window_5,원데이터 0.5초
+normal_260,0,0.78395003,2,raw_window_5,원데이터 0.5초
+normal_268,0,0.60262734,2,raw_window_5,원데이터 0.5초
+normal_271,0,0.8135208,2,raw_window_5,원데이터 0.5초
+normal_275,0,0.23486629,2,raw_window_5,원데이터 0.5초
+normal_278,0,0.2983538,2,raw_window_5,원데이터 0.5초
+normal_286,0,0.5989124,2,raw_window_5,원데이터 0.5초
+normal_302,0,1.2583909,2,raw_window_5,원데이터 0.5초
+normal_305,0,0.29001907,2,raw_window_5,원데이터 0.5초
+normal_307,0,0.15736258,2,raw_window_5,원데이터 0.5초
+normal_319,0,0.15946886,2,raw_window_5,원데이터 0.5초
+normal_324,0,0.32110468,2,raw_window_5,원데이터 0.5초
+normal_329,0,0.79399467,2,raw_window_5,원데이터 0.5초
+normal_338,0,0.1717704,2,raw_window_5,원데이터 0.5초
+normal_339,0,0.45939985,2,raw_window_5,원데이터 0.5초
+normal_341,0,0.63453054,2,raw_window_5,원데이터 0.5초
+normal_343,0,0.85557574,2,raw_window_5,원데이터 0.5초
+normal_345,0,0.19269693,2,raw_window_5,원데이터 0.5초
+normal_354,0,0.473522,2,raw_window_5,원데이터 0.5초
+normal_363,0,0.66728795,2,raw_window_5,원데이터 0.5초
+normal_367,0,1.0061762,2,raw_window_5,원데이터 0.5초
+normal_368,0,0.6057826,2,raw_window_5,원데이터 0.5초
+normal_373,0,0.63729644,2,raw_window_5,원데이터 0.5초
+normal_378,0,0.18535104,2,raw_window_5,원데이터 0.5초
+normal_381,0,0.9115492,2,raw_window_5,원데이터 0.5초
+normal_385,0,0.51761067,2,raw_window_5,원데이터 0.5초
+normal_390,0,0.92736876,2,raw_window_5,원데이터 0.5초
+normal_392,0,0.15896463,2,raw_window_5,원데이터 0.5초
+normal_403,0,0.2322226,2,raw_window_5,원데이터 0.5초
+normal_426,0,0.8566364,2,raw_window_5,원데이터 0.5초
+normal_429,0,0.56257355,2,raw_window_5,원데이터 0.5초
+normal_432,0,0.20140222,2,raw_window_5,원데이터 0.5초
+normal_439,0,0.589172,2,raw_window_5,원데이터 0.5초
+normal_458,0,0.51390254,2,raw_window_5,원데이터 0.5초
+normal_461,0,1.4770579,2,raw_window_5,원데이터 0.5초
+normal_467,0,0.2678373,2,raw_window_5,원데이터 0.5초
+normal_469,0,0.6488601,2,raw_window_5,원데이터 0.5초
+normal_470,0,0.9952507,2,raw_window_5,원데이터 0.5초
+normal_478,0,0.19136503,2,raw_window_5,원데이터 0.5초
+normal_483,0,0.120211124,2,raw_window_5,원데이터 0.5초
+normal_489,0,0.11906655,2,raw_window_5,원데이터 0.5초
+normal_510,0,0.19555767,2,raw_window_5,원데이터 0.5초
+normal_511,0,0.25277415,2,raw_window_5,원데이터 0.5초
+normal_513,0,0.20811577,2,raw_window_5,원데이터 0.5초
+normal_545,0,0.17529796,2,raw_window_5,원데이터 0.5초
+normal_565,0,0.51310253,2,raw_window_5,원데이터 0.5초
+normal_584,0,0.79747593,2,raw_window_5,원데이터 0.5초
+normal_598,0,0.51538384,2,raw_window_5,원데이터 0.5초
+anomaly_16,1,8.286276,2,raw_window_5,원데이터 0.5초
+anomaly_18,1,11.173413,2,raw_window_5,원데이터 0.5초
+anomaly_19,1,24.718557,2,raw_window_5,원데이터 0.5초
+normal_7,0,0.2988866,2,raw_window_10,원데이터 1.0초
+normal_18,0,0.23029256,2,raw_window_10,원데이터 1.0초
+normal_25,0,1.1214334,2,raw_window_10,원데이터 1.0초
+normal_28,0,0.35510758,2,raw_window_10,원데이터 1.0초
+normal_34,0,0.9214998,2,raw_window_10,원데이터 1.0초
+normal_45,0,0.5751963,2,raw_window_10,원데이터 1.0초
+normal_49,0,0.14214484,2,raw_window_10,원데이터 1.0초
+normal_52,0,0.20696233,2,raw_window_10,원데이터 1.0초
+normal_54,0,1.0851765,2,raw_window_10,원데이터 1.0초
+normal_58,0,0.44091588,2,raw_window_10,원데이터 1.0초
+normal_61,0,0.79717726,2,raw_window_10,원데이터 1.0초
+normal_65,0,0.40954334,2,raw_window_10,원데이터 1.0초
+normal_69,0,1.0715947,2,raw_window_10,원데이터 1.0초
+normal_88,0,1.2659376,2,raw_window_10,원데이터 1.0초
+normal_91,0,0.8559967,2,raw_window_10,원데이터 1.0초
+normal_102,0,1.1955721,2,raw_window_10,원데이터 1.0초
+normal_109,0,1.6548247,2,raw_window_10,원데이터 1.0초
+normal_113,0,0.20701464,2,raw_window_10,원데이터 1.0초
+normal_116,0,0.1551378,2,raw_window_10,원데이터 1.0초
+normal_120,0,0.97953784,2,raw_window_10,원데이터 1.0초
+normal_121,0,0.1846995,2,raw_window_10,원데이터 1.0초
+normal_130,0,0.45696887,2,raw_window_10,원데이터 1.0초
+normal_132,0,0.10692474,2,raw_window_10,원데이터 1.0초
+normal_138,0,0.4310595,2,raw_window_10,원데이터 1.0초
+normal_145,0,0.8386956,2,raw_window_10,원데이터 1.0초
+normal_165,0,0.3317833,2,raw_window_10,원데이터 1.0초
+normal_167,0,0.8191808,2,raw_window_10,원데이터 1.0초
+normal_170,0,0.42366046,2,raw_window_10,원데이터 1.0초
+normal_176,0,0.8370728,2,raw_window_10,원데이터 1.0초
+normal_180,0,1.2491957,2,raw_window_10,원데이터 1.0초
+normal_184,0,0.19712228,2,raw_window_10,원데이터 1.0초
+normal_188,0,0.26846004,2,raw_window_10,원데이터 1.0초
+normal_195,0,0.5809141,2,raw_window_10,원데이터 1.0초
+normal_201,0,0.11598685,2,raw_window_10,원데이터 1.0초
+normal_202,0,1.2516797,2,raw_window_10,원데이터 1.0초
+normal_204,0,0.4446696,2,raw_window_10,원데이터 1.0초
+normal_207,0,0.4284675,2,raw_window_10,원데이터 1.0초
+normal_222,0,1.3302708,2,raw_window_10,원데이터 1.0초
+normal_223,0,0.71464556,2,raw_window_10,원데이터 1.0초
+normal_225,0,1.2986006,2,raw_window_10,원데이터 1.0초
+normal_228,0,1.3856173,2,raw_window_10,원데이터 1.0초
+normal_234,0,0.20544808,2,raw_window_10,원데이터 1.0초
+normal_242,0,1.5036262,2,raw_window_10,원데이터 1.0초
+normal_260,0,1.3243343,2,raw_window_10,원데이터 1.0초
+normal_268,0,1.0567052,2,raw_window_10,원데이터 1.0초
+normal_271,0,1.5792793,2,raw_window_10,원데이터 1.0초
+normal_275,0,0.25872102,2,raw_window_10,원데이터 1.0초
+normal_278,0,0.21979496,2,raw_window_10,원데이터 1.0초
+normal_286,0,0.6031537,2,raw_window_10,원데이터 1.0초
+normal_302,0,1.6379315,2,raw_window_10,원데이터 1.0초
+normal_305,0,0.32359123,2,raw_window_10,원데이터 1.0초
+normal_307,0,0.17502093,2,raw_window_10,원데이터 1.0초
+normal_319,0,0.17590727,2,raw_window_10,원데이터 1.0초
+normal_324,0,0.33785838,2,raw_window_10,원데이터 1.0초
+normal_329,0,1.2008833,2,raw_window_10,원데이터 1.0초
+normal_338,0,0.16746038,2,raw_window_10,원데이터 1.0초
+normal_339,0,0.6074638,2,raw_window_10,원데이터 1.0초
+normal_341,0,0.7548595,2,raw_window_10,원데이터 1.0초
+normal_343,0,1.3874941,2,raw_window_10,원데이터 1.0초
+normal_345,0,0.1912455,2,raw_window_10,원데이터 1.0초
+normal_354,0,0.48879936,2,raw_window_10,원데이터 1.0초
+normal_363,0,0.888092,2,raw_window_10,원데이터 1.0초
+normal_367,0,1.4806406,2,raw_window_10,원데이터 1.0초
+normal_368,0,1.1204125,2,raw_window_10,원데이터 1.0초
+normal_373,0,1.0655859,2,raw_window_10,원데이터 1.0초
+normal_378,0,0.15620123,2,raw_window_10,원데이터 1.0초
+normal_381,0,1.0741723,2,raw_window_10,원데이터 1.0초
+normal_385,0,0.519976,2,raw_window_10,원데이터 1.0초
+normal_390,0,1.438705,2,raw_window_10,원데이터 1.0초
+normal_392,0,0.12785149,2,raw_window_10,원데이터 1.0초
+normal_403,0,0.2064218,2,raw_window_10,원데이터 1.0초
+normal_426,0,1.3353693,2,raw_window_10,원데이터 1.0초
+normal_429,0,0.7640002,2,raw_window_10,원데이터 1.0초
+normal_432,0,0.16986488,2,raw_window_10,원데이터 1.0초
+normal_439,0,0.76856565,2,raw_window_10,원데이터 1.0초
+normal_458,0,0.5706456,2,raw_window_10,원데이터 1.0초
+normal_461,0,1.706466,2,raw_window_10,원데이터 1.0초
+normal_467,0,0.25519502,2,raw_window_10,원데이터 1.0초
+normal_469,0,0.6986098,2,raw_window_10,원데이터 1.0초
+normal_470,0,1.8842955,2,raw_window_10,원데이터 1.0초
+normal_478,0,0.19921292,2,raw_window_10,원데이터 1.0초
+normal_483,0,0.103187464,2,raw_window_10,원데이터 1.0초
+normal_489,0,0.09209514,2,raw_window_10,원데이터 1.0초
+normal_510,0,0.16520602,2,raw_window_10,원데이터 1.0초
+normal_511,0,0.21410832,2,raw_window_10,원데이터 1.0초
+normal_513,0,0.19525611,2,raw_window_10,원데이터 1.0초
+normal_545,0,0.150645,2,raw_window_10,원데이터 1.0초
+normal_565,0,0.781212,2,raw_window_10,원데이터 1.0초
+normal_584,0,1.2338259,2,raw_window_10,원데이터 1.0초
+normal_598,0,0.7236423,2,raw_window_10,원데이터 1.0초
+anomaly_16,1,9.57203,2,raw_window_10,원데이터 1.0초
+anomaly_18,1,10.541198,2,raw_window_10,원데이터 1.0초
+anomaly_19,1,40.693703,2,raw_window_10,원데이터 1.0초
+normal_7,0,0.30312607,2,raw_window_15,원데이터 1.5초
+normal_18,0,0.23116243,2,raw_window_15,원데이터 1.5초
+normal_25,0,1.1871195,2,raw_window_15,원데이터 1.5초
+normal_28,0,0.36990342,2,raw_window_15,원데이터 1.5초
+normal_34,0,0.9739279,2,raw_window_15,원데이터 1.5초
+normal_45,0,0.6102081,2,raw_window_15,원데이터 1.5초
+normal_49,0,0.15413634,2,raw_window_15,원데이터 1.5초
+normal_52,0,0.20406646,2,raw_window_15,원데이터 1.5초
+normal_54,0,1.099892,2,raw_window_15,원데이터 1.5초
+normal_58,0,0.45794383,2,raw_window_15,원데이터 1.5초
+normal_61,0,0.8229162,2,raw_window_15,원데이터 1.5초
+normal_65,0,0.42166853,2,raw_window_15,원데이터 1.5초
+normal_69,0,1.1339539,2,raw_window_15,원데이터 1.5초
+normal_88,0,1.2887563,2,raw_window_15,원데이터 1.5초
+normal_91,0,0.92190534,2,raw_window_15,원데이터 1.5초
+normal_102,0,1.2032729,2,raw_window_15,원데이터 1.5초
+normal_109,0,1.7688619,2,raw_window_15,원데이터 1.5초
+normal_113,0,0.20604949,2,raw_window_15,원데이터 1.5초
+normal_116,0,0.16135024,2,raw_window_15,원데이터 1.5초
+normal_120,0,0.9877517,2,raw_window_15,원데이터 1.5초
+normal_121,0,0.19540644,2,raw_window_15,원데이터 1.5초
+normal_130,0,0.47588623,2,raw_window_15,원데이터 1.5초
+normal_132,0,0.11453527,2,raw_window_15,원데이터 1.5초
+normal_138,0,0.42906547,2,raw_window_15,원데이터 1.5초
+normal_145,0,0.8595132,2,raw_window_15,원데이터 1.5초
+normal_165,0,0.3648604,2,raw_window_15,원데이터 1.5초
+normal_167,0,0.7768264,2,raw_window_15,원데이터 1.5초
+normal_170,0,0.41524613,2,raw_window_15,원데이터 1.5초
+normal_176,0,0.85852695,2,raw_window_15,원데이터 1.5초
+normal_180,0,1.2743168,2,raw_window_15,원데이터 1.5초
+normal_184,0,0.21241644,2,raw_window_15,원데이터 1.5초
+normal_188,0,0.2828816,2,raw_window_15,원데이터 1.5초
+normal_195,0,0.6233096,2,raw_window_15,원데이터 1.5초
+normal_201,0,0.12217355,2,raw_window_15,원데이터 1.5초
+normal_202,0,1.3363843,2,raw_window_15,원데이터 1.5초
+normal_204,0,0.4515129,2,raw_window_15,원데이터 1.5초
+normal_207,0,0.3901461,2,raw_window_15,원데이터 1.5초
+normal_222,0,1.3869127,2,raw_window_15,원데이터 1.5초
+normal_223,0,0.7375393,2,raw_window_15,원데이터 1.5초
+normal_225,0,1.2399898,2,raw_window_15,원데이터 1.5초
+normal_228,0,1.4580108,2,raw_window_15,원데이터 1.5초
+normal_234,0,0.2191282,2,raw_window_15,원데이터 1.5초
+normal_242,0,1.6017917,2,raw_window_15,원데이터 1.5초
+normal_260,0,1.5425079,2,raw_window_15,원데이터 1.5초
+normal_268,0,1.0476586,2,raw_window_15,원데이터 1.5초
+normal_271,0,1.612185,2,raw_window_15,원데이터 1.5초
+normal_275,0,0.2637752,2,raw_window_15,원데이터 1.5초
+normal_278,0,0.25121158,2,raw_window_15,원데이터 1.5초
+normal_286,0,0.607455,2,raw_window_15,원데이터 1.5초
+normal_302,0,1.7080438,2,raw_window_15,원데이터 1.5초
+normal_305,0,0.30810943,2,raw_window_15,원데이터 1.5초
+normal_307,0,0.17627765,2,raw_window_15,원데이터 1.5초
+normal_319,0,0.18949583,2,raw_window_15,원데이터 1.5초
+normal_324,0,0.35757092,2,raw_window_15,원데이터 1.5초
+normal_329,0,1.2204041,2,raw_window_15,원데이터 1.5초
+normal_338,0,0.17417651,2,raw_window_15,원데이터 1.5초
+normal_339,0,0.6094912,2,raw_window_15,원데이터 1.5초
+normal_341,0,0.8115389,2,raw_window_15,원데이터 1.5초
+normal_343,0,1.4310452,2,raw_window_15,원데이터 1.5초
+normal_345,0,0.18480738,2,raw_window_15,원데이터 1.5초
+normal_354,0,0.5435099,2,raw_window_15,원데이터 1.5초
+normal_363,0,0.90857756,2,raw_window_15,원데이터 1.5초
+normal_367,0,1.5418986,2,raw_window_15,원데이터 1.5초
+normal_368,0,1.1369689,2,raw_window_15,원데이터 1.5초
+normal_373,0,1.117113,2,raw_window_15,원데이터 1.5초
+normal_378,0,0.19426803,2,raw_window_15,원데이터 1.5초
+normal_381,0,1.0450236,2,raw_window_15,원데이터 1.5초
+normal_385,0,0.51217526,2,raw_window_15,원데이터 1.5초
+normal_390,0,1.4558526,2,raw_window_15,원데이터 1.5초
+normal_392,0,0.12732312,2,raw_window_15,원데이터 1.5초
+normal_403,0,0.1910788,2,raw_window_15,원데이터 1.5초
+normal_426,0,1.4052473,2,raw_window_15,원데이터 1.5초
+normal_429,0,0.75531596,2,raw_window_15,원데이터 1.5초
+normal_432,0,0.20555271,2,raw_window_15,원데이터 1.5초
+normal_439,0,0.7638264,2,raw_window_15,원데이터 1.5초
+normal_458,0,0.58172154,2,raw_window_15,원데이터 1.5초
+normal_461,0,1.6720004,2,raw_window_15,원데이터 1.5초
+normal_467,0,0.25486842,2,raw_window_15,원데이터 1.5초
+normal_469,0,0.67692167,2,raw_window_15,원데이터 1.5초
+normal_470,0,1.8907299,2,raw_window_15,원데이터 1.5초
+normal_478,0,0.20033385,2,raw_window_15,원데이터 1.5초
+normal_483,0,0.1135116,2,raw_window_15,원데이터 1.5초
+normal_489,0,0.0976786,2,raw_window_15,원데이터 1.5초
+normal_510,0,0.16852443,2,raw_window_15,원데이터 1.5초
+normal_511,0,0.21831153,2,raw_window_15,원데이터 1.5초
+normal_513,0,0.19382226,2,raw_window_15,원데이터 1.5초
+normal_545,0,0.15695672,2,raw_window_15,원데이터 1.5초
+normal_565,0,0.8538951,2,raw_window_15,원데이터 1.5초
+normal_584,0,1.2395471,2,raw_window_15,원데이터 1.5초
+normal_598,0,0.7411055,2,raw_window_15,원데이터 1.5초
+anomaly_16,1,11.247432,2,raw_window_15,원데이터 1.5초
+anomaly_18,1,14.211625,2,raw_window_15,원데이터 1.5초
+anomaly_19,1,53.788624,2,raw_window_15,원데이터 1.5초
+normal_7,0,0.48479718,2,raw_window_20,원데이터 2.0초
+normal_18,0,0.3333139,2,raw_window_20,원데이터 2.0초
+normal_25,0,1.4891891,2,raw_window_20,원데이터 2.0초
+normal_28,0,0.45035818,2,raw_window_20,원데이터 2.0초
+normal_34,0,1.1473166,2,raw_window_20,원데이터 2.0초
+normal_45,0,0.7722949,2,raw_window_20,원데이터 2.0초
+normal_49,0,0.27119935,2,raw_window_20,원데이터 2.0초
+normal_52,0,0.33193707,2,raw_window_20,원데이터 2.0초
+normal_54,0,1.2380577,2,raw_window_20,원데이터 2.0초
+normal_58,0,0.5055832,2,raw_window_20,원데이터 2.0초
+normal_61,0,0.9377481,2,raw_window_20,원데이터 2.0초
+normal_65,0,0.5988711,2,raw_window_20,원데이터 2.0초
+normal_69,0,1.4546591,2,raw_window_20,원데이터 2.0초
+normal_88,0,2.226398,2,raw_window_20,원데이터 2.0초
+normal_91,0,1.0030057,2,raw_window_20,원데이터 2.0초
+normal_102,0,1.5207839,2,raw_window_20,원데이터 2.0초
+normal_109,0,1.9042481,2,raw_window_20,원데이터 2.0초
+normal_113,0,0.3174245,2,raw_window_20,원데이터 2.0초
+normal_116,0,0.2405095,2,raw_window_20,원데이터 2.0초
+normal_120,0,1.1225624,2,raw_window_20,원데이터 2.0초
+normal_121,0,0.27747995,2,raw_window_20,원데이터 2.0초
+normal_130,0,0.5212088,2,raw_window_20,원데이터 2.0초
+normal_132,0,0.17902017,2,raw_window_20,원데이터 2.0초
+normal_138,0,0.504798,2,raw_window_20,원데이터 2.0초
+normal_145,0,1.0555935,2,raw_window_20,원데이터 2.0초
+normal_165,0,0.52081555,2,raw_window_20,원데이터 2.0초
+normal_167,0,1.0243249,2,raw_window_20,원데이터 2.0초
+normal_170,0,0.5372211,2,raw_window_20,원데이터 2.0초
+normal_176,0,1.0829027,2,raw_window_20,원데이터 2.0초
+normal_180,0,1.6975634,2,raw_window_20,원데이터 2.0초
+normal_184,0,0.2895461,2,raw_window_20,원데이터 2.0초
+normal_188,0,0.34369993,2,raw_window_20,원데이터 2.0초
+normal_195,0,0.79039526,2,raw_window_20,원데이터 2.0초
+normal_201,0,0.18035598,2,raw_window_20,원데이터 2.0초
+normal_202,0,1.7952983,2,raw_window_20,원데이터 2.0초
+normal_204,0,0.52829134,2,raw_window_20,원데이터 2.0초
+normal_207,0,0.5087135,2,raw_window_20,원데이터 2.0초
+normal_222,0,1.8230499,2,raw_window_20,원데이터 2.0초
+normal_223,0,0.87895995,2,raw_window_20,원데이터 2.0초
+normal_225,0,1.477536,2,raw_window_20,원데이터 2.0초
+normal_228,0,1.7051269,2,raw_window_20,원데이터 2.0초
+normal_234,0,0.31802207,2,raw_window_20,원데이터 2.0초
+normal_242,0,1.871031,2,raw_window_20,원데이터 2.0초
+normal_260,0,2.028464,2,raw_window_20,원데이터 2.0초
+normal_268,0,1.2359209,2,raw_window_20,원데이터 2.0초
+normal_271,0,1.859949,2,raw_window_20,원데이터 2.0초
+normal_275,0,0.31208473,2,raw_window_20,원데이터 2.0초
+normal_278,0,0.3100307,2,raw_window_20,원데이터 2.0초
+normal_286,0,0.7053769,2,raw_window_20,원데이터 2.0초
+normal_302,0,1.8961656,2,raw_window_20,원데이터 2.0초
+normal_305,0,0.34891686,2,raw_window_20,원데이터 2.0초
+normal_307,0,0.26492763,2,raw_window_20,원데이터 2.0초
+normal_319,0,0.24968658,2,raw_window_20,원데이터 2.0초
+normal_324,0,0.39727184,2,raw_window_20,원데이터 2.0초
+normal_329,0,1.4114435,2,raw_window_20,원데이터 2.0초
+normal_338,0,0.26348758,2,raw_window_20,원데이터 2.0초
+normal_339,0,0.7210619,2,raw_window_20,원데이터 2.0초
+normal_341,0,0.8634583,2,raw_window_20,원데이터 2.0초
+normal_343,0,1.9058518,2,raw_window_20,원데이터 2.0초
+normal_345,0,0.24472591,2,raw_window_20,원데이터 2.0초
+normal_354,0,0.62078965,2,raw_window_20,원데이터 2.0초
+normal_363,0,1.0441809,2,raw_window_20,원데이터 2.0초
+normal_367,0,1.6219938,2,raw_window_20,원데이터 2.0초
+normal_368,0,1.2892766,2,raw_window_20,원데이터 2.0초
+normal_373,0,1.384243,2,raw_window_20,원데이터 2.0초
+normal_378,0,0.27789086,2,raw_window_20,원데이터 2.0초
+normal_381,0,1.1730816,2,raw_window_20,원데이터 2.0초
+normal_385,0,0.5418985,2,raw_window_20,원데이터 2.0초
+normal_390,0,1.8488588,2,raw_window_20,원데이터 2.0초
+normal_392,0,0.19245249,2,raw_window_20,원데이터 2.0초
+normal_403,0,0.3863456,2,raw_window_20,원데이터 2.0초
+normal_426,0,1.468014,2,raw_window_20,원데이터 2.0초
+normal_429,0,0.86059517,2,raw_window_20,원데이터 2.0초
+normal_432,0,0.27361846,2,raw_window_20,원데이터 2.0초
+normal_439,0,0.894814,2,raw_window_20,원데이터 2.0초
+normal_458,0,0.75840473,2,raw_window_20,원데이터 2.0초
+normal_461,0,2.283127,2,raw_window_20,원데이터 2.0초
+normal_467,0,0.3260076,2,raw_window_20,원데이터 2.0초
+normal_469,0,0.81046534,2,raw_window_20,원데이터 2.0초
+normal_470,0,2.1343076,2,raw_window_20,원데이터 2.0초
+normal_478,0,0.23051298,2,raw_window_20,원데이터 2.0초
+normal_483,0,0.16979977,2,raw_window_20,원데이터 2.0초
+normal_489,0,0.2002016,2,raw_window_20,원데이터 2.0초
+normal_510,0,0.23083067,2,raw_window_20,원데이터 2.0초
+normal_511,0,0.29828492,2,raw_window_20,원데이터 2.0초
+normal_513,0,0.22942716,2,raw_window_20,원데이터 2.0초
+normal_545,0,0.24886842,2,raw_window_20,원데이터 2.0초
+normal_565,0,1.1085811,2,raw_window_20,원데이터 2.0초
+normal_584,0,1.5221014,2,raw_window_20,원데이터 2.0초
+normal_598,0,0.9493832,2,raw_window_20,원데이터 2.0초
+anomaly_16,1,10.0896435,2,raw_window_20,원데이터 2.0초
+anomaly_18,1,11.693627,2,raw_window_20,원데이터 2.0초
+anomaly_19,1,40.304688,2,raw_window_20,원데이터 2.0초
+normal_7,0,0.23676655,2,derived_5,파생 0.5초
+normal_18,0,0.116868354,2,derived_5,파생 0.5초
+normal_25,0,0.52393687,2,derived_5,파생 0.5초
+normal_28,0,0.22753303,2,derived_5,파생 0.5초
+normal_34,0,0.34997863,2,derived_5,파생 0.5초
+normal_45,0,0.24992302,2,derived_5,파생 0.5초
+normal_49,0,0.11769132,2,derived_5,파생 0.5초
+normal_52,0,0.13861994,2,derived_5,파생 0.5초
+normal_54,0,0.4728434,2,derived_5,파생 0.5초
+normal_58,0,0.22303824,2,derived_5,파생 0.5초
+normal_61,0,0.35255018,2,derived_5,파생 0.5초
+normal_65,0,0.28622323,2,derived_5,파생 0.5초
+normal_69,0,0.44808522,2,derived_5,파생 0.5초
+normal_88,0,0.6878861,2,derived_5,파생 0.5초
+normal_91,0,0.3010443,2,derived_5,파생 0.5초
+normal_102,0,0.439622,2,derived_5,파생 0.5초
+normal_109,0,0.70187134,2,derived_5,파생 0.5초
+normal_113,0,0.16322182,2,derived_5,파생 0.5초
+normal_116,0,0.09467422,2,derived_5,파생 0.5초
+normal_120,0,0.4067698,2,derived_5,파생 0.5초
+normal_121,0,0.10910157,2,derived_5,파생 0.5초
+normal_130,0,0.20271759,2,derived_5,파생 0.5초
+normal_132,0,0.074616894,2,derived_5,파생 0.5초
+normal_138,0,0.26928025,2,derived_5,파생 0.5초
+normal_145,0,0.3818495,2,derived_5,파생 0.5초
+normal_165,0,0.18909974,2,derived_5,파생 0.5초
+normal_167,0,0.364122,2,derived_5,파생 0.5초
+normal_170,0,0.27426487,2,derived_5,파생 0.5초
+normal_176,0,0.42735663,2,derived_5,파생 0.5초
+normal_180,0,0.47023904,2,derived_5,파생 0.5초
+normal_184,0,0.09703826,2,derived_5,파생 0.5초
+normal_188,0,0.14913188,2,derived_5,파생 0.5초
+normal_195,0,0.2278324,2,derived_5,파생 0.5초
+normal_201,0,0.07138878,2,derived_5,파생 0.5초
+normal_202,0,0.66995776,2,derived_5,파생 0.5초
+normal_204,0,0.2219582,2,derived_5,파생 0.5초
+normal_207,0,0.22627819,2,derived_5,파생 0.5초
+normal_222,0,0.671135,2,derived_5,파생 0.5초
+normal_223,0,0.33194143,2,derived_5,파생 0.5초
+normal_225,0,0.45302868,2,derived_5,파생 0.5초
+normal_228,0,0.81596106,2,derived_5,파생 0.5초
+normal_234,0,0.13647999,2,derived_5,파생 0.5초
+normal_242,0,0.5976846,2,derived_5,파생 0.5초
+normal_260,0,0.59407955,2,derived_5,파생 0.5초
+normal_268,0,0.42571464,2,derived_5,파생 0.5초
+normal_271,0,0.6991722,2,derived_5,파생 0.5초
+normal_275,0,0.1358872,2,derived_5,파생 0.5초
+normal_278,0,0.135826,2,derived_5,파생 0.5초
+normal_286,0,0.36192614,2,derived_5,파생 0.5초
+normal_302,0,0.810307,2,derived_5,파생 0.5초
+normal_305,0,0.14565471,2,derived_5,파생 0.5초
+normal_307,0,0.10118381,2,derived_5,파생 0.5초
+normal_319,0,0.0854027,2,derived_5,파생 0.5초
+normal_324,0,0.16353469,2,derived_5,파생 0.5초
+normal_329,0,0.48329964,2,derived_5,파생 0.5초
+normal_338,0,0.10142843,2,derived_5,파생 0.5초
+normal_339,0,0.2942457,2,derived_5,파생 0.5초
+normal_341,0,0.32435036,2,derived_5,파생 0.5초
+normal_343,0,0.7401547,2,derived_5,파생 0.5초
+normal_345,0,0.12961462,2,derived_5,파생 0.5초
+normal_354,0,0.28736824,2,derived_5,파생 0.5초
+normal_363,0,0.43390983,2,derived_5,파생 0.5초
+normal_367,0,0.6387799,2,derived_5,파생 0.5초
+normal_368,0,0.4238833,2,derived_5,파생 0.5초
+normal_373,0,0.39698747,2,derived_5,파생 0.5초
+normal_378,0,0.12608714,2,derived_5,파생 0.5초
+normal_381,0,0.44045377,2,derived_5,파생 0.5초
+normal_385,0,0.22495194,2,derived_5,파생 0.5초
+normal_390,0,0.57845795,2,derived_5,파생 0.5초
+normal_392,0,0.09088947,2,derived_5,파생 0.5초
+normal_403,0,0.16129228,2,derived_5,파생 0.5초
+normal_426,0,0.6482682,2,derived_5,파생 0.5초
+normal_429,0,0.308253,2,derived_5,파생 0.5초
+normal_432,0,0.12488532,2,derived_5,파생 0.5초
+normal_439,0,0.35390013,2,derived_5,파생 0.5초
+normal_458,0,0.2368161,2,derived_5,파생 0.5초
+normal_461,0,1.2604059,2,derived_5,파생 0.5초
+normal_467,0,0.13947377,2,derived_5,파생 0.5초
+normal_469,0,0.30191213,2,derived_5,파생 0.5초
+normal_470,0,0.8055388,2,derived_5,파생 0.5초
+normal_478,0,0.107045986,2,derived_5,파생 0.5초
+normal_483,0,0.06811227,2,derived_5,파생 0.5초
+normal_489,0,0.07258488,2,derived_5,파생 0.5초
+normal_510,0,0.10791029,2,derived_5,파생 0.5초
+normal_511,0,0.11287501,2,derived_5,파생 0.5초
+normal_513,0,0.09596709,2,derived_5,파생 0.5초
+normal_545,0,0.08001667,2,derived_5,파생 0.5초
+normal_565,0,0.34484345,2,derived_5,파생 0.5초
+normal_584,0,0.58968407,2,derived_5,파생 0.5초
+normal_598,0,0.3103148,2,derived_5,파생 0.5초
+anomaly_16,1,11.419603,2,derived_5,파생 0.5초
+anomaly_18,1,16.306803,2,derived_5,파생 0.5초
+anomaly_19,1,54.489716,2,derived_5,파생 0.5초
+normal_7,0,0.35953876,2,derived_10,파생 1.0초
+normal_18,0,0.28888294,2,derived_10,파생 1.0초
+normal_25,0,1.1406664,2,derived_10,파생 1.0초
+normal_28,0,0.3714196,2,derived_10,파생 1.0초
+normal_34,0,0.8582957,2,derived_10,파생 1.0초
+normal_45,0,0.55860543,2,derived_10,파생 1.0초
+normal_49,0,0.28254476,2,derived_10,파생 1.0초
+normal_52,0,0.31511408,2,derived_10,파생 1.0초
+normal_54,0,1.044945,2,derived_10,파생 1.0초
+normal_58,0,0.39261532,2,derived_10,파생 1.0초
+normal_61,0,0.6525419,2,derived_10,파생 1.0초
+normal_65,0,0.4277089,2,derived_10,파생 1.0초
+normal_69,0,1.119987,2,derived_10,파생 1.0초
+normal_88,0,1.5159818,2,derived_10,파생 1.0초
+normal_91,0,0.72092086,2,derived_10,파생 1.0초
+normal_102,0,1.1658564,2,derived_10,파생 1.0초
+normal_109,0,1.6288483,2,derived_10,파생 1.0초
+normal_113,0,0.25827703,2,derived_10,파생 1.0초
+normal_116,0,0.20819423,2,derived_10,파생 1.0초
+normal_120,0,1.0125031,2,derived_10,파생 1.0초
+normal_121,0,0.30708474,2,derived_10,파생 1.0초
+normal_130,0,0.39398086,2,derived_10,파생 1.0초
+normal_132,0,0.19624132,2,derived_10,파생 1.0초
+normal_138,0,0.43787846,2,derived_10,파생 1.0초
+normal_145,0,0.9195706,2,derived_10,파생 1.0초
+normal_165,0,0.408703,2,derived_10,파생 1.0초
+normal_167,0,0.84441656,2,derived_10,파생 1.0초
+normal_170,0,0.44923496,2,derived_10,파생 1.0초
+normal_176,0,0.8271284,2,derived_10,파생 1.0초
+normal_180,0,1.181952,2,derived_10,파생 1.0초
+normal_184,0,0.20375933,2,derived_10,파생 1.0초
+normal_188,0,0.28032786,2,derived_10,파생 1.0초
+normal_195,0,0.6863564,2,derived_10,파생 1.0초
+normal_201,0,0.18716104,2,derived_10,파생 1.0초
+normal_202,0,1.0198481,2,derived_10,파생 1.0초
+normal_204,0,0.51097673,2,derived_10,파생 1.0초
+normal_207,0,0.36469194,2,derived_10,파생 1.0초
+normal_222,0,1.4624383,2,derived_10,파생 1.0초
+normal_223,0,0.59791905,2,derived_10,파생 1.0초
+normal_225,0,1.0860407,2,derived_10,파생 1.0초
+normal_228,0,1.4559634,2,derived_10,파생 1.0초
+normal_234,0,0.31951174,2,derived_10,파생 1.0초
+normal_242,0,1.422795,2,derived_10,파생 1.0초
+normal_260,0,1.3172661,2,derived_10,파생 1.0초
+normal_268,0,1.0468043,2,derived_10,파생 1.0초
+normal_271,0,1.4294409,2,derived_10,파생 1.0초
+normal_275,0,0.28930885,2,derived_10,파생 1.0초
+normal_278,0,0.2727849,2,derived_10,파생 1.0초
+normal_286,0,0.5685284,2,derived_10,파생 1.0초
+normal_302,0,1.8057064,2,derived_10,파생 1.0초
+normal_305,0,0.3299871,2,derived_10,파생 1.0초
+normal_307,0,0.24853624,2,derived_10,파생 1.0초
+normal_319,0,0.24368532,2,derived_10,파생 1.0초
+normal_324,0,0.40403378,2,derived_10,파생 1.0초
+normal_329,0,1.0866047,2,derived_10,파생 1.0초
+normal_338,0,0.25793052,2,derived_10,파생 1.0초
+normal_339,0,0.6561818,2,derived_10,파생 1.0초
+normal_341,0,0.5459119,2,derived_10,파생 1.0초
+normal_343,0,1.616352,2,derived_10,파생 1.0초
+normal_345,0,0.25267968,2,derived_10,파생 1.0초
+normal_354,0,0.52361345,2,derived_10,파생 1.0초
+normal_363,0,1.0151795,2,derived_10,파생 1.0초
+normal_367,0,1.190649,2,derived_10,파생 1.0초
+normal_368,0,1.052232,2,derived_10,파생 1.0초
+normal_373,0,1.0467622,2,derived_10,파생 1.0초
+normal_378,0,0.3154962,2,derived_10,파생 1.0초
+normal_381,0,0.8389327,2,derived_10,파생 1.0초
+normal_385,0,0.49509007,2,derived_10,파생 1.0초
+normal_390,0,1.4228638,2,derived_10,파생 1.0초
+normal_392,0,0.22129035,2,derived_10,파생 1.0초
+normal_403,0,0.31863654,2,derived_10,파생 1.0초
+normal_426,0,1.5284958,2,derived_10,파생 1.0초
+normal_429,0,0.6394734,2,derived_10,파생 1.0초
+normal_432,0,0.23891765,2,derived_10,파생 1.0초
+normal_439,0,0.6442952,2,derived_10,파생 1.0초
+normal_458,0,0.5245867,2,derived_10,파생 1.0초
+normal_461,0,1.7396936,2,derived_10,파생 1.0초
+normal_467,0,0.27553007,2,derived_10,파생 1.0초
+normal_469,0,0.77159655,2,derived_10,파생 1.0초
+normal_470,0,1.6800531,2,derived_10,파생 1.0초
+normal_478,0,0.23293845,2,derived_10,파생 1.0초
+normal_483,0,0.17329895,2,derived_10,파생 1.0초
+normal_489,0,0.16701055,2,derived_10,파생 1.0초
+normal_510,0,0.20978276,2,derived_10,파생 1.0초
+normal_511,0,0.2265907,2,derived_10,파생 1.0초
+normal_513,0,0.23158686,2,derived_10,파생 1.0초
+normal_545,0,0.1928328,2,derived_10,파생 1.0초
+normal_565,0,0.98673517,2,derived_10,파생 1.0초
+normal_584,0,1.1794919,2,derived_10,파생 1.0초
+normal_598,0,0.8434993,2,derived_10,파생 1.0초
+anomaly_16,1,18.229073,2,derived_10,파생 1.0초
+anomaly_18,1,18.334614,2,derived_10,파생 1.0초
+anomaly_19,1,98.09532,2,derived_10,파생 1.0초
+normal_7,0,0.46613955,2,derived_15,파생 1.5초
+normal_18,0,0.3056329,2,derived_15,파생 1.5초
+normal_25,0,1.2119739,2,derived_15,파생 1.5초
+normal_28,0,0.46320185,2,derived_15,파생 1.5초
+normal_34,0,1.046317,2,derived_15,파생 1.5초
+normal_45,0,0.72027826,2,derived_15,파생 1.5초
+normal_49,0,0.29724196,2,derived_15,파생 1.5초
+normal_52,0,0.3340876,2,derived_15,파생 1.5초
+normal_54,0,1.1460699,2,derived_15,파생 1.5초
+normal_58,0,0.43964478,2,derived_15,파생 1.5초
+normal_61,0,0.69358563,2,derived_15,파생 1.5초
+normal_65,0,0.59876055,2,derived_15,파생 1.5초
+normal_69,0,1.2307534,2,derived_15,파생 1.5초
+normal_88,0,1.4838637,2,derived_15,파생 1.5초
+normal_91,0,0.9649127,2,derived_15,파생 1.5초
+normal_102,0,1.4018055,2,derived_15,파생 1.5초
+normal_109,0,1.788009,2,derived_15,파생 1.5초
+normal_113,0,0.30341145,2,derived_15,파생 1.5초
+normal_116,0,0.23313887,2,derived_15,파생 1.5초
+normal_120,0,1.0517074,2,derived_15,파생 1.5초
+normal_121,0,0.33158854,2,derived_15,파생 1.5초
+normal_130,0,0.42574978,2,derived_15,파생 1.5초
+normal_132,0,0.23953904,2,derived_15,파생 1.5초
+normal_138,0,0.51316893,2,derived_15,파생 1.5초
+normal_145,0,1.0033269,2,derived_15,파생 1.5초
+normal_165,0,0.50041366,2,derived_15,파생 1.5초
+normal_167,0,0.84068155,2,derived_15,파생 1.5초
+normal_170,0,0.49393764,2,derived_15,파생 1.5초
+normal_176,0,0.8804061,2,derived_15,파생 1.5초
+normal_180,0,1.401336,2,derived_15,파생 1.5초
+normal_184,0,0.2639442,2,derived_15,파생 1.5초
+normal_188,0,0.35669127,2,derived_15,파생 1.5초
+normal_195,0,0.7234604,2,derived_15,파생 1.5초
+normal_201,0,0.19990037,2,derived_15,파생 1.5초
+normal_202,0,1.3148775,2,derived_15,파생 1.5초
+normal_204,0,0.62566906,2,derived_15,파생 1.5초
+normal_207,0,0.44363603,2,derived_15,파생 1.5초
+normal_222,0,1.5713218,2,derived_15,파생 1.5초
+normal_223,0,0.7210838,2,derived_15,파생 1.5초
+normal_225,0,1.115033,2,derived_15,파생 1.5초
+normal_228,0,1.4998578,2,derived_15,파생 1.5초
+normal_234,0,0.39451614,2,derived_15,파생 1.5초
+normal_242,0,1.6415418,2,derived_15,파생 1.5초
+normal_260,0,1.6601087,2,derived_15,파생 1.5초
+normal_268,0,1.1796933,2,derived_15,파생 1.5초
+normal_271,0,1.4291791,2,derived_15,파생 1.5초
+normal_275,0,0.3456237,2,derived_15,파생 1.5초
+normal_278,0,0.3432268,2,derived_15,파생 1.5초
+normal_286,0,0.664577,2,derived_15,파생 1.5초
+normal_302,0,2.0646725,2,derived_15,파생 1.5초
+normal_305,0,0.35821888,2,derived_15,파생 1.5초
+normal_307,0,0.29334366,2,derived_15,파생 1.5초
+normal_319,0,0.2861458,2,derived_15,파생 1.5초
+normal_324,0,0.4469168,2,derived_15,파생 1.5초
+normal_329,0,1.4145966,2,derived_15,파생 1.5초
+normal_338,0,0.31055632,2,derived_15,파생 1.5초
+normal_339,0,0.8006873,2,derived_15,파생 1.5초
+normal_341,0,0.68432087,2,derived_15,파생 1.5초
+normal_343,0,1.7272104,2,derived_15,파생 1.5초
+normal_345,0,0.2914691,2,derived_15,파생 1.5초
+normal_354,0,0.6405018,2,derived_15,파생 1.5초
+normal_363,0,0.97825456,2,derived_15,파생 1.5초
+normal_367,0,1.3346769,2,derived_15,파생 1.5초
+normal_368,0,1.1651716,2,derived_15,파생 1.5초
+normal_373,0,1.2088783,2,derived_15,파생 1.5초
+normal_378,0,0.37223616,2,derived_15,파생 1.5초
+normal_381,0,0.91716605,2,derived_15,파생 1.5초
+normal_385,0,0.5347386,2,derived_15,파생 1.5초
+normal_390,0,1.362022,2,derived_15,파생 1.5초
+normal_392,0,0.25364166,2,derived_15,파생 1.5초
+normal_403,0,0.3232507,2,derived_15,파생 1.5초
+normal_426,0,1.8131576,2,derived_15,파생 1.5초
+normal_429,0,0.85758096,2,derived_15,파생 1.5초
+normal_432,0,0.30392015,2,derived_15,파생 1.5초
+normal_439,0,0.81187636,2,derived_15,파생 1.5초
+normal_458,0,0.6024777,2,derived_15,파생 1.5초
+normal_461,0,1.8856016,2,derived_15,파생 1.5초
+normal_467,0,0.3004248,2,derived_15,파생 1.5초
+normal_469,0,0.7073182,2,derived_15,파생 1.5초
+normal_470,0,1.7427571,2,derived_15,파생 1.5초
+normal_478,0,0.26462126,2,derived_15,파생 1.5초
+normal_483,0,0.21512252,2,derived_15,파생 1.5초
+normal_489,0,0.19666715,2,derived_15,파생 1.5초
+normal_510,0,0.2316845,2,derived_15,파생 1.5초
+normal_511,0,0.27276042,2,derived_15,파생 1.5초
+normal_513,0,0.2894232,2,derived_15,파생 1.5초
+normal_545,0,0.21503502,2,derived_15,파생 1.5초
+normal_565,0,1.1453383,2,derived_15,파생 1.5초
+normal_584,0,1.2638203,2,derived_15,파생 1.5초
+normal_598,0,0.98689204,2,derived_15,파생 1.5초
+anomaly_16,1,21.014223,2,derived_15,파생 1.5초
+anomaly_18,1,23.209076,2,derived_15,파생 1.5초
+anomaly_19,1,138.47325,2,derived_15,파생 1.5초
+normal_7,0,0.4220223,2,derived_20,파생 2.0초
+normal_18,0,0.30067846,2,derived_20,파생 2.0초
+normal_25,0,1.243908,2,derived_20,파생 2.0초
+normal_28,0,0.442685,2,derived_20,파생 2.0초
+normal_34,0,1.0717047,2,derived_20,파생 2.0초
+normal_45,0,0.70339346,2,derived_20,파생 2.0초
+normal_49,0,0.31508934,2,derived_20,파생 2.0초
+normal_52,0,0.33731294,2,derived_20,파생 2.0초
+normal_54,0,1.2269421,2,derived_20,파생 2.0초
+normal_58,0,0.46774736,2,derived_20,파생 2.0초
+normal_61,0,0.6528404,2,derived_20,파생 2.0초
+normal_65,0,0.59358937,2,derived_20,파생 2.0초
+normal_69,0,1.216074,2,derived_20,파생 2.0초
+normal_88,0,1.7154603,2,derived_20,파생 2.0초
+normal_91,0,0.89111066,2,derived_20,파생 2.0초
+normal_102,0,1.2940753,2,derived_20,파생 2.0초
+normal_109,0,1.8697219,2,derived_20,파생 2.0초
+normal_113,0,0.33929583,2,derived_20,파생 2.0초
+normal_116,0,0.24942937,2,derived_20,파생 2.0초
+normal_120,0,1.0519791,2,derived_20,파생 2.0초
+normal_121,0,0.3323632,2,derived_20,파생 2.0초
+normal_130,0,0.41847178,2,derived_20,파생 2.0초
+normal_132,0,0.2340191,2,derived_20,파생 2.0초
+normal_138,0,0.44937986,2,derived_20,파생 2.0초
+normal_145,0,0.98169833,2,derived_20,파생 2.0초
+normal_165,0,0.5438305,2,derived_20,파생 2.0초
+normal_167,0,0.92590547,2,derived_20,파생 2.0초
+normal_170,0,0.46842834,2,derived_20,파생 2.0초
+normal_176,0,1.0116616,2,derived_20,파생 2.0초
+normal_180,0,1.3898951,2,derived_20,파생 2.0초
+normal_184,0,0.2473834,2,derived_20,파생 2.0초
+normal_188,0,0.33632928,2,derived_20,파생 2.0초
+normal_195,0,0.7911608,2,derived_20,파생 2.0초
+normal_201,0,0.21055798,2,derived_20,파생 2.0초
+normal_202,0,1.6434715,2,derived_20,파생 2.0초
+normal_204,0,0.58933294,2,derived_20,파생 2.0초
+normal_207,0,0.44510818,2,derived_20,파생 2.0초
+normal_222,0,1.5239822,2,derived_20,파생 2.0초
+normal_223,0,0.6568594,2,derived_20,파생 2.0초
+normal_225,0,1.2655073,2,derived_20,파생 2.0초
+normal_228,0,1.7347991,2,derived_20,파생 2.0초
+normal_234,0,0.40150058,2,derived_20,파생 2.0초
+normal_242,0,1.5379789,2,derived_20,파생 2.0초
+normal_260,0,1.5594233,2,derived_20,파생 2.0초
+normal_268,0,1.1935668,2,derived_20,파생 2.0초
+normal_271,0,1.7739041,2,derived_20,파생 2.0초
+normal_275,0,0.35742375,2,derived_20,파생 2.0초
+normal_278,0,0.37369072,2,derived_20,파생 2.0초
+normal_286,0,0.7943444,2,derived_20,파생 2.0초
+normal_302,0,2.011634,2,derived_20,파생 2.0초
+normal_305,0,0.37229204,2,derived_20,파생 2.0초
+normal_307,0,0.31676742,2,derived_20,파생 2.0초
+normal_319,0,0.30866626,2,derived_20,파생 2.0초
+normal_324,0,0.46762156,2,derived_20,파생 2.0초
+normal_329,0,1.2597845,2,derived_20,파생 2.0초
+normal_338,0,0.3613157,2,derived_20,파생 2.0초
+normal_339,0,0.9748637,2,derived_20,파생 2.0초
+normal_341,0,0.63517654,2,derived_20,파생 2.0초
+normal_343,0,1.8414426,2,derived_20,파생 2.0초
+normal_345,0,0.30990803,2,derived_20,파생 2.0초
+normal_354,0,0.65199655,2,derived_20,파생 2.0초
+normal_363,0,1.1058282,2,derived_20,파생 2.0초
+normal_367,0,1.4006585,2,derived_20,파생 2.0초
+normal_368,0,1.2846189,2,derived_20,파생 2.0초
+normal_373,0,1.1794844,2,derived_20,파생 2.0초
+normal_378,0,0.37559298,2,derived_20,파생 2.0초
+normal_381,0,0.9629941,2,derived_20,파생 2.0초
+normal_385,0,0.5119822,2,derived_20,파생 2.0초
+normal_390,0,1.5017574,2,derived_20,파생 2.0초
+normal_392,0,0.25487038,2,derived_20,파생 2.0초
+normal_403,0,0.34895852,2,derived_20,파생 2.0초
+normal_426,0,1.6897094,2,derived_20,파생 2.0초
+normal_429,0,0.72986346,2,derived_20,파생 2.0초
+normal_432,0,0.28201768,2,derived_20,파생 2.0초
+normal_439,0,0.76316106,2,derived_20,파생 2.0초
+normal_458,0,0.6248145,2,derived_20,파생 2.0초
+normal_461,0,2.0814984,2,derived_20,파생 2.0초
+normal_467,0,0.32662323,2,derived_20,파생 2.0초
+normal_469,0,0.78283566,2,derived_20,파생 2.0초
+normal_470,0,1.9040896,2,derived_20,파생 2.0초
+normal_478,0,0.26964304,2,derived_20,파생 2.0초
+normal_483,0,0.19968589,2,derived_20,파생 2.0초
+normal_489,0,0.20778686,2,derived_20,파생 2.0초
+normal_510,0,0.22909978,2,derived_20,파생 2.0초
+normal_511,0,0.2713209,2,derived_20,파생 2.0초
+normal_513,0,0.27209184,2,derived_20,파생 2.0초
+normal_545,0,0.22182019,2,derived_20,파생 2.0초
+normal_565,0,1.0534877,2,derived_20,파생 2.0초
+normal_584,0,1.4142599,2,derived_20,파생 2.0초
+normal_598,0,1.0312765,2,derived_20,파생 2.0초
+anomaly_16,1,20.624653,2,derived_20,파생 2.0초
+anomaly_18,1,23.223074,2,derived_20,파생 2.0초
+anomaly_19,1,113.77823,2,derived_20,파생 2.0초
+normal_1,0,0.010591551,3,raw_single,단일시점
+normal_17,0,0.0025680368,3,raw_single,단일시점
+normal_23,0,0.003552797,3,raw_single,단일시점
+normal_28,0,0.0030506903,3,raw_single,단일시점
+normal_29,0,0.0024153725,3,raw_single,단일시점
+normal_49,0,0.0018311869,3,raw_single,단일시점
+normal_60,0,0.0031709694,3,raw_single,단일시점
+normal_65,0,0.003753772,3,raw_single,단일시점
+normal_75,0,0.016178733,3,raw_single,단일시점
+normal_76,0,0.0030489846,3,raw_single,단일시점
+normal_86,0,0.0028486536,3,raw_single,단일시점
+normal_90,0,0.009871765,3,raw_single,단일시점
+normal_92,0,0.0024808396,3,raw_single,단일시점
+normal_95,0,0.015125299,3,raw_single,단일시점
+normal_97,0,0.003071486,3,raw_single,단일시점
+normal_103,0,0.005571008,3,raw_single,단일시점
+normal_106,0,0.0021623624,3,raw_single,단일시점
+normal_116,0,0.002545921,3,raw_single,단일시점
+normal_117,0,0.0036654063,3,raw_single,단일시점
+normal_130,0,0.0036991187,3,raw_single,단일시점
+normal_133,0,0.0023414209,3,raw_single,단일시점
+normal_137,0,0.004200867,3,raw_single,단일시점
+normal_140,0,0.0018775547,3,raw_single,단일시점
+normal_146,0,0.017276809,3,raw_single,단일시점
+normal_149,0,0.002396386,3,raw_single,단일시점
+normal_159,0,0.005161275,3,raw_single,단일시점
+normal_160,0,0.0037019744,3,raw_single,단일시점
+normal_167,0,0.0045721065,3,raw_single,단일시점
+normal_190,0,0.0031359508,3,raw_single,단일시점
+normal_196,0,0.0026407982,3,raw_single,단일시점
+normal_200,0,0.0024513663,3,raw_single,단일시점
+normal_212,0,0.0029437789,3,raw_single,단일시점
+normal_223,0,0.0027649389,3,raw_single,단일시점
+normal_224,0,0.0034061992,3,raw_single,단일시점
+normal_229,0,0.0068905056,3,raw_single,단일시점
+normal_235,0,0.0028135027,3,raw_single,단일시점
+normal_240,0,0.003843331,3,raw_single,단일시점
+normal_241,0,0.0021680107,3,raw_single,단일시점
+normal_242,0,0.016452525,3,raw_single,단일시점
+normal_250,0,0.0036823177,3,raw_single,단일시점
+normal_253,0,0.002508167,3,raw_single,단일시점
+normal_259,0,0.002025041,3,raw_single,단일시점
+normal_260,0,0.007282523,3,raw_single,단일시점
+normal_273,0,0.0027104102,3,raw_single,단일시점
+normal_274,0,0.0051818755,3,raw_single,단일시점
+normal_276,0,0.0028560266,3,raw_single,단일시점
+normal_286,0,0.004691748,3,raw_single,단일시점
+normal_290,0,0.00873745,3,raw_single,단일시점
+normal_307,0,0.002938733,3,raw_single,단일시점
+normal_310,0,0.0029094531,3,raw_single,단일시점
+normal_325,0,0.0025180082,3,raw_single,단일시점
+normal_341,0,0.00492027,3,raw_single,단일시점
+normal_349,0,0.02277405,3,raw_single,단일시점
+normal_358,0,0.028115511,3,raw_single,단일시점
+normal_375,0,0.002574157,3,raw_single,단일시점
+normal_376,0,0.009368127,3,raw_single,단일시점
+normal_384,0,0.013793683,3,raw_single,단일시점
+normal_386,0,0.002399252,3,raw_single,단일시점
+normal_392,0,0.0023793352,3,raw_single,단일시점
+normal_396,0,0.00719003,3,raw_single,단일시점
+normal_398,0,0.007940071,3,raw_single,단일시점
+normal_411,0,0.023947097,3,raw_single,단일시점
+normal_425,0,0.0030009346,3,raw_single,단일시점
+normal_431,0,0.0217584,3,raw_single,단일시점
+normal_447,0,0.0021922556,3,raw_single,단일시점
+normal_451,0,0.013189924,3,raw_single,단일시점
+normal_457,0,0.0027115783,3,raw_single,단일시점
+normal_463,0,0.0035941992,3,raw_single,단일시점
+normal_471,0,0.00349456,3,raw_single,단일시점
+normal_473,0,0.0027197842,3,raw_single,단일시점
+normal_475,0,0.0020028758,3,raw_single,단일시점
+normal_480,0,0.0034025148,3,raw_single,단일시점
+normal_483,0,0.0021336202,3,raw_single,단일시점
+normal_487,0,0.0023307824,3,raw_single,단일시점
+normal_489,0,0.0024453944,3,raw_single,단일시점
+normal_492,0,0.0023978958,3,raw_single,단일시점
+normal_493,0,0.0019172489,3,raw_single,단일시점
+normal_501,0,0.0024878383,3,raw_single,단일시점
+normal_507,0,0.002929946,3,raw_single,단일시점
+normal_508,0,0.002439436,3,raw_single,단일시점
+normal_513,0,0.0034288266,3,raw_single,단일시점
+normal_517,0,0.0024596124,3,raw_single,단일시점
+normal_518,0,0.0023114637,3,raw_single,단일시점
+normal_527,0,0.0031055463,3,raw_single,단일시점
+normal_556,0,0.0028443274,3,raw_single,단일시점
+normal_559,0,0.0027562785,3,raw_single,단일시점
+normal_562,0,0.0025065355,3,raw_single,단일시점
+normal_570,0,0.017521124,3,raw_single,단일시점
+normal_587,0,0.014710729,3,raw_single,단일시점
+normal_590,0,0.014490615,3,raw_single,단일시점
+normal_595,0,0.018428477,3,raw_single,단일시점
+anomaly_13,1,0.66603273,3,raw_single,단일시점
+anomaly_17,1,2.7934375,3,raw_single,단일시점
+normal_1,0,0.5328901,3,raw_window_5,원데이터 0.5초
+normal_17,0,0.70640266,3,raw_window_5,원데이터 0.5초
+normal_23,0,0.52261424,3,raw_window_5,원데이터 0.5초
+normal_28,0,0.28005654,3,raw_window_5,원데이터 0.5초
+normal_29,0,0.3488199,3,raw_window_5,원데이터 0.5초
+normal_49,0,0.12769255,3,raw_window_5,원데이터 0.5초
+normal_60,0,0.53525263,3,raw_window_5,원데이터 0.5초
+normal_65,0,0.41295093,3,raw_window_5,원데이터 0.5초
+normal_75,0,0.6245344,3,raw_window_5,원데이터 0.5초
+normal_76,0,0.7696863,3,raw_window_5,원데이터 0.5초
+normal_86,0,0.42175514,3,raw_window_5,원데이터 0.5초
+normal_90,0,0.5518578,3,raw_window_5,원데이터 0.5초
+normal_92,0,0.19736025,3,raw_window_5,원데이터 0.5초
+normal_95,0,0.65291035,3,raw_window_5,원데이터 0.5초
+normal_97,0,0.12790215,3,raw_window_5,원데이터 0.5초
+normal_103,0,0.51954776,3,raw_window_5,원데이터 0.5초
+normal_106,0,0.25905657,3,raw_window_5,원데이터 0.5초
+normal_116,0,0.14481053,3,raw_window_5,원데이터 0.5초
+normal_117,0,0.44564486,3,raw_window_5,원데이터 0.5초
+normal_130,0,0.40455207,3,raw_window_5,원데이터 0.5초
+normal_133,0,0.29526934,3,raw_window_5,원데이터 0.5초
+normal_137,0,0.5639144,3,raw_window_5,원데이터 0.5초
+normal_140,0,0.29021847,3,raw_window_5,원데이터 0.5초
+normal_146,0,0.80490196,3,raw_window_5,원데이터 0.5초
+normal_149,0,0.17146592,3,raw_window_5,원데이터 0.5초
+normal_159,0,0.6285134,3,raw_window_5,원데이터 0.5초
+normal_160,0,0.25030157,3,raw_window_5,원데이터 0.5초
+normal_167,0,0.59221244,3,raw_window_5,원데이터 0.5초
+normal_190,0,0.62535375,3,raw_window_5,원데이터 0.5초
+normal_196,0,0.27751455,3,raw_window_5,원데이터 0.5초
+normal_200,0,0.4427722,3,raw_window_5,원데이터 0.5초
+normal_212,0,0.43842593,3,raw_window_5,원데이터 0.5초
+normal_223,0,0.56663734,3,raw_window_5,원데이터 0.5초
+normal_224,0,0.2016098,3,raw_window_5,원데이터 0.5초
+normal_229,0,0.52682847,3,raw_window_5,원데이터 0.5초
+normal_235,0,0.36447874,3,raw_window_5,원데이터 0.5초
+normal_240,0,0.5247325,3,raw_window_5,원데이터 0.5초
+normal_241,0,0.3057137,3,raw_window_5,원데이터 0.5초
+normal_242,0,0.7389923,3,raw_window_5,원데이터 0.5초
+normal_250,0,0.57739025,3,raw_window_5,원데이터 0.5초
+normal_253,0,0.16023405,3,raw_window_5,원데이터 0.5초
+normal_259,0,0.44060808,3,raw_window_5,원데이터 0.5초
+normal_260,0,0.6772188,3,raw_window_5,원데이터 0.5초
+normal_273,0,0.15755837,3,raw_window_5,원데이터 0.5초
+normal_274,0,0.5303224,3,raw_window_5,원데이터 0.5초
+normal_276,0,0.28916985,3,raw_window_5,원데이터 0.5초
+normal_286,0,0.50032264,3,raw_window_5,원데이터 0.5초
+normal_290,0,0.8160324,3,raw_window_5,원데이터 0.5초
+normal_307,0,0.129725,3,raw_window_5,원데이터 0.5초
+normal_310,0,0.3776678,3,raw_window_5,원데이터 0.5초
+normal_325,0,0.39130545,3,raw_window_5,원데이터 0.5초
+normal_341,0,0.61182344,3,raw_window_5,원데이터 0.5초
+normal_349,0,0.88099843,3,raw_window_5,원데이터 0.5초
+normal_358,0,0.92383045,3,raw_window_5,원데이터 0.5초
+normal_375,0,0.24365823,3,raw_window_5,원데이터 0.5초
+normal_376,0,0.6246656,3,raw_window_5,원데이터 0.5초
+normal_384,0,0.7363555,3,raw_window_5,원데이터 0.5초
+normal_386,0,0.20339017,3,raw_window_5,원데이터 0.5초
+normal_392,0,0.11253824,3,raw_window_5,원데이터 0.5초
+normal_396,0,0.55765647,3,raw_window_5,원데이터 0.5초
+normal_398,0,0.8376786,3,raw_window_5,원데이터 0.5초
+normal_411,0,0.81956017,3,raw_window_5,원데이터 0.5초
+normal_425,0,0.33342004,3,raw_window_5,원데이터 0.5초
+normal_431,0,0.71496177,3,raw_window_5,원데이터 0.5초
+normal_447,0,0.1568084,3,raw_window_5,원데이터 0.5초
+normal_451,0,0.6837017,3,raw_window_5,원데이터 0.5초
+normal_457,0,0.25616127,3,raw_window_5,원데이터 0.5초
+normal_463,0,0.58903396,3,raw_window_5,원데이터 0.5초
+normal_471,0,0.6305953,3,raw_window_5,원데이터 0.5초
+normal_473,0,0.0974065,3,raw_window_5,원데이터 0.5초
+normal_475,0,0.21371517,3,raw_window_5,원데이터 0.5초
+normal_480,0,0.2156336,3,raw_window_5,원데이터 0.5초
+normal_483,0,0.09690346,3,raw_window_5,원데이터 0.5초
+normal_487,0,0.15308145,3,raw_window_5,원데이터 0.5초
+normal_489,0,0.095242016,3,raw_window_5,원데이터 0.5초
+normal_492,0,0.18307182,3,raw_window_5,원데이터 0.5초
+normal_493,0,0.1759298,3,raw_window_5,원데이터 0.5초
+normal_501,0,0.16549301,3,raw_window_5,원데이터 0.5초
+normal_507,0,0.12838453,3,raw_window_5,원데이터 0.5초
+normal_508,0,0.14796424,3,raw_window_5,원데이터 0.5초
+normal_513,0,0.1784598,3,raw_window_5,원데이터 0.5초
+normal_517,0,0.11498015,3,raw_window_5,원데이터 0.5초
+normal_518,0,0.121271536,3,raw_window_5,원데이터 0.5초
+normal_527,0,0.19269638,3,raw_window_5,원데이터 0.5초
+normal_556,0,0.12975726,3,raw_window_5,원데이터 0.5초
+normal_559,0,0.20572548,3,raw_window_5,원데이터 0.5초
+normal_562,0,0.26149064,3,raw_window_5,원데이터 0.5초
+normal_570,0,0.83090115,3,raw_window_5,원데이터 0.5초
+normal_587,0,0.49586636,3,raw_window_5,원데이터 0.5초
+normal_590,0,0.52236843,3,raw_window_5,원데이터 0.5초
+normal_595,0,0.60850316,3,raw_window_5,원데이터 0.5초
+anomaly_13,1,11.6443205,3,raw_window_5,원데이터 0.5초
+anomaly_17,1,3.7471511,3,raw_window_5,원데이터 0.5초
+normal_1,0,0.8074127,3,raw_window_10,원데이터 1.0초
+normal_17,0,0.92171586,3,raw_window_10,원데이터 1.0초
+normal_23,0,0.54294956,3,raw_window_10,원데이터 1.0초
+normal_28,0,0.3337649,3,raw_window_10,원데이터 1.0초
+normal_29,0,0.33624843,3,raw_window_10,원데이터 1.0초
+normal_49,0,0.13804656,3,raw_window_10,원데이터 1.0초
+normal_60,0,0.9398087,3,raw_window_10,원데이터 1.0초
+normal_65,0,0.37969902,3,raw_window_10,원데이터 1.0초
+normal_75,0,1.0652097,3,raw_window_10,원데이터 1.0초
+normal_76,0,0.8889144,3,raw_window_10,원데이터 1.0초
+normal_86,0,0.55106604,3,raw_window_10,원데이터 1.0초
+normal_90,0,1.1900622,3,raw_window_10,원데이터 1.0초
+normal_92,0,0.21850683,3,raw_window_10,원데이터 1.0초
+normal_95,0,1.0501198,3,raw_window_10,원데이터 1.0초
+normal_97,0,0.13575163,3,raw_window_10,원데이터 1.0초
+normal_103,0,0.6553951,3,raw_window_10,원데이터 1.0초
+normal_106,0,0.2901109,3,raw_window_10,원데이터 1.0초
+normal_116,0,0.14181903,3,raw_window_10,원데이터 1.0초
+normal_117,0,0.5944637,3,raw_window_10,원데이터 1.0초
+normal_130,0,0.42940438,3,raw_window_10,원데이터 1.0초
+normal_133,0,0.43564463,3,raw_window_10,원데이터 1.0초
+normal_137,0,0.6794368,3,raw_window_10,원데이터 1.0초
+normal_140,0,0.33924237,3,raw_window_10,원데이터 1.0초
+normal_146,0,1.145237,3,raw_window_10,원데이터 1.0초
+normal_149,0,0.18878713,3,raw_window_10,원데이터 1.0초
+normal_159,0,0.7942658,3,raw_window_10,원데이터 1.0초
+normal_160,0,0.2562483,3,raw_window_10,원데이터 1.0초
+normal_167,0,0.83603215,3,raw_window_10,원데이터 1.0초
+normal_190,0,0.8278758,3,raw_window_10,원데이터 1.0초
+normal_196,0,0.31734926,3,raw_window_10,원데이터 1.0초
+normal_200,0,0.6441105,3,raw_window_10,원데이터 1.0초
+normal_212,0,0.6652005,3,raw_window_10,원데이터 1.0초
+normal_223,0,0.6666591,3,raw_window_10,원데이터 1.0초
+normal_224,0,0.25099683,3,raw_window_10,원데이터 1.0초
+normal_229,0,1.2775531,3,raw_window_10,원데이터 1.0초
+normal_235,0,0.45588344,3,raw_window_10,원데이터 1.0초
+normal_240,0,0.56402504,3,raw_window_10,원데이터 1.0초
+normal_241,0,0.32245812,3,raw_window_10,원데이터 1.0초
+normal_242,0,1.3550597,3,raw_window_10,원데이터 1.0초
+normal_250,0,0.75133324,3,raw_window_10,원데이터 1.0초
+normal_253,0,0.16531986,3,raw_window_10,원데이터 1.0초
+normal_259,0,0.61922556,3,raw_window_10,원데이터 1.0초
+normal_260,0,1.090299,3,raw_window_10,원데이터 1.0초
+normal_273,0,0.18130164,3,raw_window_10,원데이터 1.0초
+normal_274,0,0.65470624,3,raw_window_10,원데이터 1.0초
+normal_276,0,0.36484998,3,raw_window_10,원데이터 1.0초
+normal_286,0,0.56569207,3,raw_window_10,원데이터 1.0초
+normal_290,0,1.3354017,3,raw_window_10,원데이터 1.0초
+normal_307,0,0.15991169,3,raw_window_10,원데이터 1.0초
+normal_310,0,0.47816065,3,raw_window_10,원데이터 1.0초
+normal_325,0,0.5445053,3,raw_window_10,원데이터 1.0초
+normal_341,0,0.70958036,3,raw_window_10,원데이터 1.0초
+normal_349,0,1.4405876,3,raw_window_10,원데이터 1.0초
+normal_358,0,1.7197384,3,raw_window_10,원데이터 1.0초
+normal_375,0,0.28075695,3,raw_window_10,원데이터 1.0초
+normal_376,0,1.1621567,3,raw_window_10,원데이터 1.0초
+normal_384,0,1.2660418,3,raw_window_10,원데이터 1.0초
+normal_386,0,0.19233574,3,raw_window_10,원데이터 1.0초
+normal_392,0,0.119157426,3,raw_window_10,원데이터 1.0초
+normal_396,0,0.8488941,3,raw_window_10,원데이터 1.0초
+normal_398,0,1.266622,3,raw_window_10,원데이터 1.0초
+normal_411,0,1.1456485,3,raw_window_10,원데이터 1.0초
+normal_425,0,0.41448933,3,raw_window_10,원데이터 1.0초
+normal_431,0,1.3190316,3,raw_window_10,원데이터 1.0초
+normal_447,0,0.17953493,3,raw_window_10,원데이터 1.0초
+normal_451,0,1.3743798,3,raw_window_10,원데이터 1.0초
+normal_457,0,0.28410417,3,raw_window_10,원데이터 1.0초
+normal_463,0,0.5739308,3,raw_window_10,원데이터 1.0초
+normal_471,0,0.77419955,3,raw_window_10,원데이터 1.0초
+normal_473,0,0.09570181,3,raw_window_10,원데이터 1.0초
+normal_475,0,0.22633883,3,raw_window_10,원데이터 1.0초
+normal_480,0,0.2184171,3,raw_window_10,원데이터 1.0초
+normal_483,0,0.093882225,3,raw_window_10,원데이터 1.0초
+normal_487,0,0.17321253,3,raw_window_10,원데이터 1.0초
+normal_489,0,0.088496834,3,raw_window_10,원데이터 1.0초
+normal_492,0,0.18917629,3,raw_window_10,원데이터 1.0초
+normal_493,0,0.18142265,3,raw_window_10,원데이터 1.0초
+normal_501,0,0.19833481,3,raw_window_10,원데이터 1.0초
+normal_507,0,0.13381116,3,raw_window_10,원데이터 1.0초
+normal_508,0,0.15965101,3,raw_window_10,원데이터 1.0초
+normal_513,0,0.18307598,3,raw_window_10,원데이터 1.0초
+normal_517,0,0.12006493,3,raw_window_10,원데이터 1.0초
+normal_518,0,0.09872745,3,raw_window_10,원데이터 1.0초
+normal_527,0,0.20075995,3,raw_window_10,원데이터 1.0초
+normal_556,0,0.1304847,3,raw_window_10,원데이터 1.0초
+normal_559,0,0.2113764,3,raw_window_10,원데이터 1.0초
+normal_562,0,0.29830354,3,raw_window_10,원데이터 1.0초
+normal_570,0,0.92515445,3,raw_window_10,원데이터 1.0초
+normal_587,0,1.1393733,3,raw_window_10,원데이터 1.0초
+normal_590,0,1.0186663,3,raw_window_10,원데이터 1.0초
+normal_595,0,1.4020783,3,raw_window_10,원데이터 1.0초
+anomaly_13,1,13.899916,3,raw_window_10,원데이터 1.0초
+anomaly_17,1,3.4876473,3,raw_window_10,원데이터 1.0초
+normal_1,0,1.0580043,3,raw_window_15,원데이터 1.5초
+normal_17,0,1.0150813,3,raw_window_15,원데이터 1.5초
+normal_23,0,0.61929977,3,raw_window_15,원데이터 1.5초
+normal_28,0,0.38730565,3,raw_window_15,원데이터 1.5초
+normal_29,0,0.37305927,3,raw_window_15,원데이터 1.5초
+normal_49,0,0.18479586,3,raw_window_15,원데이터 1.5초
+normal_60,0,1.1317425,3,raw_window_15,원데이터 1.5초
+normal_65,0,0.4574351,3,raw_window_15,원데이터 1.5초
+normal_75,0,1.2489525,3,raw_window_15,원데이터 1.5초
+normal_76,0,0.9402173,3,raw_window_15,원데이터 1.5초
+normal_86,0,0.60887426,3,raw_window_15,원데이터 1.5초
+normal_90,0,1.5905881,3,raw_window_15,원데이터 1.5초
+normal_92,0,0.2718345,3,raw_window_15,원데이터 1.5초
+normal_95,0,1.219687,3,raw_window_15,원데이터 1.5초
+normal_97,0,0.16301027,3,raw_window_15,원데이터 1.5초
+normal_103,0,0.6793681,3,raw_window_15,원데이터 1.5초
+normal_106,0,0.32499415,3,raw_window_15,원데이터 1.5초
+normal_116,0,0.19631426,3,raw_window_15,원데이터 1.5초
+normal_117,0,0.7603622,3,raw_window_15,원데이터 1.5초
+normal_130,0,0.47121173,3,raw_window_15,원데이터 1.5초
+normal_133,0,0.47330287,3,raw_window_15,원데이터 1.5초
+normal_137,0,0.75487715,3,raw_window_15,원데이터 1.5초
+normal_140,0,0.3835664,3,raw_window_15,원데이터 1.5초
+normal_146,0,1.1897465,3,raw_window_15,원데이터 1.5초
+normal_149,0,0.21321817,3,raw_window_15,원데이터 1.5초
+normal_159,0,0.8463951,3,raw_window_15,원데이터 1.5초
+normal_160,0,0.29870293,3,raw_window_15,원데이터 1.5초
+normal_167,0,0.7921778,3,raw_window_15,원데이터 1.5초
+normal_190,0,1.009016,3,raw_window_15,원데이터 1.5초
+normal_196,0,0.3867174,3,raw_window_15,원데이터 1.5초
+normal_200,0,0.7078929,3,raw_window_15,원데이터 1.5초
+normal_212,0,0.77484006,3,raw_window_15,원데이터 1.5초
+normal_223,0,0.760871,3,raw_window_15,원데이터 1.5초
+normal_224,0,0.31131792,3,raw_window_15,원데이터 1.5초
+normal_229,0,1.4826027,3,raw_window_15,원데이터 1.5초
+normal_235,0,0.53519434,3,raw_window_15,원데이터 1.5초
+normal_240,0,0.5917132,3,raw_window_15,원데이터 1.5초
+normal_241,0,0.3736321,3,raw_window_15,원데이터 1.5초
+normal_242,0,1.6420422,3,raw_window_15,원데이터 1.5초
+normal_250,0,0.81905913,3,raw_window_15,원데이터 1.5초
+normal_253,0,0.2008654,3,raw_window_15,원데이터 1.5초
+normal_259,0,0.7731088,3,raw_window_15,원데이터 1.5초
+normal_260,0,1.6051923,3,raw_window_15,원데이터 1.5초
+normal_273,0,0.21329975,3,raw_window_15,원데이터 1.5초
+normal_274,0,0.78877705,3,raw_window_15,원데이터 1.5초
+normal_276,0,0.4567281,3,raw_window_15,원데이터 1.5초
+normal_286,0,0.61644065,3,raw_window_15,원데이터 1.5초
+normal_290,0,1.5007447,3,raw_window_15,원데이터 1.5초
+normal_307,0,0.20730184,3,raw_window_15,원데이터 1.5초
+normal_310,0,0.49255916,3,raw_window_15,원데이터 1.5초
+normal_325,0,0.57078314,3,raw_window_15,원데이터 1.5초
+normal_341,0,0.80622107,3,raw_window_15,원데이터 1.5초
+normal_349,0,1.8279954,3,raw_window_15,원데이터 1.5초
+normal_358,0,1.8702548,3,raw_window_15,원데이터 1.5초
+normal_375,0,0.34467962,3,raw_window_15,원데이터 1.5초
+normal_376,0,1.4188124,3,raw_window_15,원데이터 1.5초
+normal_384,0,1.4923931,3,raw_window_15,원데이터 1.5초
+normal_386,0,0.25735337,3,raw_window_15,원데이터 1.5초
+normal_392,0,0.17039832,3,raw_window_15,원데이터 1.5초
+normal_396,0,0.92553663,3,raw_window_15,원데이터 1.5초
+normal_398,0,1.503296,3,raw_window_15,원데이터 1.5초
+normal_411,0,1.4460974,3,raw_window_15,원데이터 1.5초
+normal_425,0,0.46303016,3,raw_window_15,원데이터 1.5초
+normal_431,0,1.5743138,3,raw_window_15,원데이터 1.5초
+normal_447,0,0.21411717,3,raw_window_15,원데이터 1.5초
+normal_451,0,1.5741296,3,raw_window_15,원데이터 1.5초
+normal_457,0,0.32608247,3,raw_window_15,원데이터 1.5초
+normal_463,0,0.62376803,3,raw_window_15,원데이터 1.5초
+normal_471,0,0.896938,3,raw_window_15,원데이터 1.5초
+normal_473,0,0.13928235,3,raw_window_15,원데이터 1.5초
+normal_475,0,0.26596373,3,raw_window_15,원데이터 1.5초
+normal_480,0,0.26341936,3,raw_window_15,원데이터 1.5초
+normal_483,0,0.14174241,3,raw_window_15,원데이터 1.5초
+normal_487,0,0.21677074,3,raw_window_15,원데이터 1.5초
+normal_489,0,0.11739287,3,raw_window_15,원데이터 1.5초
+normal_492,0,0.23478638,3,raw_window_15,원데이터 1.5초
+normal_493,0,0.2233028,3,raw_window_15,원데이터 1.5초
+normal_501,0,0.20595472,3,raw_window_15,원데이터 1.5초
+normal_507,0,0.1614544,3,raw_window_15,원데이터 1.5초
+normal_508,0,0.19622435,3,raw_window_15,원데이터 1.5초
+normal_513,0,0.22205825,3,raw_window_15,원데이터 1.5초
+normal_517,0,0.15063694,3,raw_window_15,원데이터 1.5초
+normal_518,0,0.13459833,3,raw_window_15,원데이터 1.5초
+normal_527,0,0.23096211,3,raw_window_15,원데이터 1.5초
+normal_556,0,0.16112356,3,raw_window_15,원데이터 1.5초
+normal_559,0,0.25335395,3,raw_window_15,원데이터 1.5초
+normal_562,0,0.34024283,3,raw_window_15,원데이터 1.5초
+normal_570,0,1.0098344,3,raw_window_15,원데이터 1.5초
+normal_587,0,1.2892071,3,raw_window_15,원데이터 1.5초
+normal_590,0,1.3687073,3,raw_window_15,원데이터 1.5초
+normal_595,0,1.5606736,3,raw_window_15,원데이터 1.5초
+anomaly_13,1,13.327298,3,raw_window_15,원데이터 1.5초
+anomaly_17,1,3.9650948,3,raw_window_15,원데이터 1.5초
+normal_1,0,0.9828129,3,raw_window_20,원데이터 2.0초
+normal_17,0,0.940856,3,raw_window_20,원데이터 2.0초
+normal_23,0,0.5870459,3,raw_window_20,원데이터 2.0초
+normal_28,0,0.37510905,3,raw_window_20,원데이터 2.0초
+normal_29,0,0.34785533,3,raw_window_20,원데이터 2.0초
+normal_49,0,0.20227046,3,raw_window_20,원데이터 2.0초
+normal_60,0,1.0256934,3,raw_window_20,원데이터 2.0초
+normal_65,0,0.58511585,3,raw_window_20,원데이터 2.0초
+normal_75,0,1.1167308,3,raw_window_20,원데이터 2.0초
+normal_76,0,0.9198604,3,raw_window_20,원데이터 2.0초
+normal_86,0,0.6171621,3,raw_window_20,원데이터 2.0초
+normal_90,0,1.4282372,3,raw_window_20,원데이터 2.0초
+normal_92,0,0.27487507,3,raw_window_20,원데이터 2.0초
+normal_95,0,1.1728219,3,raw_window_20,원데이터 2.0초
+normal_97,0,0.1463304,3,raw_window_20,원데이터 2.0초
+normal_103,0,0.6660723,3,raw_window_20,원데이터 2.0초
+normal_106,0,0.3637144,3,raw_window_20,원데이터 2.0초
+normal_116,0,0.15539223,3,raw_window_20,원데이터 2.0초
+normal_117,0,0.71996766,3,raw_window_20,원데이터 2.0초
+normal_130,0,0.46253103,3,raw_window_20,원데이터 2.0초
+normal_133,0,0.43425393,3,raw_window_20,원데이터 2.0초
+normal_137,0,0.71725464,3,raw_window_20,원데이터 2.0초
+normal_140,0,0.34906378,3,raw_window_20,원데이터 2.0초
+normal_146,0,1.1214764,3,raw_window_20,원데이터 2.0초
+normal_149,0,0.19668867,3,raw_window_20,원데이터 2.0초
+normal_159,0,0.8323717,3,raw_window_20,원데이터 2.0초
+normal_160,0,0.30158046,3,raw_window_20,원데이터 2.0초
+normal_167,0,0.7299532,3,raw_window_20,원데이터 2.0초
+normal_190,0,0.93577987,3,raw_window_20,원데이터 2.0초
+normal_196,0,0.4225201,3,raw_window_20,원데이터 2.0초
+normal_200,0,0.7071284,3,raw_window_20,원데이터 2.0초
+normal_212,0,0.7305968,3,raw_window_20,원데이터 2.0초
+normal_223,0,0.73212445,3,raw_window_20,원데이터 2.0초
+normal_224,0,0.29786748,3,raw_window_20,원데이터 2.0초
+normal_229,0,1.3932815,3,raw_window_20,원데이터 2.0초
+normal_235,0,0.5133773,3,raw_window_20,원데이터 2.0초
+normal_240,0,0.5837187,3,raw_window_20,원데이터 2.0초
+normal_241,0,0.35217863,3,raw_window_20,원데이터 2.0초
+normal_242,0,1.5261716,3,raw_window_20,원데이터 2.0초
+normal_250,0,0.7564819,3,raw_window_20,원데이터 2.0초
+normal_253,0,0.18311666,3,raw_window_20,원데이터 2.0초
+normal_259,0,0.7173294,3,raw_window_20,원데이터 2.0초
+normal_260,0,1.5057694,3,raw_window_20,원데이터 2.0초
+normal_273,0,0.20510384,3,raw_window_20,원데이터 2.0초
+normal_274,0,0.74014413,3,raw_window_20,원데이터 2.0초
+normal_276,0,0.4406911,3,raw_window_20,원데이터 2.0초
+normal_286,0,0.64743274,3,raw_window_20,원데이터 2.0초
+normal_290,0,1.4783859,3,raw_window_20,원데이터 2.0초
+normal_307,0,0.1897829,3,raw_window_20,원데이터 2.0초
+normal_310,0,0.4980083,3,raw_window_20,원데이터 2.0초
+normal_325,0,0.57139087,3,raw_window_20,원데이터 2.0초
+normal_341,0,0.74786735,3,raw_window_20,원데이터 2.0초
+normal_349,0,1.6913794,3,raw_window_20,원데이터 2.0초
+normal_358,0,1.7454685,3,raw_window_20,원데이터 2.0초
+normal_375,0,0.3711908,3,raw_window_20,원데이터 2.0초
+normal_376,0,1.2208736,3,raw_window_20,원데이터 2.0초
+normal_384,0,1.3788935,3,raw_window_20,원데이터 2.0초
+normal_386,0,0.2872428,3,raw_window_20,원데이터 2.0초
+normal_392,0,0.13434474,3,raw_window_20,원데이터 2.0초
+normal_396,0,0.8539648,3,raw_window_20,원데이터 2.0초
+normal_398,0,1.5056571,3,raw_window_20,원데이터 2.0초
+normal_411,0,1.3663998,3,raw_window_20,원데이터 2.0초
+normal_425,0,0.4092821,3,raw_window_20,원데이터 2.0초
+normal_431,0,1.4439573,3,raw_window_20,원데이터 2.0초
+normal_447,0,0.20281886,3,raw_window_20,원데이터 2.0초
+normal_451,0,1.494973,3,raw_window_20,원데이터 2.0초
+normal_457,0,0.30965528,3,raw_window_20,원데이터 2.0초
+normal_463,0,0.5763164,3,raw_window_20,원데이터 2.0초
+normal_471,0,0.8014184,3,raw_window_20,원데이터 2.0초
+normal_473,0,0.11582258,3,raw_window_20,원데이터 2.0초
+normal_475,0,0.2528015,3,raw_window_20,원데이터 2.0초
+normal_480,0,0.23381254,3,raw_window_20,원데이터 2.0초
+normal_483,0,0.10830504,3,raw_window_20,원데이터 2.0초
+normal_487,0,0.19870515,3,raw_window_20,원데이터 2.0초
+normal_489,0,0.114055336,3,raw_window_20,원데이터 2.0초
+normal_492,0,0.20194888,3,raw_window_20,원데이터 2.0초
+normal_493,0,0.19640397,3,raw_window_20,원데이터 2.0초
+normal_501,0,0.18930829,3,raw_window_20,원데이터 2.0초
+normal_507,0,0.14364694,3,raw_window_20,원데이터 2.0초
+normal_508,0,0.17876872,3,raw_window_20,원데이터 2.0초
+normal_513,0,0.19464698,3,raw_window_20,원데이터 2.0초
+normal_517,0,0.13320579,3,raw_window_20,원데이터 2.0초
+normal_518,0,0.1226621,3,raw_window_20,원데이터 2.0초
+normal_527,0,0.20994517,3,raw_window_20,원데이터 2.0초
+normal_556,0,0.13963963,3,raw_window_20,원데이터 2.0초
+normal_559,0,0.23199072,3,raw_window_20,원데이터 2.0초
+normal_562,0,0.3218596,3,raw_window_20,원데이터 2.0초
+normal_570,0,1.1785392,3,raw_window_20,원데이터 2.0초
+normal_587,0,1.18409,3,raw_window_20,원데이터 2.0초
+normal_590,0,1.3226192,3,raw_window_20,원데이터 2.0초
+normal_595,0,1.4373535,3,raw_window_20,원데이터 2.0초
+anomaly_13,1,11.876407,3,raw_window_20,원데이터 2.0초
+anomaly_17,1,4.2572527,3,raw_window_20,원데이터 2.0초
+normal_1,0,0.43613347,3,derived_5,파생 0.5초
+normal_17,0,0.41628066,3,derived_5,파생 0.5초
+normal_23,0,0.27428317,3,derived_5,파생 0.5초
+normal_28,0,0.20336401,3,derived_5,파생 0.5초
+normal_29,0,0.15603486,3,derived_5,파생 0.5초
+normal_49,0,0.1071261,3,derived_5,파생 0.5초
+normal_60,0,0.42482266,3,derived_5,파생 0.5초
+normal_65,0,0.270814,3,derived_5,파생 0.5초
+normal_75,0,0.5505478,3,derived_5,파생 0.5초
+normal_76,0,0.35830045,3,derived_5,파생 0.5초
+normal_86,0,0.27002102,3,derived_5,파생 0.5초
+normal_90,0,0.5345965,3,derived_5,파생 0.5초
+normal_92,0,0.14509854,3,derived_5,파생 0.5초
+normal_95,0,0.5144683,3,derived_5,파생 0.5초
+normal_97,0,0.08238172,3,derived_5,파생 0.5초
+normal_103,0,0.2725515,3,derived_5,파생 0.5초
+normal_106,0,0.16354609,3,derived_5,파생 0.5초
+normal_116,0,0.09260185,3,derived_5,파생 0.5초
+normal_117,0,0.2769321,3,derived_5,파생 0.5초
+normal_130,0,0.20320974,3,derived_5,파생 0.5초
+normal_133,0,0.2457253,3,derived_5,파생 0.5초
+normal_137,0,0.28371978,3,derived_5,파생 0.5초
+normal_140,0,0.15626559,3,derived_5,파생 0.5초
+normal_146,0,0.43688735,3,derived_5,파생 0.5초
+normal_149,0,0.09977835,3,derived_5,파생 0.5초
+normal_159,0,0.34282428,3,derived_5,파생 0.5초
+normal_160,0,0.12274448,3,derived_5,파생 0.5초
+normal_167,0,0.3568959,3,derived_5,파생 0.5초
+normal_190,0,0.3580391,3,derived_5,파생 0.5초
+normal_196,0,0.22695403,3,derived_5,파생 0.5초
+normal_200,0,0.25148302,3,derived_5,파생 0.5초
+normal_212,0,0.3889525,3,derived_5,파생 0.5초
+normal_223,0,0.32362986,3,derived_5,파생 0.5초
+normal_224,0,0.14791834,3,derived_5,파생 0.5초
+normal_229,0,0.49887696,3,derived_5,파생 0.5초
+normal_235,0,0.23656912,3,derived_5,파생 0.5초
+normal_240,0,0.30145413,3,derived_5,파생 0.5초
+normal_241,0,0.14690776,3,derived_5,파생 0.5초
+normal_242,0,0.58350486,3,derived_5,파생 0.5초
+normal_250,0,0.26375788,3,derived_5,파생 0.5초
+normal_253,0,0.11516155,3,derived_5,파생 0.5초
+normal_259,0,0.29299718,3,derived_5,파생 0.5초
+normal_260,0,0.6060016,3,derived_5,파생 0.5초
+normal_273,0,0.09463149,3,derived_5,파생 0.5초
+normal_274,0,0.35619387,3,derived_5,파생 0.5초
+normal_276,0,0.19991109,3,derived_5,파생 0.5초
+normal_286,0,0.31789687,3,derived_5,파생 0.5초
+normal_290,0,0.5187365,3,derived_5,파생 0.5초
+normal_307,0,0.08885985,3,derived_5,파생 0.5초
+normal_310,0,0.2608925,3,derived_5,파생 0.5초
+normal_325,0,0.22408505,3,derived_5,파생 0.5초
+normal_341,0,0.31943113,3,derived_5,파생 0.5초
+normal_349,0,0.60732806,3,derived_5,파생 0.5초
+normal_358,0,0.84168774,3,derived_5,파생 0.5초
+normal_375,0,0.20128436,3,derived_5,파생 0.5초
+normal_376,0,0.5497271,3,derived_5,파생 0.5초
+normal_384,0,0.6352122,3,derived_5,파생 0.5초
+normal_386,0,0.13525365,3,derived_5,파생 0.5초
+normal_392,0,0.09249656,3,derived_5,파생 0.5초
+normal_396,0,0.38465148,3,derived_5,파생 0.5초
+normal_398,0,0.5826462,3,derived_5,파생 0.5초
+normal_411,0,0.539689,3,derived_5,파생 0.5초
+normal_425,0,0.17784138,3,derived_5,파생 0.5초
+normal_431,0,0.5808234,3,derived_5,파생 0.5초
+normal_447,0,0.098412596,3,derived_5,파생 0.5초
+normal_451,0,0.6910161,3,derived_5,파생 0.5초
+normal_457,0,0.17541428,3,derived_5,파생 0.5초
+normal_463,0,0.23565014,3,derived_5,파생 0.5초
+normal_471,0,0.28737143,3,derived_5,파생 0.5초
+normal_473,0,0.07098967,3,derived_5,파생 0.5초
+normal_475,0,0.10657288,3,derived_5,파생 0.5초
+normal_480,0,0.10341765,3,derived_5,파생 0.5초
+normal_483,0,0.06576243,3,derived_5,파생 0.5초
+normal_487,0,0.10357712,3,derived_5,파생 0.5초
+normal_489,0,0.0692725,3,derived_5,파생 0.5초
+normal_492,0,0.12103461,3,derived_5,파생 0.5초
+normal_493,0,0.09232923,3,derived_5,파생 0.5초
+normal_501,0,0.13099746,3,derived_5,파생 0.5초
+normal_507,0,0.07299425,3,derived_5,파생 0.5초
+normal_508,0,0.09728163,3,derived_5,파생 0.5초
+normal_513,0,0.09344302,3,derived_5,파생 0.5초
+normal_517,0,0.0755704,3,derived_5,파생 0.5초
+normal_518,0,0.06265069,3,derived_5,파생 0.5초
+normal_527,0,0.10777398,3,derived_5,파생 0.5초
+normal_556,0,0.084858984,3,derived_5,파생 0.5초
+normal_559,0,0.09254891,3,derived_5,파생 0.5초
+normal_562,0,0.16346793,3,derived_5,파생 0.5초
+normal_570,0,0.5771359,3,derived_5,파생 0.5초
+normal_587,0,0.5666437,3,derived_5,파생 0.5초
+normal_590,0,0.630088,3,derived_5,파생 0.5초
+normal_595,0,0.6094019,3,derived_5,파생 0.5초
+anomaly_13,1,22.067078,3,derived_5,파생 0.5초
+anomaly_17,1,4.7052646,3,derived_5,파생 0.5초
+normal_1,0,0.9490231,3,derived_10,파생 1.0초
+normal_17,0,0.81057143,3,derived_10,파생 1.0초
+normal_23,0,0.5427543,3,derived_10,파생 1.0초
+normal_28,0,0.40200725,3,derived_10,파생 1.0초
+normal_29,0,0.3296317,3,derived_10,파생 1.0초
+normal_49,0,0.29433015,3,derived_10,파생 1.0초
+normal_60,0,1.083552,3,derived_10,파생 1.0초
+normal_65,0,0.4858898,3,derived_10,파생 1.0초
+normal_75,0,1.3131365,3,derived_10,파생 1.0초
+normal_76,0,0.7646131,3,derived_10,파생 1.0초
+normal_86,0,0.5569814,3,derived_10,파생 1.0초
+normal_90,0,1.3382217,3,derived_10,파생 1.0초
+normal_92,0,0.3146368,3,derived_10,파생 1.0초
+normal_95,0,1.0877835,3,derived_10,파생 1.0초
+normal_97,0,0.1920837,3,derived_10,파생 1.0초
+normal_103,0,0.5757493,3,derived_10,파생 1.0초
+normal_106,0,0.3777714,3,derived_10,파생 1.0초
+normal_116,0,0.24037823,3,derived_10,파생 1.0초
+normal_117,0,0.8529782,3,derived_10,파생 1.0초
+normal_130,0,0.37344587,3,derived_10,파생 1.0초
+normal_133,0,0.5168653,3,derived_10,파생 1.0초
+normal_137,0,0.70396185,3,derived_10,파생 1.0초
+normal_140,0,0.33598885,3,derived_10,파생 1.0초
+normal_146,0,1.1335162,3,derived_10,파생 1.0초
+normal_149,0,0.261059,3,derived_10,파생 1.0초
+normal_159,0,0.749177,3,derived_10,파생 1.0초
+normal_160,0,0.27514338,3,derived_10,파생 1.0초
+normal_167,0,0.88765615,3,derived_10,파생 1.0초
+normal_190,0,0.8142784,3,derived_10,파생 1.0초
+normal_196,0,0.54201657,3,derived_10,파생 1.0초
+normal_200,0,0.68714523,3,derived_10,파생 1.0초
+normal_212,0,0.78570956,3,derived_10,파생 1.0초
+normal_223,0,0.61624897,3,derived_10,파생 1.0초
+normal_224,0,0.39375415,3,derived_10,파생 1.0초
+normal_229,0,1.2485536,3,derived_10,파생 1.0초
+normal_235,0,0.49008036,3,derived_10,파생 1.0초
+normal_240,0,0.56535876,3,derived_10,파생 1.0초
+normal_241,0,0.32646993,3,derived_10,파생 1.0초
+normal_242,0,1.4996699,3,derived_10,파생 1.0초
+normal_250,0,0.6996003,3,derived_10,파생 1.0초
+normal_253,0,0.28493914,3,derived_10,파생 1.0초
+normal_259,0,0.91260475,3,derived_10,파생 1.0초
+normal_260,0,1.382882,3,derived_10,파생 1.0초
+normal_273,0,0.23885204,3,derived_10,파생 1.0초
+normal_274,0,0.801193,3,derived_10,파생 1.0초
+normal_276,0,0.51169276,3,derived_10,파생 1.0초
+normal_286,0,0.6362263,3,derived_10,파생 1.0초
+normal_290,0,1.2395631,3,derived_10,파생 1.0초
+normal_307,0,0.25409248,3,derived_10,파생 1.0초
+normal_310,0,0.4994562,3,derived_10,파생 1.0초
+normal_325,0,0.5445796,3,derived_10,파생 1.0초
+normal_341,0,0.59925866,3,derived_10,파생 1.0초
+normal_349,0,1.5707052,3,derived_10,파생 1.0초
+normal_358,0,1.4704412,3,derived_10,파생 1.0초
+normal_375,0,0.45644593,3,derived_10,파생 1.0초
+normal_376,0,1.107016,3,derived_10,파생 1.0초
+normal_384,0,1.3676261,3,derived_10,파생 1.0초
+normal_386,0,0.31643614,3,derived_10,파생 1.0초
+normal_392,0,0.22293185,3,derived_10,파생 1.0초
+normal_396,0,0.84581524,3,derived_10,파생 1.0초
+normal_398,0,1.121931,3,derived_10,파생 1.0초
+normal_411,0,1.1116164,3,derived_10,파생 1.0초
+normal_425,0,0.41613665,3,derived_10,파생 1.0초
+normal_431,0,1.2955711,3,derived_10,파생 1.0초
+normal_447,0,0.26790354,3,derived_10,파생 1.0초
+normal_451,0,1.3841027,3,derived_10,파생 1.0초
+normal_457,0,0.34776136,3,derived_10,파생 1.0초
+normal_463,0,0.5004446,3,derived_10,파생 1.0초
+normal_471,0,0.60060054,3,derived_10,파생 1.0초
+normal_473,0,0.20317596,3,derived_10,파생 1.0초
+normal_475,0,0.24942668,3,derived_10,파생 1.0초
+normal_480,0,0.2703567,3,derived_10,파생 1.0초
+normal_483,0,0.19169651,3,derived_10,파생 1.0초
+normal_487,0,0.25096145,3,derived_10,파생 1.0초
+normal_489,0,0.18683234,3,derived_10,파생 1.0초
+normal_492,0,0.28481266,3,derived_10,파생 1.0초
+normal_493,0,0.26331076,3,derived_10,파생 1.0초
+normal_501,0,0.24824771,3,derived_10,파생 1.0초
+normal_507,0,0.1886253,3,derived_10,파생 1.0초
+normal_508,0,0.22864255,3,derived_10,파생 1.0초
+normal_513,0,0.24566202,3,derived_10,파생 1.0초
+normal_517,0,0.17766686,3,derived_10,파생 1.0초
+normal_518,0,0.1662882,3,derived_10,파생 1.0초
+normal_527,0,0.23969766,3,derived_10,파생 1.0초
+normal_556,0,0.19059335,3,derived_10,파생 1.0초
+normal_559,0,0.23892765,3,derived_10,파생 1.0초
+normal_562,0,0.30388078,3,derived_10,파생 1.0초
+normal_570,0,1.5208718,3,derived_10,파생 1.0초
+normal_587,0,1.2601304,3,derived_10,파생 1.0초
+normal_590,0,1.2532916,3,derived_10,파생 1.0초
+normal_595,0,1.2740179,3,derived_10,파생 1.0초
+anomaly_13,1,33.685303,3,derived_10,파생 1.0초
+anomaly_17,1,5.101682,3,derived_10,파생 1.0초
+normal_1,0,0.9609663,3,derived_15,파생 1.5초
+normal_17,0,0.8467863,3,derived_15,파생 1.5초
+normal_23,0,0.5924209,3,derived_15,파생 1.5초
+normal_28,0,0.42704177,3,derived_15,파생 1.5초
+normal_29,0,0.321563,3,derived_15,파생 1.5초
+normal_49,0,0.28542143,3,derived_15,파생 1.5초
+normal_60,0,1.0910383,3,derived_15,파생 1.5초
+normal_65,0,0.5609174,3,derived_15,파생 1.5초
+normal_75,0,1.2542087,3,derived_15,파생 1.5초
+normal_76,0,0.6621625,3,derived_15,파생 1.5초
+normal_86,0,0.54375154,3,derived_15,파생 1.5초
+normal_90,0,1.5244455,3,derived_15,파생 1.5초
+normal_92,0,0.30134422,3,derived_15,파생 1.5초
+normal_95,0,1.1200598,3,derived_15,파생 1.5초
+normal_97,0,0.21558054,3,derived_15,파생 1.5초
+normal_103,0,0.5187631,3,derived_15,파생 1.5초
+normal_106,0,0.42721444,3,derived_15,파생 1.5초
+normal_116,0,0.222682,3,derived_15,파생 1.5초
+normal_117,0,0.8773682,3,derived_15,파생 1.5초
+normal_130,0,0.41080582,3,derived_15,파생 1.5초
+normal_133,0,0.5720853,3,derived_15,파생 1.5초
+normal_137,0,0.6901819,3,derived_15,파생 1.5초
+normal_140,0,0.31825313,3,derived_15,파생 1.5초
+normal_146,0,1.1556417,3,derived_15,파생 1.5초
+normal_149,0,0.25052464,3,derived_15,파생 1.5초
+normal_159,0,0.64034814,3,derived_15,파생 1.5초
+normal_160,0,0.25513187,3,derived_15,파생 1.5초
+normal_167,0,0.79521596,3,derived_15,파생 1.5초
+normal_190,0,0.9095944,3,derived_15,파생 1.5초
+normal_196,0,0.49081215,3,derived_15,파생 1.5초
+normal_200,0,0.82578045,3,derived_15,파생 1.5초
+normal_212,0,0.8322707,3,derived_15,파생 1.5초
+normal_223,0,0.6804324,3,derived_15,파생 1.5초
+normal_224,0,0.39282265,3,derived_15,파생 1.5초
+normal_229,0,1.3600322,3,derived_15,파생 1.5초
+normal_235,0,0.45018125,3,derived_15,파생 1.5초
+normal_240,0,0.5739349,3,derived_15,파생 1.5초
+normal_241,0,0.3456035,3,derived_15,파생 1.5초
+normal_242,0,1.5392387,3,derived_15,파생 1.5초
+normal_250,0,0.67615896,3,derived_15,파생 1.5초
+normal_253,0,0.26044664,3,derived_15,파생 1.5초
+normal_259,0,0.9519716,3,derived_15,파생 1.5초
+normal_260,0,1.5657583,3,derived_15,파생 1.5초
+normal_273,0,0.23726103,3,derived_15,파생 1.5초
+normal_274,0,0.8076305,3,derived_15,파생 1.5초
+normal_276,0,0.51700795,3,derived_15,파생 1.5초
+normal_286,0,0.62302697,3,derived_15,파생 1.5초
+normal_290,0,1.5057956,3,derived_15,파생 1.5초
+normal_307,0,0.27737856,3,derived_15,파생 1.5초
+normal_310,0,0.5202563,3,derived_15,파생 1.5초
+normal_325,0,0.46181676,3,derived_15,파생 1.5초
+normal_341,0,0.65228635,3,derived_15,파생 1.5초
+normal_349,0,1.6731449,3,derived_15,파생 1.5초
+normal_358,0,1.4275644,3,derived_15,파생 1.5초
+normal_375,0,0.49586135,3,derived_15,파생 1.5초
+normal_376,0,1.1104199,3,derived_15,파생 1.5초
+normal_384,0,1.5476152,3,derived_15,파생 1.5초
+normal_386,0,0.36088318,3,derived_15,파생 1.5초
+normal_392,0,0.23871283,3,derived_15,파생 1.5초
+normal_396,0,0.80446225,3,derived_15,파생 1.5초
+normal_398,0,1.5553087,3,derived_15,파생 1.5초
+normal_411,0,1.1449128,3,derived_15,파생 1.5초
+normal_425,0,0.39731964,3,derived_15,파생 1.5초
+normal_431,0,1.4033936,3,derived_15,파생 1.5초
+normal_447,0,0.2686985,3,derived_15,파생 1.5초
+normal_451,0,1.5818726,3,derived_15,파생 1.5초
+normal_457,0,0.32106775,3,derived_15,파생 1.5초
+normal_463,0,0.4376717,3,derived_15,파생 1.5초
+normal_471,0,0.5365878,3,derived_15,파생 1.5초
+normal_473,0,0.22524734,3,derived_15,파생 1.5초
+normal_475,0,0.2402086,3,derived_15,파생 1.5초
+normal_480,0,0.26831874,3,derived_15,파생 1.5초
+normal_483,0,0.20468813,3,derived_15,파생 1.5초
+normal_487,0,0.25888067,3,derived_15,파생 1.5초
+normal_489,0,0.18997979,3,derived_15,파생 1.5초
+normal_492,0,0.27908647,3,derived_15,파생 1.5초
+normal_493,0,0.24143696,3,derived_15,파생 1.5초
+normal_501,0,0.2633256,3,derived_15,파생 1.5초
+normal_507,0,0.19038339,3,derived_15,파생 1.5초
+normal_508,0,0.26316682,3,derived_15,파생 1.5초
+normal_513,0,0.27930108,3,derived_15,파생 1.5초
+normal_517,0,0.19535951,3,derived_15,파생 1.5초
+normal_518,0,0.16801317,3,derived_15,파생 1.5초
+normal_527,0,0.22871435,3,derived_15,파생 1.5초
+normal_556,0,0.19072352,3,derived_15,파생 1.5초
+normal_559,0,0.22353311,3,derived_15,파생 1.5초
+normal_562,0,0.347773,3,derived_15,파생 1.5초
+normal_570,0,1.4947623,3,derived_15,파생 1.5초
+normal_587,0,1.2982999,3,derived_15,파생 1.5초
+normal_590,0,1.3178476,3,derived_15,파생 1.5초
+normal_595,0,1.3019919,3,derived_15,파생 1.5초
+anomaly_13,1,34.69203,3,derived_15,파생 1.5초
+anomaly_17,1,5.2606945,3,derived_15,파생 1.5초
+normal_1,0,0.9488901,3,derived_20,파생 2.0초
+normal_17,0,0.89983976,3,derived_20,파생 2.0초
+normal_23,0,0.5966804,3,derived_20,파생 2.0초
+normal_28,0,0.4605657,3,derived_20,파생 2.0초
+normal_29,0,0.36005318,3,derived_20,파생 2.0초
+normal_49,0,0.32234237,3,derived_20,파생 2.0초
+normal_60,0,1.1435084,3,derived_20,파생 2.0초
+normal_65,0,0.6311044,3,derived_20,파생 2.0초
+normal_75,0,1.4480183,3,derived_20,파생 2.0초
+normal_76,0,0.8422795,3,derived_20,파생 2.0초
+normal_86,0,0.58738685,3,derived_20,파생 2.0초
+normal_90,0,1.5362368,3,derived_20,파생 2.0초
+normal_92,0,0.32318997,3,derived_20,파생 2.0초
+normal_95,0,1.2208601,3,derived_20,파생 2.0초
+normal_97,0,0.23825727,3,derived_20,파생 2.0초
+normal_103,0,0.55424,3,derived_20,파생 2.0초
+normal_106,0,0.4963447,3,derived_20,파생 2.0초
+normal_116,0,0.2569006,3,derived_20,파생 2.0초
+normal_117,0,0.8704185,3,derived_20,파생 2.0초
+normal_130,0,0.4048325,3,derived_20,파생 2.0초
+normal_133,0,0.5901729,3,derived_20,파생 2.0초
+normal_137,0,0.711918,3,derived_20,파생 2.0초
+normal_140,0,0.3633089,3,derived_20,파생 2.0초
+normal_146,0,1.1211355,3,derived_20,파생 2.0초
+normal_149,0,0.34220082,3,derived_20,파생 2.0초
+normal_159,0,0.8043208,3,derived_20,파생 2.0초
+normal_160,0,0.3166376,3,derived_20,파생 2.0초
+normal_167,0,0.89995664,3,derived_20,파생 2.0초
+normal_190,0,0.9333098,3,derived_20,파생 2.0초
+normal_196,0,0.62780595,3,derived_20,파생 2.0초
+normal_200,0,0.82156634,3,derived_20,파생 2.0초
+normal_212,0,0.896454,3,derived_20,파생 2.0초
+normal_223,0,0.6407038,3,derived_20,파생 2.0초
+normal_224,0,0.46455762,3,derived_20,파생 2.0초
+normal_229,0,1.29108,3,derived_20,파생 2.0초
+normal_235,0,0.5023786,3,derived_20,파생 2.0초
+normal_240,0,0.59035814,3,derived_20,파생 2.0초
+normal_241,0,0.3886281,3,derived_20,파생 2.0초
+normal_242,0,1.4695436,3,derived_20,파생 2.0초
+normal_250,0,0.6507393,3,derived_20,파생 2.0초
+normal_253,0,0.2983935,3,derived_20,파생 2.0초
+normal_259,0,0.93907094,3,derived_20,파생 2.0초
+normal_260,0,1.4918184,3,derived_20,파생 2.0초
+normal_273,0,0.29527855,3,derived_20,파생 2.0초
+normal_274,0,0.84496367,3,derived_20,파생 2.0초
+normal_276,0,0.5816235,3,derived_20,파생 2.0초
+normal_286,0,0.8379046,3,derived_20,파생 2.0초
+normal_290,0,1.5022326,3,derived_20,파생 2.0초
+normal_307,0,0.3247234,3,derived_20,파생 2.0초
+normal_310,0,0.54942095,3,derived_20,파생 2.0초
+normal_325,0,0.5218906,3,derived_20,파생 2.0초
+normal_341,0,0.621427,3,derived_20,파생 2.0초
+normal_349,0,1.4878917,3,derived_20,파생 2.0초
+normal_358,0,1.5850967,3,derived_20,파생 2.0초
+normal_375,0,0.5351059,3,derived_20,파생 2.0초
+normal_376,0,1.2567141,3,derived_20,파생 2.0초
+normal_384,0,1.4790585,3,derived_20,파생 2.0초
+normal_386,0,0.3714895,3,derived_20,파생 2.0초
+normal_392,0,0.2784315,3,derived_20,파생 2.0초
+normal_396,0,0.8593364,3,derived_20,파생 2.0초
+normal_398,0,1.3924383,3,derived_20,파생 2.0초
+normal_411,0,1.0669783,3,derived_20,파생 2.0초
+normal_425,0,0.416623,3,derived_20,파생 2.0초
+normal_431,0,1.3805263,3,derived_20,파생 2.0초
+normal_447,0,0.29828134,3,derived_20,파생 2.0초
+normal_451,0,1.5922887,3,derived_20,파생 2.0초
+normal_457,0,0.36629057,3,derived_20,파생 2.0초
+normal_463,0,0.49160048,3,derived_20,파생 2.0초
+normal_471,0,0.56481886,3,derived_20,파생 2.0초
+normal_473,0,0.2622265,3,derived_20,파생 2.0초
+normal_475,0,0.2865426,3,derived_20,파생 2.0초
+normal_480,0,0.27142987,3,derived_20,파생 2.0초
+normal_483,0,0.21534744,3,derived_20,파생 2.0초
+normal_487,0,0.28271192,3,derived_20,파생 2.0초
+normal_489,0,0.21316123,3,derived_20,파생 2.0초
+normal_492,0,0.2967462,3,derived_20,파생 2.0초
+normal_493,0,0.26460966,3,derived_20,파생 2.0초
+normal_501,0,0.2847896,3,derived_20,파생 2.0초
+normal_507,0,0.2016233,3,derived_20,파생 2.0초
+normal_508,0,0.31724703,3,derived_20,파생 2.0초
+normal_513,0,0.2773224,3,derived_20,파생 2.0초
+normal_517,0,0.21855806,3,derived_20,파생 2.0초
+normal_518,0,0.19539613,3,derived_20,파생 2.0초
+normal_527,0,0.24072379,3,derived_20,파생 2.0초
+normal_556,0,0.22512016,3,derived_20,파생 2.0초
+normal_559,0,0.27178413,3,derived_20,파생 2.0초
+normal_562,0,0.33384052,3,derived_20,파생 2.0초
+normal_570,0,1.7391332,3,derived_20,파생 2.0초
+normal_587,0,1.3702857,3,derived_20,파생 2.0초
+normal_590,0,1.4812251,3,derived_20,파생 2.0초
+normal_595,0,1.4537174,3,derived_20,파생 2.0초
+anomaly_13,1,33.64542,3,derived_20,파생 2.0초
+anomaly_17,1,6.5048685,3,derived_20,파생 2.0초
+normal_8,0,0.018679174,4,raw_single,단일시점
+normal_16,0,0.010908981,4,raw_single,단일시점
+normal_24,0,0.0028446396,4,raw_single,단일시점
+normal_25,0,0.008745154,4,raw_single,단일시점
+normal_36,0,0.0033648978,4,raw_single,단일시점
+normal_38,0,0.0025271522,4,raw_single,단일시점
+normal_42,0,0.0025057322,4,raw_single,단일시점
+normal_45,0,0.0021843938,4,raw_single,단일시점
+normal_48,0,0.0024334793,4,raw_single,단일시점
+normal_63,0,0.021539949,4,raw_single,단일시점
+normal_79,0,0.003187452,4,raw_single,단일시점
+normal_86,0,0.0024672828,4,raw_single,단일시점
+normal_88,0,0.031196048,4,raw_single,단일시점
+normal_96,0,0.0030410474,4,raw_single,단일시점
+normal_99,0,0.0029759828,4,raw_single,단일시점
+normal_105,0,0.0020588604,4,raw_single,단일시점
+normal_110,0,0.006295563,4,raw_single,단일시점
+normal_120,0,0.0042213737,4,raw_single,단일시점
+normal_126,0,0.015028788,4,raw_single,단일시점
+normal_130,0,0.003430802,4,raw_single,단일시점
+normal_146,0,0.012056904,4,raw_single,단일시점
+normal_147,0,0.002489366,4,raw_single,단일시점
+normal_149,0,0.002298227,4,raw_single,단일시점
+normal_167,0,0.0033602708,4,raw_single,단일시점
+normal_177,0,0.009717339,4,raw_single,단일시점
+normal_178,0,0.0031696602,4,raw_single,단일시점
+normal_189,0,0.011325488,4,raw_single,단일시점
+normal_193,0,0.0054915864,4,raw_single,단일시점
+normal_202,0,0.0048429216,4,raw_single,단일시점
+normal_204,0,0.0027617724,4,raw_single,단일시점
+normal_205,0,0.02886709,4,raw_single,단일시점
+normal_206,0,0.0021949837,4,raw_single,단일시점
+normal_212,0,0.002736822,4,raw_single,단일시점
+normal_213,0,0.002956511,4,raw_single,단일시점
+normal_214,0,0.0028380852,4,raw_single,단일시점
+normal_218,0,0.009632243,4,raw_single,단일시점
+normal_220,0,0.005875467,4,raw_single,단일시점
+normal_231,0,0.0028997962,4,raw_single,단일시점
+normal_246,0,0.0019416192,4,raw_single,단일시점
+normal_262,0,0.009824069,4,raw_single,단일시점
+normal_266,0,0.004024849,4,raw_single,단일시점
+normal_267,0,0.00245175,4,raw_single,단일시점
+normal_286,0,0.005119196,4,raw_single,단일시점
+normal_293,0,0.0046785483,4,raw_single,단일시점
+normal_294,0,0.0026039067,4,raw_single,단일시점
+normal_296,0,0.008454384,4,raw_single,단일시점
+normal_299,0,0.0033745703,4,raw_single,단일시점
+normal_305,0,0.0028148724,4,raw_single,단일시점
+normal_308,0,0.0046175425,4,raw_single,단일시점
+normal_310,0,0.001999306,4,raw_single,단일시점
+normal_316,0,0.0027870652,4,raw_single,단일시점
+normal_325,0,0.0031359314,4,raw_single,단일시점
+normal_330,0,0.0024504017,4,raw_single,단일시점
+normal_335,0,0.012796837,4,raw_single,단일시점
+normal_337,0,0.0026361328,4,raw_single,단일시점
+normal_338,0,0.0020303163,4,raw_single,단일시점
+normal_342,0,0.0020288131,4,raw_single,단일시점
+normal_348,0,0.0027652434,4,raw_single,단일시점
+normal_350,0,0.0027119296,4,raw_single,단일시점
+normal_351,0,0.003334634,4,raw_single,단일시점
+normal_357,0,0.0030529497,4,raw_single,단일시점
+normal_362,0,0.0046550604,4,raw_single,단일시점
+normal_364,0,0.0027595921,4,raw_single,단일시점
+normal_366,0,0.0023660313,4,raw_single,단일시점
+normal_387,0,0.03163181,4,raw_single,단일시점
+normal_413,0,0.0028793702,4,raw_single,단일시점
+normal_414,0,0.029594123,4,raw_single,단일시점
+normal_418,0,0.00240248,4,raw_single,단일시점
+normal_421,0,0.009496776,4,raw_single,단일시점
+normal_425,0,0.004381814,4,raw_single,단일시점
+normal_440,0,0.00300407,4,raw_single,단일시점
+normal_446,0,0.009704055,4,raw_single,단일시점
+normal_447,0,0.0026145997,4,raw_single,단일시점
+normal_450,0,0.01486743,4,raw_single,단일시점
+normal_451,0,0.008852006,4,raw_single,단일시점
+normal_453,0,0.00850828,4,raw_single,단일시점
+normal_465,0,0.0015879127,4,raw_single,단일시점
+normal_467,0,0.0027902096,4,raw_single,단일시점
+normal_475,0,0.0029620877,4,raw_single,단일시점
+normal_481,0,0.002912475,4,raw_single,단일시점
+normal_482,0,0.0028724892,4,raw_single,단일시점
+normal_485,0,0.0032975958,4,raw_single,단일시점
+normal_499,0,0.001865218,4,raw_single,단일시점
+normal_501,0,0.0023437813,4,raw_single,단일시점
+normal_520,0,0.0033850023,4,raw_single,단일시점
+normal_521,0,0.003423828,4,raw_single,단일시점
+normal_557,0,0.0021344263,4,raw_single,단일시점
+normal_565,0,0.0039564576,4,raw_single,단일시점
+normal_569,0,0.0022289096,4,raw_single,단일시점
+normal_583,0,0.0035271547,4,raw_single,단일시점
+normal_596,0,0.0025818124,4,raw_single,단일시점
+anomaly_4,1,0.0052796146,4,raw_single,단일시점
+anomaly_19,1,27.636469,4,raw_single,단일시점
+normal_8,0,0.59520376,4,raw_window_5,원데이터 0.5초
+normal_16,0,0.42932218,4,raw_window_5,원데이터 0.5초
+normal_24,0,0.22112076,4,raw_window_5,원데이터 0.5초
+normal_25,0,0.3513842,4,raw_window_5,원데이터 0.5초
+normal_36,0,0.10399195,4,raw_window_5,원데이터 0.5초
+normal_38,0,0.18245816,4,raw_window_5,원데이터 0.5초
+normal_42,0,0.27796015,4,raw_window_5,원데이터 0.5초
+normal_45,0,0.32302663,4,raw_window_5,원데이터 0.5초
+normal_48,0,0.3391236,4,raw_window_5,원데이터 0.5초
+normal_63,0,0.70137894,4,raw_window_5,원데이터 0.5초
+normal_79,0,0.2764889,4,raw_window_5,원데이터 0.5초
+normal_86,0,0.3689035,4,raw_window_5,원데이터 0.5초
+normal_88,0,0.7308415,4,raw_window_5,원데이터 0.5초
+normal_96,0,0.45232883,4,raw_window_5,원데이터 0.5초
+normal_99,0,0.24771157,4,raw_window_5,원데이터 0.5초
+normal_105,0,0.13966426,4,raw_window_5,원데이터 0.5초
+normal_110,0,0.6137563,4,raw_window_5,원데이터 0.5초
+normal_120,0,0.38640958,4,raw_window_5,원데이터 0.5초
+normal_126,0,0.43411034,4,raw_window_5,원데이터 0.5초
+normal_130,0,0.39208904,4,raw_window_5,원데이터 0.5초
+normal_146,0,0.64590025,4,raw_window_5,원데이터 0.5초
+normal_147,0,0.14271426,4,raw_window_5,원데이터 0.5초
+normal_149,0,0.15970846,4,raw_window_5,원데이터 0.5초
+normal_167,0,0.5199243,4,raw_window_5,원데이터 0.5초
+normal_177,0,0.5345028,4,raw_window_5,원데이터 0.5초
+normal_178,0,0.3123607,4,raw_window_5,원데이터 0.5초
+normal_189,0,0.5824636,4,raw_window_5,원데이터 0.5초
+normal_193,0,0.27180433,4,raw_window_5,원데이터 0.5초
+normal_202,0,0.63635063,4,raw_window_5,원데이터 0.5초
+normal_204,0,0.3872655,4,raw_window_5,원데이터 0.5초
+normal_205,0,0.69425815,4,raw_window_5,원데이터 0.5초
+normal_206,0,0.4458126,4,raw_window_5,원데이터 0.5초
+normal_212,0,0.39178473,4,raw_window_5,원데이터 0.5초
+normal_213,0,0.47561002,4,raw_window_5,원데이터 0.5초
+normal_214,0,0.30945534,4,raw_window_5,원데이터 0.5초
+normal_218,0,0.68321836,4,raw_window_5,원데이터 0.5초
+normal_220,0,0.3959511,4,raw_window_5,원데이터 0.5초
+normal_231,0,0.26176605,4,raw_window_5,원데이터 0.5초
+normal_246,0,0.14918983,4,raw_window_5,원데이터 0.5초
+normal_262,0,0.51454735,4,raw_window_5,원데이터 0.5초
+normal_266,0,0.34222698,4,raw_window_5,원데이터 0.5초
+normal_267,0,0.30365878,4,raw_window_5,원데이터 0.5초
+normal_286,0,0.5261633,4,raw_window_5,원데이터 0.5초
+normal_293,0,0.53270054,4,raw_window_5,원데이터 0.5초
+normal_294,0,0.56414765,4,raw_window_5,원데이터 0.5초
+normal_296,0,0.6744288,4,raw_window_5,원데이터 0.5초
+normal_299,0,0.5425907,4,raw_window_5,원데이터 0.5초
+normal_305,0,0.27106103,4,raw_window_5,원데이터 0.5초
+normal_308,0,0.3955825,4,raw_window_5,원데이터 0.5초
+normal_310,0,0.35313028,4,raw_window_5,원데이터 0.5초
+normal_316,0,0.20832317,4,raw_window_5,원데이터 0.5초
+normal_325,0,0.36348912,4,raw_window_5,원데이터 0.5초
+normal_330,0,0.3056757,4,raw_window_5,원데이터 0.5초
+normal_335,0,0.5373751,4,raw_window_5,원데이터 0.5초
+normal_337,0,0.2385397,4,raw_window_5,원데이터 0.5초
+normal_338,0,0.13023809,4,raw_window_5,원데이터 0.5초
+normal_342,0,0.2978545,4,raw_window_5,원데이터 0.5초
+normal_348,0,0.31592986,4,raw_window_5,원데이터 0.5초
+normal_350,0,0.26832277,4,raw_window_5,원데이터 0.5초
+normal_351,0,0.19427876,4,raw_window_5,원데이터 0.5초
+normal_357,0,0.08954929,4,raw_window_5,원데이터 0.5초
+normal_362,0,0.6894034,4,raw_window_5,원데이터 0.5초
+normal_364,0,0.1314037,4,raw_window_5,원데이터 0.5초
+normal_366,0,0.17968898,4,raw_window_5,원데이터 0.5초
+normal_387,0,0.8081671,4,raw_window_5,원데이터 0.5초
+normal_413,0,0.13877566,4,raw_window_5,원데이터 0.5초
+normal_414,0,1.0771425,4,raw_window_5,원데이터 0.5초
+normal_418,0,0.37502772,4,raw_window_5,원데이터 0.5초
+normal_421,0,0.4241274,4,raw_window_5,원데이터 0.5초
+normal_425,0,0.32482427,4,raw_window_5,원데이터 0.5초
+normal_440,0,0.22857997,4,raw_window_5,원데이터 0.5초
+normal_446,0,0.598524,4,raw_window_5,원데이터 0.5초
+normal_447,0,0.13689163,4,raw_window_5,원데이터 0.5초
+normal_450,0,0.64049685,4,raw_window_5,원데이터 0.5초
+normal_451,0,0.48788294,4,raw_window_5,원데이터 0.5초
+normal_453,0,0.7308136,4,raw_window_5,원데이터 0.5초
+normal_465,0,0.41348255,4,raw_window_5,원데이터 0.5초
+normal_467,0,0.21974465,4,raw_window_5,원데이터 0.5초
+normal_475,0,0.21685486,4,raw_window_5,원데이터 0.5초
+normal_481,0,0.13194406,4,raw_window_5,원데이터 0.5초
+normal_482,0,0.13790132,4,raw_window_5,원데이터 0.5초
+normal_485,0,0.10105177,4,raw_window_5,원데이터 0.5초
+normal_499,0,0.09860878,4,raw_window_5,원데이터 0.5초
+normal_501,0,0.16144499,4,raw_window_5,원데이터 0.5초
+normal_520,0,0.20108497,4,raw_window_5,원데이터 0.5초
+normal_521,0,0.12063949,4,raw_window_5,원데이터 0.5초
+normal_557,0,0.12873805,4,raw_window_5,원데이터 0.5초
+normal_565,0,0.3659528,4,raw_window_5,원데이터 0.5초
+normal_569,0,0.14184384,4,raw_window_5,원데이터 0.5초
+normal_583,0,0.4003686,4,raw_window_5,원데이터 0.5초
+normal_596,0,0.44210687,4,raw_window_5,원데이터 0.5초
+anomaly_4,1,0.48361486,4,raw_window_5,원데이터 0.5초
+anomaly_19,1,22.776447,4,raw_window_5,원데이터 0.5초
+normal_8,0,1.0508498,4,raw_window_10,원데이터 1.0초
+normal_16,0,1.192279,4,raw_window_10,원데이터 1.0초
+normal_24,0,0.27389675,4,raw_window_10,원데이터 1.0초
+normal_25,0,1.125406,4,raw_window_10,원데이터 1.0초
+normal_36,0,0.083814465,4,raw_window_10,원데이터 1.0초
+normal_38,0,0.20722316,4,raw_window_10,원데이터 1.0초
+normal_42,0,0.30988705,4,raw_window_10,원데이터 1.0초
+normal_45,0,0.51541966,4,raw_window_10,원데이터 1.0초
+normal_48,0,0.69622016,4,raw_window_10,원데이터 1.0초
+normal_63,0,1.4315712,4,raw_window_10,원데이터 1.0초
+normal_79,0,0.32922098,4,raw_window_10,원데이터 1.0초
+normal_86,0,0.54746574,4,raw_window_10,원데이터 1.0초
+normal_88,0,1.1774888,4,raw_window_10,원데이터 1.0초
+normal_96,0,0.80868495,4,raw_window_10,원데이터 1.0초
+normal_99,0,0.22732869,4,raw_window_10,원데이터 1.0초
+normal_105,0,0.14496998,4,raw_window_10,원데이터 1.0초
+normal_110,0,0.650761,4,raw_window_10,원데이터 1.0초
+normal_120,0,0.87333727,4,raw_window_10,원데이터 1.0초
+normal_126,0,1.2295438,4,raw_window_10,원데이터 1.0초
+normal_130,0,0.42034563,4,raw_window_10,원데이터 1.0초
+normal_146,0,1.1081576,4,raw_window_10,원데이터 1.0초
+normal_147,0,0.17922468,4,raw_window_10,원데이터 1.0초
+normal_149,0,0.17653753,4,raw_window_10,원데이터 1.0초
+normal_167,0,0.767725,4,raw_window_10,원데이터 1.0초
+normal_177,0,0.8919114,4,raw_window_10,원데이터 1.0초
+normal_178,0,0.31020236,4,raw_window_10,원데이터 1.0초
+normal_189,0,1.389729,4,raw_window_10,원데이터 1.0초
+normal_193,0,0.27279454,4,raw_window_10,원데이터 1.0초
+normal_202,0,1.1796981,4,raw_window_10,원데이터 1.0초
+normal_204,0,0.41355038,4,raw_window_10,원데이터 1.0초
+normal_205,0,1.2955773,4,raw_window_10,원데이터 1.0초
+normal_206,0,0.4132708,4,raw_window_10,원데이터 1.0초
+normal_212,0,0.6645594,4,raw_window_10,원데이터 1.0초
+normal_213,0,1.0590953,4,raw_window_10,원데이터 1.0초
+normal_214,0,0.28680524,4,raw_window_10,원데이터 1.0초
+normal_218,0,0.70420057,4,raw_window_10,원데이터 1.0초
+normal_220,0,1.1689303,4,raw_window_10,원데이터 1.0초
+normal_231,0,0.23969917,4,raw_window_10,원데이터 1.0초
+normal_246,0,0.185055,4,raw_window_10,원데이터 1.0초
+normal_262,0,0.81677467,4,raw_window_10,원데이터 1.0초
+normal_266,0,0.6422604,4,raw_window_10,원데이터 1.0초
+normal_267,0,0.32118517,4,raw_window_10,원데이터 1.0초
+normal_286,0,0.5629766,4,raw_window_10,원데이터 1.0초
+normal_293,0,1.2853392,4,raw_window_10,원데이터 1.0초
+normal_294,0,0.68978566,4,raw_window_10,원데이터 1.0초
+normal_296,0,1.1161001,4,raw_window_10,원데이터 1.0초
+normal_299,0,0.9266721,4,raw_window_10,원데이터 1.0초
+normal_305,0,0.3075101,4,raw_window_10,원데이터 1.0초
+normal_308,0,0.5547874,4,raw_window_10,원데이터 1.0초
+normal_310,0,0.45176327,4,raw_window_10,원데이터 1.0초
+normal_316,0,0.25222105,4,raw_window_10,원데이터 1.0초
+normal_325,0,0.51576924,4,raw_window_10,원데이터 1.0초
+normal_330,0,0.7395281,4,raw_window_10,원데이터 1.0초
+normal_335,0,1.3399013,4,raw_window_10,원데이터 1.0초
+normal_337,0,0.44370985,4,raw_window_10,원데이터 1.0초
+normal_338,0,0.15249127,4,raw_window_10,원데이터 1.0초
+normal_342,0,0.31276572,4,raw_window_10,원데이터 1.0초
+normal_348,0,0.39483273,4,raw_window_10,원데이터 1.0초
+normal_350,0,0.2786659,4,raw_window_10,원데이터 1.0초
+normal_351,0,0.20498267,4,raw_window_10,원데이터 1.0초
+normal_357,0,0.11467696,4,raw_window_10,원데이터 1.0초
+normal_362,0,1.4855491,4,raw_window_10,원데이터 1.0초
+normal_364,0,0.13162747,4,raw_window_10,원데이터 1.0초
+normal_366,0,0.21132168,4,raw_window_10,원데이터 1.0초
+normal_387,0,1.6395292,4,raw_window_10,원데이터 1.0초
+normal_413,0,0.15769891,4,raw_window_10,원데이터 1.0초
+normal_414,0,1.5007046,4,raw_window_10,원데이터 1.0초
+normal_418,0,0.5456017,4,raw_window_10,원데이터 1.0초
+normal_421,0,1.0727972,4,raw_window_10,원데이터 1.0초
+normal_425,0,0.39581674,4,raw_window_10,원데이터 1.0초
+normal_440,0,0.24534509,4,raw_window_10,원데이터 1.0초
+normal_446,0,1.0845008,4,raw_window_10,원데이터 1.0초
+normal_447,0,0.16856451,4,raw_window_10,원데이터 1.0초
+normal_450,0,0.9201533,4,raw_window_10,원데이터 1.0초
+normal_451,0,1.4572108,4,raw_window_10,원데이터 1.0초
+normal_453,0,0.98002267,4,raw_window_10,원데이터 1.0초
+normal_465,0,0.42449057,4,raw_window_10,원데이터 1.0초
+normal_467,0,0.24650724,4,raw_window_10,원데이터 1.0초
+normal_475,0,0.21348096,4,raw_window_10,원데이터 1.0초
+normal_481,0,0.14709435,4,raw_window_10,원데이터 1.0초
+normal_482,0,0.15769829,4,raw_window_10,원데이터 1.0초
+normal_485,0,0.09072314,4,raw_window_10,원데이터 1.0초
+normal_499,0,0.096391276,4,raw_window_10,원데이터 1.0초
+normal_501,0,0.18839313,4,raw_window_10,원데이터 1.0초
+normal_520,0,0.21347657,4,raw_window_10,원데이터 1.0초
+normal_521,0,0.12350803,4,raw_window_10,원데이터 1.0초
+normal_557,0,0.11902465,4,raw_window_10,원데이터 1.0초
+normal_565,0,0.79918414,4,raw_window_10,원데이터 1.0초
+normal_569,0,0.18626454,4,raw_window_10,원데이터 1.0초
+normal_583,0,0.414961,4,raw_window_10,원데이터 1.0초
+normal_596,0,0.4725297,4,raw_window_10,원데이터 1.0초
+anomaly_4,1,0.51376903,4,raw_window_10,원데이터 1.0초
+anomaly_19,1,37.736965,4,raw_window_10,원데이터 1.0초
+normal_8,0,1.2097306,4,raw_window_15,원데이터 1.5초
+normal_16,0,1.1773018,4,raw_window_15,원데이터 1.5초
+normal_24,0,0.3062868,4,raw_window_15,원데이터 1.5초
+normal_25,0,1.1308069,4,raw_window_15,원데이터 1.5초
+normal_36,0,0.1716366,4,raw_window_15,원데이터 1.5초
+normal_38,0,0.2691643,4,raw_window_15,원데이터 1.5초
+normal_42,0,0.30586323,4,raw_window_15,원데이터 1.5초
+normal_45,0,0.5704506,4,raw_window_15,원데이터 1.5초
+normal_48,0,0.7801896,4,raw_window_15,원데이터 1.5초
+normal_63,0,1.4132229,4,raw_window_15,원데이터 1.5초
+normal_79,0,0.3643162,4,raw_window_15,원데이터 1.5초
+normal_86,0,0.55274504,4,raw_window_15,원데이터 1.5초
+normal_88,0,1.5600075,4,raw_window_15,원데이터 1.5초
+normal_96,0,0.802872,4,raw_window_15,원데이터 1.5초
+normal_99,0,0.3538201,4,raw_window_15,원데이터 1.5초
+normal_105,0,0.15290824,4,raw_window_15,원데이터 1.5초
+normal_110,0,0.673421,4,raw_window_15,원데이터 1.5초
+normal_120,0,0.9060981,4,raw_window_15,원데이터 1.5초
+normal_126,0,1.3468132,4,raw_window_15,원데이터 1.5초
+normal_130,0,0.43265894,4,raw_window_15,원데이터 1.5초
+normal_146,0,1.0753237,4,raw_window_15,원데이터 1.5초
+normal_147,0,0.19487557,4,raw_window_15,원데이터 1.5초
+normal_149,0,0.18324871,4,raw_window_15,원데이터 1.5초
+normal_167,0,0.728594,4,raw_window_15,원데이터 1.5초
+normal_177,0,0.8652385,4,raw_window_15,원데이터 1.5초
+normal_178,0,0.41140875,4,raw_window_15,원데이터 1.5초
+normal_189,0,1.4107323,4,raw_window_15,원데이터 1.5초
+normal_193,0,0.3311096,4,raw_window_15,원데이터 1.5초
+normal_202,0,1.2167102,4,raw_window_15,원데이터 1.5초
+normal_204,0,0.42630318,4,raw_window_15,원데이터 1.5초
+normal_205,0,1.4073404,4,raw_window_15,원데이터 1.5초
+normal_206,0,0.42660627,4,raw_window_15,원데이터 1.5초
+normal_212,0,0.70044273,4,raw_window_15,원데이터 1.5초
+normal_213,0,1.1984438,4,raw_window_15,원데이터 1.5초
+normal_214,0,0.32858637,4,raw_window_15,원데이터 1.5초
+normal_218,0,0.72515756,4,raw_window_15,원데이터 1.5초
+normal_220,0,1.2957016,4,raw_window_15,원데이터 1.5초
+normal_231,0,0.2918577,4,raw_window_15,원데이터 1.5초
+normal_246,0,0.20395081,4,raw_window_15,원데이터 1.5초
+normal_262,0,0.84410447,4,raw_window_15,원데이터 1.5초
+normal_266,0,0.6682833,4,raw_window_15,원데이터 1.5초
+normal_267,0,0.32157344,4,raw_window_15,원데이터 1.5초
+normal_286,0,0.5830822,4,raw_window_15,원데이터 1.5초
+normal_293,0,1.3657651,4,raw_window_15,원데이터 1.5초
+normal_294,0,0.6994429,4,raw_window_15,원데이터 1.5초
+normal_296,0,1.1362209,4,raw_window_15,원데이터 1.5초
+normal_299,0,0.9051171,4,raw_window_15,원데이터 1.5초
+normal_305,0,0.28988785,4,raw_window_15,원데이터 1.5초
+normal_308,0,0.6441841,4,raw_window_15,원데이터 1.5초
+normal_310,0,0.44719782,4,raw_window_15,원데이터 1.5초
+normal_316,0,0.27018842,4,raw_window_15,원데이터 1.5초
+normal_325,0,0.5556765,4,raw_window_15,원데이터 1.5초
+normal_330,0,0.7434742,4,raw_window_15,원데이터 1.5초
+normal_335,0,1.3544475,4,raw_window_15,원데이터 1.5초
+normal_337,0,0.5001395,4,raw_window_15,원데이터 1.5초
+normal_338,0,0.20471784,4,raw_window_15,원데이터 1.5초
+normal_342,0,0.32232776,4,raw_window_15,원데이터 1.5초
+normal_348,0,0.41349688,4,raw_window_15,원데이터 1.5초
+normal_350,0,0.29767367,4,raw_window_15,원데이터 1.5초
+normal_351,0,0.27923578,4,raw_window_15,원데이터 1.5초
+normal_357,0,0.13923006,4,raw_window_15,원데이터 1.5초
+normal_362,0,1.4522198,4,raw_window_15,원데이터 1.5초
+normal_364,0,0.16521162,4,raw_window_15,원데이터 1.5초
+normal_366,0,0.29408923,4,raw_window_15,원데이터 1.5초
+normal_387,0,1.6586975,4,raw_window_15,원데이터 1.5초
+normal_413,0,0.1927107,4,raw_window_15,원데이터 1.5초
+normal_414,0,1.5774256,4,raw_window_15,원데이터 1.5초
+normal_418,0,0.55989,4,raw_window_15,원데이터 1.5초
+normal_421,0,1.1633258,4,raw_window_15,원데이터 1.5초
+normal_425,0,0.40856633,4,raw_window_15,원데이터 1.5초
+normal_440,0,0.27077755,4,raw_window_15,원데이터 1.5초
+normal_446,0,1.0749327,4,raw_window_15,원데이터 1.5초
+normal_447,0,0.18048155,4,raw_window_15,원데이터 1.5초
+normal_450,0,0.9239237,4,raw_window_15,원데이터 1.5초
+normal_451,0,1.4178478,4,raw_window_15,원데이터 1.5초
+normal_453,0,1.069272,4,raw_window_15,원데이터 1.5초
+normal_465,0,0.46130866,4,raw_window_15,원데이터 1.5초
+normal_467,0,0.23875816,4,raw_window_15,원데이터 1.5초
+normal_475,0,0.22554974,4,raw_window_15,원데이터 1.5초
+normal_481,0,0.1586545,4,raw_window_15,원데이터 1.5초
+normal_482,0,0.16403118,4,raw_window_15,원데이터 1.5초
+normal_485,0,0.097733654,4,raw_window_15,원데이터 1.5초
+normal_499,0,0.10059338,4,raw_window_15,원데이터 1.5초
+normal_501,0,0.18109044,4,raw_window_15,원데이터 1.5초
+normal_520,0,0.22527671,4,raw_window_15,원데이터 1.5초
+normal_521,0,0.13000426,4,raw_window_15,원데이터 1.5초
+normal_557,0,0.124264516,4,raw_window_15,원데이터 1.5초
+normal_565,0,0.8201108,4,raw_window_15,원데이터 1.5초
+normal_569,0,0.20611213,4,raw_window_15,원데이터 1.5초
+normal_583,0,0.49341092,4,raw_window_15,원데이터 1.5초
+normal_596,0,0.48098135,4,raw_window_15,원데이터 1.5초
+anomaly_4,1,1.1804401,4,raw_window_15,원데이터 1.5초
+anomaly_19,1,50.301235,4,raw_window_15,원데이터 1.5초
+normal_8,0,1.3447492,4,raw_window_20,원데이터 2.0초
+normal_16,0,1.3676249,4,raw_window_20,원데이터 2.0초
+normal_24,0,0.3254731,4,raw_window_20,원데이터 2.0초
+normal_25,0,1.1372291,4,raw_window_20,원데이터 2.0초
+normal_36,0,0.17455536,4,raw_window_20,원데이터 2.0초
+normal_38,0,0.26050514,4,raw_window_20,원데이터 2.0초
+normal_42,0,0.32654518,4,raw_window_20,원데이터 2.0초
+normal_45,0,0.5896653,4,raw_window_20,원데이터 2.0초
+normal_48,0,0.8788944,4,raw_window_20,원데이터 2.0초
+normal_63,0,1.4992617,4,raw_window_20,원데이터 2.0초
+normal_79,0,0.375071,4,raw_window_20,원데이터 2.0초
+normal_86,0,0.6073668,4,raw_window_20,원데이터 2.0초
+normal_88,0,1.8052139,4,raw_window_20,원데이터 2.0초
+normal_96,0,0.91329914,4,raw_window_20,원데이터 2.0초
+normal_99,0,0.3503206,4,raw_window_20,원데이터 2.0초
+normal_105,0,0.1799195,4,raw_window_20,원데이터 2.0초
+normal_110,0,0.70532924,4,raw_window_20,원데이터 2.0초
+normal_120,0,0.9812983,4,raw_window_20,원데이터 2.0초
+normal_126,0,1.4058261,4,raw_window_20,원데이터 2.0초
+normal_130,0,0.44253576,4,raw_window_20,원데이터 2.0초
+normal_146,0,1.1249509,4,raw_window_20,원데이터 2.0초
+normal_147,0,0.23114894,4,raw_window_20,원데이터 2.0초
+normal_149,0,0.21219213,4,raw_window_20,원데이터 2.0초
+normal_167,0,0.73810244,4,raw_window_20,원데이터 2.0초
+normal_177,0,0.96414167,4,raw_window_20,원데이터 2.0초
+normal_178,0,0.43113327,4,raw_window_20,원데이터 2.0초
+normal_189,0,1.3844864,4,raw_window_20,원데이터 2.0초
+normal_193,0,0.37596962,4,raw_window_20,원데이터 2.0초
+normal_202,0,1.323983,4,raw_window_20,원데이터 2.0초
+normal_204,0,0.46221074,4,raw_window_20,원데이터 2.0초
+normal_205,0,1.4293878,4,raw_window_20,원데이터 2.0초
+normal_206,0,0.45098117,4,raw_window_20,원데이터 2.0초
+normal_212,0,0.7208954,4,raw_window_20,원데이터 2.0초
+normal_213,0,1.2098399,4,raw_window_20,원데이터 2.0초
+normal_214,0,0.36410224,4,raw_window_20,원데이터 2.0초
+normal_218,0,0.74639136,4,raw_window_20,원데이터 2.0초
+normal_220,0,1.372385,4,raw_window_20,원데이터 2.0초
+normal_231,0,0.32948223,4,raw_window_20,원데이터 2.0초
+normal_246,0,0.2236157,4,raw_window_20,원데이터 2.0초
+normal_262,0,0.954526,4,raw_window_20,원데이터 2.0초
+normal_266,0,0.74130243,4,raw_window_20,원데이터 2.0초
+normal_267,0,0.34409747,4,raw_window_20,원데이터 2.0초
+normal_286,0,0.64994055,4,raw_window_20,원데이터 2.0초
+normal_293,0,1.4655931,4,raw_window_20,원데이터 2.0초
+normal_294,0,0.7407557,4,raw_window_20,원데이터 2.0초
+normal_296,0,1.1707104,4,raw_window_20,원데이터 2.0초
+normal_299,0,0.9741205,4,raw_window_20,원데이터 2.0초
+normal_305,0,0.30773073,4,raw_window_20,원데이터 2.0초
+normal_308,0,0.6469893,4,raw_window_20,원데이터 2.0초
+normal_310,0,0.50042087,4,raw_window_20,원데이터 2.0초
+normal_316,0,0.299619,4,raw_window_20,원데이터 2.0초
+normal_325,0,0.5665182,4,raw_window_20,원데이터 2.0초
+normal_330,0,0.79787594,4,raw_window_20,원데이터 2.0초
+normal_335,0,1.4872631,4,raw_window_20,원데이터 2.0초
+normal_337,0,0.53513855,4,raw_window_20,원데이터 2.0초
+normal_338,0,0.21082872,4,raw_window_20,원데이터 2.0초
+normal_342,0,0.35673702,4,raw_window_20,원데이터 2.0초
+normal_348,0,0.4668527,4,raw_window_20,원데이터 2.0초
+normal_350,0,0.30123678,4,raw_window_20,원데이터 2.0초
+normal_351,0,0.28146914,4,raw_window_20,원데이터 2.0초
+normal_357,0,0.15528463,4,raw_window_20,원데이터 2.0초
+normal_362,0,1.6439493,4,raw_window_20,원데이터 2.0초
+normal_364,0,0.1729629,4,raw_window_20,원데이터 2.0초
+normal_366,0,0.32082322,4,raw_window_20,원데이터 2.0초
+normal_387,0,1.8393428,4,raw_window_20,원데이터 2.0초
+normal_413,0,0.21295059,4,raw_window_20,원데이터 2.0초
+normal_414,0,1.6364478,4,raw_window_20,원데이터 2.0초
+normal_418,0,0.63413376,4,raw_window_20,원데이터 2.0초
+normal_421,0,1.2148533,4,raw_window_20,원데이터 2.0초
+normal_425,0,0.41725293,4,raw_window_20,원데이터 2.0초
+normal_440,0,0.29930064,4,raw_window_20,원데이터 2.0초
+normal_446,0,1.1142906,4,raw_window_20,원데이터 2.0초
+normal_447,0,0.21143495,4,raw_window_20,원데이터 2.0초
+normal_450,0,0.98971945,4,raw_window_20,원데이터 2.0초
+normal_451,0,1.4772773,4,raw_window_20,원데이터 2.0초
+normal_453,0,1.2987099,4,raw_window_20,원데이터 2.0초
+normal_465,0,0.51606655,4,raw_window_20,원데이터 2.0초
+normal_467,0,0.26482293,4,raw_window_20,원데이터 2.0초
+normal_475,0,0.2574375,4,raw_window_20,원데이터 2.0초
+normal_481,0,0.17814699,4,raw_window_20,원데이터 2.0초
+normal_482,0,0.1902731,4,raw_window_20,원데이터 2.0초
+normal_485,0,0.12606671,4,raw_window_20,원데이터 2.0초
+normal_499,0,0.12453082,4,raw_window_20,원데이터 2.0초
+normal_501,0,0.19901936,4,raw_window_20,원데이터 2.0초
+normal_520,0,0.24721068,4,raw_window_20,원데이터 2.0초
+normal_521,0,0.14861657,4,raw_window_20,원데이터 2.0초
+normal_557,0,0.15182395,4,raw_window_20,원데이터 2.0초
+normal_565,0,0.9227292,4,raw_window_20,원데이터 2.0초
+normal_569,0,0.24374665,4,raw_window_20,원데이터 2.0초
+normal_583,0,0.52746105,4,raw_window_20,원데이터 2.0초
+normal_596,0,0.52715707,4,raw_window_20,원데이터 2.0초
+anomaly_4,1,0.7397736,4,raw_window_20,원데이터 2.0초
+anomaly_19,1,38.12136,4,raw_window_20,원데이터 2.0초
+normal_8,0,0.47085127,4,derived_5,파생 0.5초
+normal_16,0,0.5307236,4,derived_5,파생 0.5초
+normal_24,0,0.1561846,4,derived_5,파생 0.5초
+normal_25,0,0.48065144,4,derived_5,파생 0.5초
+normal_36,0,0.076050594,4,derived_5,파생 0.5초
+normal_38,0,0.12843607,4,derived_5,파생 0.5초
+normal_42,0,0.16489157,4,derived_5,파생 0.5초
+normal_45,0,0.24851422,4,derived_5,파생 0.5초
+normal_48,0,0.37413234,4,derived_5,파생 0.5초
+normal_63,0,0.52729744,4,derived_5,파생 0.5초
+normal_79,0,0.18030141,4,derived_5,파생 0.5초
+normal_86,0,0.2680306,4,derived_5,파생 0.5초
+normal_88,0,0.6881882,4,derived_5,파생 0.5초
+normal_96,0,0.30508506,4,derived_5,파생 0.5초
+normal_99,0,0.22539644,4,derived_5,파생 0.5초
+normal_105,0,0.08133928,4,derived_5,파생 0.5초
+normal_110,0,0.29926753,4,derived_5,파생 0.5초
+normal_120,0,0.384612,4,derived_5,파생 0.5초
+normal_126,0,0.49692822,4,derived_5,파생 0.5초
+normal_130,0,0.18631713,4,derived_5,파생 0.5초
+normal_146,0,0.44143844,4,derived_5,파생 0.5초
+normal_147,0,0.09948264,4,derived_5,파생 0.5초
+normal_149,0,0.10008981,4,derived_5,파생 0.5초
+normal_167,0,0.33827594,4,derived_5,파생 0.5초
+normal_177,0,0.33357713,4,derived_5,파생 0.5초
+normal_178,0,0.25150985,4,derived_5,파생 0.5초
+normal_189,0,0.48477802,4,derived_5,파생 0.5초
+normal_193,0,0.20876296,4,derived_5,파생 0.5초
+normal_202,0,0.62693644,4,derived_5,파생 0.5초
+normal_204,0,0.20037588,4,derived_5,파생 0.5초
+normal_205,0,0.6440116,4,derived_5,파생 0.5초
+normal_206,0,0.1915935,4,derived_5,파생 0.5초
+normal_212,0,0.34511307,4,derived_5,파생 0.5초
+normal_213,0,0.5056508,4,derived_5,파생 0.5초
+normal_214,0,0.15143773,4,derived_5,파생 0.5초
+normal_218,0,0.30087483,4,derived_5,파생 0.5초
+normal_220,0,0.46976694,4,derived_5,파생 0.5초
+normal_231,0,0.15708181,4,derived_5,파생 0.5초
+normal_246,0,0.09983104,4,derived_5,파생 0.5초
+normal_262,0,0.3098898,4,derived_5,파생 0.5초
+normal_266,0,0.26365203,4,derived_5,파생 0.5초
+normal_267,0,0.1760631,4,derived_5,파생 0.5초
+normal_286,0,0.31978834,4,derived_5,파생 0.5초
+normal_293,0,0.58970684,4,derived_5,파생 0.5초
+normal_294,0,0.30970746,4,derived_5,파생 0.5초
+normal_296,0,0.56365323,4,derived_5,파생 0.5초
+normal_299,0,0.3953898,4,derived_5,파생 0.5초
+normal_305,0,0.1358969,4,derived_5,파생 0.5초
+normal_308,0,0.25301212,4,derived_5,파생 0.5초
+normal_310,0,0.25384918,4,derived_5,파생 0.5초
+normal_316,0,0.15243676,4,derived_5,파생 0.5초
+normal_325,0,0.21748343,4,derived_5,파생 0.5초
+normal_330,0,0.3067812,4,derived_5,파생 0.5초
+normal_335,0,0.51321983,4,derived_5,파생 0.5초
+normal_337,0,0.22309408,4,derived_5,파생 0.5초
+normal_338,0,0.09873073,4,derived_5,파생 0.5초
+normal_342,0,0.14155893,4,derived_5,파생 0.5초
+normal_348,0,0.21315534,4,derived_5,파생 0.5초
+normal_350,0,0.16801502,4,derived_5,파생 0.5초
+normal_351,0,0.11980657,4,derived_5,파생 0.5초
+normal_357,0,0.075542845,4,derived_5,파생 0.5초
+normal_362,0,0.6035331,4,derived_5,파생 0.5초
+normal_364,0,0.09068359,4,derived_5,파생 0.5초
+normal_366,0,0.14855167,4,derived_5,파생 0.5초
+normal_387,0,0.77055067,4,derived_5,파생 0.5초
+normal_413,0,0.11842267,4,derived_5,파생 0.5초
+normal_414,0,0.6030009,4,derived_5,파생 0.5초
+normal_418,0,0.25230604,4,derived_5,파생 0.5초
+normal_421,0,0.458596,4,derived_5,파생 0.5초
+normal_425,0,0.17977193,4,derived_5,파생 0.5초
+normal_440,0,0.12792091,4,derived_5,파생 0.5초
+normal_446,0,0.57012504,4,derived_5,파생 0.5초
+normal_447,0,0.096703835,4,derived_5,파생 0.5초
+normal_450,0,0.46977934,4,derived_5,파생 0.5초
+normal_451,0,0.6256001,4,derived_5,파생 0.5초
+normal_453,0,0.49480104,4,derived_5,파생 0.5초
+normal_465,0,0.25807425,4,derived_5,파생 0.5초
+normal_467,0,0.12958619,4,derived_5,파생 0.5초
+normal_475,0,0.10852043,4,derived_5,파생 0.5초
+normal_481,0,0.097954325,4,derived_5,파생 0.5초
+normal_482,0,0.1074328,4,derived_5,파생 0.5초
+normal_485,0,0.06256809,4,derived_5,파생 0.5초
+normal_499,0,0.06390859,4,derived_5,파생 0.5초
+normal_501,0,0.14050078,4,derived_5,파생 0.5초
+normal_520,0,0.113331124,4,derived_5,파생 0.5초
+normal_521,0,0.072575405,4,derived_5,파생 0.5초
+normal_557,0,0.08060528,4,derived_5,파생 0.5초
+normal_565,0,0.3445791,4,derived_5,파생 0.5초
+normal_569,0,0.11566343,4,derived_5,파생 0.5초
+normal_583,0,0.23796579,4,derived_5,파생 0.5초
+normal_596,0,0.21316329,4,derived_5,파생 0.5초
+anomaly_4,1,0.24972212,4,derived_5,파생 0.5초
+anomaly_19,1,49.93035,4,derived_5,파생 0.5초
+normal_8,0,1.2280192,4,derived_10,파생 1.0초
+normal_16,0,1.3108995,4,derived_10,파생 1.0초
+normal_24,0,0.3200947,4,derived_10,파생 1.0초
+normal_25,0,1.0694726,4,derived_10,파생 1.0초
+normal_36,0,0.2214351,4,derived_10,파생 1.0초
+normal_38,0,0.23981686,4,derived_10,파생 1.0초
+normal_42,0,0.29561046,4,derived_10,파생 1.0초
+normal_45,0,0.47136706,4,derived_10,파생 1.0초
+normal_48,0,0.78993994,4,derived_10,파생 1.0초
+normal_63,0,1.2777181,4,derived_10,파생 1.0초
+normal_79,0,0.35952267,4,derived_10,파생 1.0초
+normal_86,0,0.4888835,4,derived_10,파생 1.0초
+normal_88,0,1.4669571,4,derived_10,파생 1.0초
+normal_96,0,0.75620246,4,derived_10,파생 1.0초
+normal_99,0,0.35739762,4,derived_10,파생 1.0초
+normal_105,0,0.20884949,4,derived_10,파생 1.0초
+normal_110,0,0.5754618,4,derived_10,파생 1.0초
+normal_120,0,0.9150102,4,derived_10,파생 1.0초
+normal_126,0,1.3682873,4,derived_10,파생 1.0초
+normal_130,0,0.34376693,4,derived_10,파생 1.0초
+normal_146,0,1.0354415,4,derived_10,파생 1.0초
+normal_147,0,0.23665658,4,derived_10,파생 1.0초
+normal_149,0,0.24585009,4,derived_10,파생 1.0초
+normal_167,0,0.81074566,4,derived_10,파생 1.0초
+normal_177,0,0.9030267,4,derived_10,파생 1.0초
+normal_178,0,0.4546087,4,derived_10,파생 1.0초
+normal_189,0,1.3065188,4,derived_10,파생 1.0초
+normal_193,0,0.4212805,4,derived_10,파생 1.0초
+normal_202,0,0.88031685,4,derived_10,파생 1.0초
+normal_204,0,0.4921478,4,derived_10,파생 1.0초
+normal_205,0,1.2920151,4,derived_10,파생 1.0초
+normal_206,0,0.32339466,4,derived_10,파생 1.0초
+normal_212,0,0.7034777,4,derived_10,파생 1.0초
+normal_213,0,1.2468603,4,derived_10,파생 1.0초
+normal_214,0,0.2606482,4,derived_10,파생 1.0초
+normal_218,0,0.49577966,4,derived_10,파생 1.0초
+normal_220,0,1.1266294,4,derived_10,파생 1.0초
+normal_231,0,0.35152337,4,derived_10,파생 1.0초
+normal_246,0,0.22902489,4,derived_10,파생 1.0초
+normal_262,0,0.97117436,4,derived_10,파생 1.0초
+normal_266,0,0.6672029,4,derived_10,파생 1.0초
+normal_267,0,0.33664015,4,derived_10,파생 1.0초
+normal_286,0,0.60663694,4,derived_10,파생 1.0초
+normal_293,0,1.2805417,4,derived_10,파생 1.0초
+normal_294,0,0.5937197,4,derived_10,파생 1.0초
+normal_296,0,1.03843,4,derived_10,파생 1.0초
+normal_299,0,0.8600363,4,derived_10,파생 1.0초
+normal_305,0,0.3203693,4,derived_10,파생 1.0초
+normal_308,0,0.5144817,4,derived_10,파생 1.0초
+normal_310,0,0.4560963,4,derived_10,파생 1.0초
+normal_316,0,0.35400617,4,derived_10,파생 1.0초
+normal_325,0,0.50144714,4,derived_10,파생 1.0초
+normal_330,0,0.7534007,4,derived_10,파생 1.0초
+normal_335,0,1.4116178,4,derived_10,파생 1.0초
+normal_337,0,0.50351983,4,derived_10,파생 1.0초
+normal_338,0,0.2775506,4,derived_10,파생 1.0초
+normal_342,0,0.31991586,4,derived_10,파생 1.0초
+normal_348,0,0.4728138,4,derived_10,파생 1.0초
+normal_350,0,0.28931186,4,derived_10,파생 1.0초
+normal_351,0,0.2677794,4,derived_10,파생 1.0초
+normal_357,0,0.1861137,4,derived_10,파생 1.0초
+normal_362,0,1.4712455,4,derived_10,파생 1.0초
+normal_364,0,0.2426052,4,derived_10,파생 1.0초
+normal_366,0,0.3373713,4,derived_10,파생 1.0초
+normal_387,0,1.8021376,4,derived_10,파생 1.0초
+normal_413,0,0.2519503,4,derived_10,파생 1.0초
+normal_414,0,1.388283,4,derived_10,파생 1.0초
+normal_418,0,0.5598123,4,derived_10,파생 1.0초
+normal_421,0,0.98101807,4,derived_10,파생 1.0초
+normal_425,0,0.37523887,4,derived_10,파생 1.0초
+normal_440,0,0.3102751,4,derived_10,파생 1.0초
+normal_446,0,1.1285796,4,derived_10,파생 1.0초
+normal_447,0,0.25513974,4,derived_10,파생 1.0초
+normal_450,0,0.9348609,4,derived_10,파생 1.0초
+normal_451,0,1.2930069,4,derived_10,파생 1.0초
+normal_453,0,0.92743397,4,derived_10,파생 1.0초
+normal_465,0,0.39501253,4,derived_10,파생 1.0초
+normal_467,0,0.2605259,4,derived_10,파생 1.0초
+normal_475,0,0.22217996,4,derived_10,파생 1.0초
+normal_481,0,0.22176324,4,derived_10,파생 1.0초
+normal_482,0,0.19533956,4,derived_10,파생 1.0초
+normal_485,0,0.14794078,4,derived_10,파생 1.0초
+normal_499,0,0.15941384,4,derived_10,파생 1.0초
+normal_501,0,0.21911676,4,derived_10,파생 1.0초
+normal_520,0,0.21603274,4,derived_10,파생 1.0초
+normal_521,0,0.16619638,4,derived_10,파생 1.0초
+normal_557,0,0.18030886,4,derived_10,파생 1.0초
+normal_565,0,0.9883603,4,derived_10,파생 1.0초
+normal_569,0,0.22330257,4,derived_10,파생 1.0초
+normal_583,0,0.40542284,4,derived_10,파생 1.0초
+normal_596,0,0.40859628,4,derived_10,파생 1.0초
+anomaly_4,1,0.3808236,4,derived_10,파생 1.0초
+anomaly_19,1,92.38674,4,derived_10,파생 1.0초
+normal_8,0,1.2262053,4,derived_15,파생 1.5초
+normal_16,0,1.4013332,4,derived_15,파생 1.5초
+normal_24,0,0.35617825,4,derived_15,파생 1.5초
+normal_25,0,1.1140581,4,derived_15,파생 1.5초
+normal_36,0,0.24294302,4,derived_15,파생 1.5초
+normal_38,0,0.2917311,4,derived_15,파생 1.5초
+normal_42,0,0.344339,4,derived_15,파생 1.5초
+normal_45,0,0.6676766,4,derived_15,파생 1.5초
+normal_48,0,0.9178965,4,derived_15,파생 1.5초
+normal_63,0,1.36914,4,derived_15,파생 1.5초
+normal_79,0,0.43784514,4,derived_15,파생 1.5초
+normal_86,0,0.53331,4,derived_15,파생 1.5초
+normal_88,0,1.39022,4,derived_15,파생 1.5초
+normal_96,0,0.8577452,4,derived_15,파생 1.5초
+normal_99,0,0.42023063,4,derived_15,파생 1.5초
+normal_105,0,0.22975588,4,derived_15,파생 1.5초
+normal_110,0,0.6197917,4,derived_15,파생 1.5초
+normal_120,0,0.9679398,4,derived_15,파생 1.5초
+normal_126,0,1.5962521,4,derived_15,파생 1.5초
+normal_130,0,0.3986817,4,derived_15,파생 1.5초
+normal_146,0,1.1382793,4,derived_15,파생 1.5초
+normal_147,0,0.30208856,4,derived_15,파생 1.5초
+normal_149,0,0.24680568,4,derived_15,파생 1.5초
+normal_167,0,0.76714206,4,derived_15,파생 1.5초
+normal_177,0,0.94899035,4,derived_15,파생 1.5초
+normal_178,0,0.4843577,4,derived_15,파생 1.5초
+normal_189,0,1.5941048,4,derived_15,파생 1.5초
+normal_193,0,0.5032629,4,derived_15,파생 1.5초
+normal_202,0,1.2061162,4,derived_15,파생 1.5초
+normal_204,0,0.57900333,4,derived_15,파생 1.5초
+normal_205,0,1.5733953,4,derived_15,파생 1.5초
+normal_206,0,0.369157,4,derived_15,파생 1.5초
+normal_212,0,0.8156269,4,derived_15,파생 1.5초
+normal_213,0,1.4999567,4,derived_15,파생 1.5초
+normal_214,0,0.33953273,4,derived_15,파생 1.5초
+normal_218,0,0.5757014,4,derived_15,파생 1.5초
+normal_220,0,1.218389,4,derived_15,파생 1.5초
+normal_231,0,0.36660463,4,derived_15,파생 1.5초
+normal_246,0,0.2757317,4,derived_15,파생 1.5초
+normal_262,0,1.2256525,4,derived_15,파생 1.5초
+normal_266,0,0.7175527,4,derived_15,파생 1.5초
+normal_267,0,0.37997505,4,derived_15,파생 1.5초
+normal_286,0,0.6123454,4,derived_15,파생 1.5초
+normal_293,0,1.4331571,4,derived_15,파생 1.5초
+normal_294,0,0.6666456,4,derived_15,파생 1.5초
+normal_296,0,1.2823497,4,derived_15,파생 1.5초
+normal_299,0,0.9732044,4,derived_15,파생 1.5초
+normal_305,0,0.33558485,4,derived_15,파생 1.5초
+normal_308,0,0.66021824,4,derived_15,파생 1.5초
+normal_310,0,0.51201653,4,derived_15,파생 1.5초
+normal_316,0,0.36888215,4,derived_15,파생 1.5초
+normal_325,0,0.4535571,4,derived_15,파생 1.5초
+normal_330,0,0.80792874,4,derived_15,파생 1.5초
+normal_335,0,1.4019499,4,derived_15,파생 1.5초
+normal_337,0,0.56285226,4,derived_15,파생 1.5초
+normal_338,0,0.29228145,4,derived_15,파생 1.5초
+normal_342,0,0.34827802,4,derived_15,파생 1.5초
+normal_348,0,0.46003413,4,derived_15,파생 1.5초
+normal_350,0,0.32589155,4,derived_15,파생 1.5초
+normal_351,0,0.4080472,4,derived_15,파생 1.5초
+normal_357,0,0.20977016,4,derived_15,파생 1.5초
+normal_362,0,1.4512353,4,derived_15,파생 1.5초
+normal_364,0,0.29042137,4,derived_15,파생 1.5초
+normal_366,0,0.3770773,4,derived_15,파생 1.5초
+normal_387,0,1.9632101,4,derived_15,파생 1.5초
+normal_413,0,0.285364,4,derived_15,파생 1.5초
+normal_414,0,1.3239983,4,derived_15,파생 1.5초
+normal_418,0,0.61943454,4,derived_15,파생 1.5초
+normal_421,0,1.3112502,4,derived_15,파생 1.5초
+normal_425,0,0.3904698,4,derived_15,파생 1.5초
+normal_440,0,0.36343506,4,derived_15,파생 1.5초
+normal_446,0,1.411129,4,derived_15,파생 1.5초
+normal_447,0,0.270375,4,derived_15,파생 1.5초
+normal_450,0,0.91835856,4,derived_15,파생 1.5초
+normal_451,0,1.5580454,4,derived_15,파생 1.5초
+normal_453,0,1.1471444,4,derived_15,파생 1.5초
+normal_465,0,0.45463923,4,derived_15,파생 1.5초
+normal_467,0,0.28110626,4,derived_15,파생 1.5초
+normal_475,0,0.23728235,4,derived_15,파생 1.5초
+normal_481,0,0.23362117,4,derived_15,파생 1.5초
+normal_482,0,0.22746599,4,derived_15,파생 1.5초
+normal_485,0,0.16404623,4,derived_15,파생 1.5초
+normal_499,0,0.19540465,4,derived_15,파생 1.5초
+normal_501,0,0.2653814,4,derived_15,파생 1.5초
+normal_520,0,0.27626467,4,derived_15,파생 1.5초
+normal_521,0,0.19359976,4,derived_15,파생 1.5초
+normal_557,0,0.20733719,4,derived_15,파생 1.5초
+normal_565,0,1.0575166,4,derived_15,파생 1.5초
+normal_569,0,0.26685488,4,derived_15,파생 1.5초
+normal_583,0,0.44389787,4,derived_15,파생 1.5초
+normal_596,0,0.4260745,4,derived_15,파생 1.5초
+anomaly_4,1,0.4676391,4,derived_15,파생 1.5초
+anomaly_19,1,125.027824,4,derived_15,파생 1.5초
+normal_8,0,1.3677603,4,derived_20,파생 2.0초
+normal_16,0,1.5650432,4,derived_20,파생 2.0초
+normal_24,0,0.35491177,4,derived_20,파생 2.0초
+normal_25,0,1.151524,4,derived_20,파생 2.0초
+normal_36,0,0.24885933,4,derived_20,파생 2.0초
+normal_38,0,0.29564282,4,derived_20,파생 2.0초
+normal_42,0,0.36965042,4,derived_20,파생 2.0초
+normal_45,0,0.6687215,4,derived_20,파생 2.0초
+normal_48,0,0.94605404,4,derived_20,파생 2.0초
+normal_63,0,1.4103935,4,derived_20,파생 2.0초
+normal_79,0,0.48538846,4,derived_20,파생 2.0초
+normal_86,0,0.57752746,4,derived_20,파생 2.0초
+normal_88,0,1.5726581,4,derived_20,파생 2.0초
+normal_96,0,0.90851104,4,derived_20,파생 2.0초
+normal_99,0,0.42216796,4,derived_20,파생 2.0초
+normal_105,0,0.23867238,4,derived_20,파생 2.0초
+normal_110,0,0.6067205,4,derived_20,파생 2.0초
+normal_120,0,0.9794005,4,derived_20,파생 2.0초
+normal_126,0,1.5986648,4,derived_20,파생 2.0초
+normal_130,0,0.3899339,4,derived_20,파생 2.0초
+normal_146,0,1.1129036,4,derived_20,파생 2.0초
+normal_147,0,0.31350365,4,derived_20,파생 2.0초
+normal_149,0,0.32767427,4,derived_20,파생 2.0초
+normal_167,0,0.87880826,4,derived_20,파생 2.0초
+normal_177,0,1.057346,4,derived_20,파생 2.0초
+normal_178,0,0.462304,4,derived_20,파생 2.0초
+normal_189,0,1.3762829,4,derived_20,파생 2.0초
+normal_193,0,0.54214144,4,derived_20,파생 2.0초
+normal_202,0,1.5290897,4,derived_20,파생 2.0초
+normal_204,0,0.5531734,4,derived_20,파생 2.0초
+normal_205,0,1.5230969,4,derived_20,파생 2.0초
+normal_206,0,0.3818361,4,derived_20,파생 2.0초
+normal_212,0,0.85206354,4,derived_20,파생 2.0초
+normal_213,0,1.5541233,4,derived_20,파생 2.0초
+normal_214,0,0.3323561,4,derived_20,파생 2.0초
+normal_218,0,0.5806603,4,derived_20,파생 2.0초
+normal_220,0,1.3244157,4,derived_20,파생 2.0초
+normal_231,0,0.36212197,4,derived_20,파생 2.0초
+normal_246,0,0.2744041,4,derived_20,파생 2.0초
+normal_262,0,1.0781093,4,derived_20,파생 2.0초
+normal_266,0,0.8029214,4,derived_20,파생 2.0초
+normal_267,0,0.3944994,4,derived_20,파생 2.0초
+normal_286,0,0.77354634,4,derived_20,파생 2.0초
+normal_293,0,1.4224812,4,derived_20,파생 2.0초
+normal_294,0,0.64216894,4,derived_20,파생 2.0초
+normal_296,0,1.2716954,4,derived_20,파생 2.0초
+normal_299,0,1.0442477,4,derived_20,파생 2.0초
+normal_305,0,0.35750046,4,derived_20,파생 2.0초
+normal_308,0,0.6365733,4,derived_20,파생 2.0초
+normal_310,0,0.5399251,4,derived_20,파생 2.0초
+normal_316,0,0.3981683,4,derived_20,파생 2.0초
+normal_325,0,0.50520694,4,derived_20,파생 2.0초
+normal_330,0,0.9621591,4,derived_20,파생 2.0초
+normal_335,0,1.4896575,4,derived_20,파생 2.0초
+normal_337,0,0.58665985,4,derived_20,파생 2.0초
+normal_338,0,0.34203494,4,derived_20,파생 2.0초
+normal_342,0,0.3445877,4,derived_20,파생 2.0초
+normal_348,0,0.5344826,4,derived_20,파생 2.0초
+normal_350,0,0.31846026,4,derived_20,파생 2.0초
+normal_351,0,0.3445897,4,derived_20,파생 2.0초
+normal_357,0,0.20164108,4,derived_20,파생 2.0초
+normal_362,0,1.5484868,4,derived_20,파생 2.0초
+normal_364,0,0.28190285,4,derived_20,파생 2.0초
+normal_366,0,0.40156662,4,derived_20,파생 2.0초
+normal_387,0,1.8764215,4,derived_20,파생 2.0초
+normal_413,0,0.291909,4,derived_20,파생 2.0초
+normal_414,0,1.4887568,4,derived_20,파생 2.0초
+normal_418,0,0.70627165,4,derived_20,파생 2.0초
+normal_421,0,1.3171825,4,derived_20,파생 2.0초
+normal_425,0,0.40703404,4,derived_20,파생 2.0초
+normal_440,0,0.39275405,4,derived_20,파생 2.0초
+normal_446,0,1.3101094,4,derived_20,파생 2.0초
+normal_447,0,0.2747747,4,derived_20,파생 2.0초
+normal_450,0,1.0698493,4,derived_20,파생 2.0초
+normal_451,0,1.5528171,4,derived_20,파생 2.0초
+normal_453,0,1.3876424,4,derived_20,파생 2.0초
+normal_465,0,0.43130377,4,derived_20,파생 2.0초
+normal_467,0,0.3102182,4,derived_20,파생 2.0초
+normal_475,0,0.27889547,4,derived_20,파생 2.0초
+normal_481,0,0.24389438,4,derived_20,파생 2.0초
+normal_482,0,0.23059754,4,derived_20,파생 2.0초
+normal_485,0,0.16687562,4,derived_20,파생 2.0초
+normal_499,0,0.18764184,4,derived_20,파생 2.0초
+normal_501,0,0.26604316,4,derived_20,파생 2.0초
+normal_520,0,0.25979716,4,derived_20,파생 2.0초
+normal_521,0,0.19043985,4,derived_20,파생 2.0초
+normal_557,0,0.21219584,4,derived_20,파생 2.0초
+normal_565,0,0.98415375,4,derived_20,파생 2.0초
+normal_569,0,0.28873217,4,derived_20,파생 2.0초
+normal_583,0,0.44253597,4,derived_20,파생 2.0초
+normal_596,0,0.47164202,4,derived_20,파생 2.0초
+anomaly_4,1,0.57017845,4,derived_20,파생 2.0초
+anomaly_19,1,108.105545,4,derived_20,파생 2.0초
+normal_3,0,0.0023118122,5,raw_single,단일시점
+normal_5,0,0.0016108917,5,raw_single,단일시점
+normal_13,0,0.00391071,5,raw_single,단일시점
+normal_34,0,0.009681409,5,raw_single,단일시점
+normal_43,0,0.0021927892,5,raw_single,단일시점
+normal_45,0,0.0028548774,5,raw_single,단일시점
+normal_48,0,0.002646376,5,raw_single,단일시점
+normal_61,0,0.0075168596,5,raw_single,단일시점
+normal_63,0,0.021938503,5,raw_single,단일시점
+normal_68,0,0.023624497,5,raw_single,단일시점
+normal_70,0,0.0016886663,5,raw_single,단일시점
+normal_71,0,0.0019823757,5,raw_single,단일시점
+normal_79,0,0.0014631802,5,raw_single,단일시점
+normal_90,0,0.01214668,5,raw_single,단일시점
+normal_98,0,0.00377848,5,raw_single,단일시점
+normal_109,0,0.01525707,5,raw_single,단일시점
+normal_120,0,0.0037978888,5,raw_single,단일시점
+normal_121,0,0.00275844,5,raw_single,단일시점
+normal_122,0,0.003135771,5,raw_single,단일시점
+normal_148,0,0.018980607,5,raw_single,단일시점
+normal_155,0,0.0013604907,5,raw_single,단일시점
+normal_159,0,0.0038951845,5,raw_single,단일시점
+normal_160,0,0.0020827854,5,raw_single,단일시점
+normal_166,0,0.004310584,5,raw_single,단일시점
+normal_170,0,0.00207788,5,raw_single,단일시점
+normal_172,0,0.0018511212,5,raw_single,단일시점
+normal_180,0,0.0024724798,5,raw_single,단일시점
+normal_204,0,0.003198766,5,raw_single,단일시점
+normal_207,0,0.0019526075,5,raw_single,단일시점
+normal_217,0,0.005053389,5,raw_single,단일시점
+normal_219,0,0.0020985573,5,raw_single,단일시점
+normal_224,0,0.0015417925,5,raw_single,단일시점
+normal_230,0,0.002574728,5,raw_single,단일시점
+normal_234,0,0.0017696789,5,raw_single,단일시점
+normal_236,0,0.009479519,5,raw_single,단일시점
+normal_240,0,0.0018799121,5,raw_single,단일시점
+normal_252,0,0.0049441373,5,raw_single,단일시점
+normal_253,0,0.0015986506,5,raw_single,단일시점
+normal_258,0,0.0017923961,5,raw_single,단일시점
+normal_277,0,0.046691693,5,raw_single,단일시점
+normal_287,0,0.016565414,5,raw_single,단일시점
+normal_294,0,0.005675197,5,raw_single,단일시점
+normal_308,0,0.004309981,5,raw_single,단일시점
+normal_312,0,0.0031292967,5,raw_single,단일시점
+normal_319,0,0.0019470409,5,raw_single,단일시점
+normal_326,0,0.009813273,5,raw_single,단일시점
+normal_332,0,0.008570353,5,raw_single,단일시점
+normal_362,0,0.0038944487,5,raw_single,단일시점
+normal_367,0,0.011441764,5,raw_single,단일시점
+normal_385,0,0.002256304,5,raw_single,단일시점
+normal_397,0,0.0021446312,5,raw_single,단일시점
+normal_403,0,0.0025293846,5,raw_single,단일시점
+normal_409,0,0.0051924773,5,raw_single,단일시점
+normal_418,0,0.003652341,5,raw_single,단일시점
+normal_420,0,0.011593731,5,raw_single,단일시점
+normal_421,0,0.007911206,5,raw_single,단일시점
+normal_429,0,0.0044958163,5,raw_single,단일시점
+normal_437,0,0.0024162016,5,raw_single,단일시점
+normal_445,0,0.010656198,5,raw_single,단일시점
+normal_451,0,0.005331232,5,raw_single,단일시점
+normal_455,0,0.0034005009,5,raw_single,단일시점
+normal_456,0,0.039167047,5,raw_single,단일시점
+normal_458,0,0.0026247469,5,raw_single,단일시점
+normal_462,0,0.001978749,5,raw_single,단일시점
+normal_463,0,0.0041886726,5,raw_single,단일시점
+normal_470,0,0.027851611,5,raw_single,단일시점
+normal_471,0,0.004035252,5,raw_single,단일시점
+normal_486,0,0.0019288542,5,raw_single,단일시점
+normal_505,0,0.0023774027,5,raw_single,단일시점
+normal_506,0,0.0015881493,5,raw_single,단일시점
+normal_510,0,0.0020257249,5,raw_single,단일시점
+normal_515,0,0.0030021023,5,raw_single,단일시점
+normal_516,0,0.0017033222,5,raw_single,단일시점
+normal_517,0,0.0017428594,5,raw_single,단일시점
+normal_520,0,0.001490522,5,raw_single,단일시점
+normal_521,0,0.0015335977,5,raw_single,단일시점
+normal_522,0,0.0014430241,5,raw_single,단일시점
+normal_525,0,0.0017215774,5,raw_single,단일시점
+normal_532,0,0.0016186383,5,raw_single,단일시점
+normal_539,0,0.0017237852,5,raw_single,단일시점
+normal_543,0,0.0015632354,5,raw_single,단일시점
+normal_544,0,0.0021014307,5,raw_single,단일시점
+normal_545,0,0.0020054057,5,raw_single,단일시점
+normal_557,0,0.0020058681,5,raw_single,단일시점
+normal_558,0,0.0019384287,5,raw_single,단일시점
+normal_565,0,0.0029844653,5,raw_single,단일시점
+normal_576,0,0.02688454,5,raw_single,단일시점
+normal_588,0,0.0019199699,5,raw_single,단일시점
+normal_590,0,0.012800349,5,raw_single,단일시점
+normal_593,0,0.0014864235,5,raw_single,단일시점
+normal_594,0,0.0021377206,5,raw_single,단일시점
+anomaly_4,1,0.002334786,5,raw_single,단일시점
+anomaly_14,1,32.920933,5,raw_single,단일시점
+normal_3,0,0.122560546,5,raw_window_5,원데이터 0.5초
+normal_5,0,0.11878042,5,raw_window_5,원데이터 0.5초
+normal_13,0,0.34915045,5,raw_window_5,원데이터 0.5초
+normal_34,0,0.43211913,5,raw_window_5,원데이터 0.5초
+normal_43,0,0.30239826,5,raw_window_5,원데이터 0.5초
+normal_45,0,0.2796082,5,raw_window_5,원데이터 0.5초
+normal_48,0,0.27721125,5,raw_window_5,원데이터 0.5초
+normal_61,0,0.47512108,5,raw_window_5,원데이터 0.5초
+normal_63,0,0.41553473,5,raw_window_5,원데이터 0.5초
+normal_68,0,0.60378075,5,raw_window_5,원데이터 0.5초
+normal_70,0,0.11111436,5,raw_window_5,원데이터 0.5초
+normal_71,0,0.19123751,5,raw_window_5,원데이터 0.5초
+normal_79,0,0.18025434,5,raw_window_5,원데이터 0.5초
+normal_90,0,0.23573592,5,raw_window_5,원데이터 0.5초
+normal_98,0,0.40416422,5,raw_window_5,원데이터 0.5초
+normal_109,0,0.27217913,5,raw_window_5,원데이터 0.5초
+normal_120,0,0.22800641,5,raw_window_5,원데이터 0.5초
+normal_121,0,0.13313755,5,raw_window_5,원데이터 0.5초
+normal_122,0,0.20926833,5,raw_window_5,원데이터 0.5초
+normal_148,0,0.43471748,5,raw_window_5,원데이터 0.5초
+normal_155,0,0.17076199,5,raw_window_5,원데이터 0.5초
+normal_159,0,0.53985107,5,raw_window_5,원데이터 0.5초
+normal_160,0,0.27517134,5,raw_window_5,원데이터 0.5초
+normal_166,0,0.32957354,5,raw_window_5,원데이터 0.5초
+normal_170,0,0.44599715,5,raw_window_5,원데이터 0.5초
+normal_172,0,0.45655712,5,raw_window_5,원데이터 0.5초
+normal_180,0,0.41482747,5,raw_window_5,원데이터 0.5초
+normal_204,0,0.36986846,5,raw_window_5,원데이터 0.5초
+normal_207,0,0.31520194,5,raw_window_5,원데이터 0.5초
+normal_217,0,0.2596909,5,raw_window_5,원데이터 0.5초
+normal_219,0,0.2605697,5,raw_window_5,원데이터 0.5초
+normal_224,0,0.20656185,5,raw_window_5,원데이터 0.5초
+normal_230,0,0.28642455,5,raw_window_5,원데이터 0.5초
+normal_234,0,0.15710351,5,raw_window_5,원데이터 0.5초
+normal_236,0,0.35567132,5,raw_window_5,원데이터 0.5초
+normal_240,0,0.4398848,5,raw_window_5,원데이터 0.5초
+normal_252,0,0.325311,5,raw_window_5,원데이터 0.5초
+normal_253,0,0.12983355,5,raw_window_5,원데이터 0.5초
+normal_258,0,0.14543828,5,raw_window_5,원데이터 0.5초
+normal_277,0,0.44422397,5,raw_window_5,원데이터 0.5초
+normal_287,0,0.3411993,5,raw_window_5,원데이터 0.5초
+normal_294,0,0.5365204,5,raw_window_5,원데이터 0.5초
+normal_308,0,0.364047,5,raw_window_5,원데이터 0.5초
+normal_312,0,0.5374942,5,raw_window_5,원데이터 0.5초
+normal_319,0,0.1188001,5,raw_window_5,원데이터 0.5초
+normal_326,0,0.33792898,5,raw_window_5,원데이터 0.5초
+normal_332,0,0.7390824,5,raw_window_5,원데이터 0.5초
+normal_362,0,0.42610207,5,raw_window_5,원데이터 0.5초
+normal_367,0,0.6258717,5,raw_window_5,원데이터 0.5초
+normal_385,0,0.434426,5,raw_window_5,원데이터 0.5초
+normal_397,0,0.29494748,5,raw_window_5,원데이터 0.5초
+normal_403,0,0.21109095,5,raw_window_5,원데이터 0.5초
+normal_409,0,0.3434752,5,raw_window_5,원데이터 0.5초
+normal_418,0,0.26156974,5,raw_window_5,원데이터 0.5초
+normal_420,0,0.2547572,5,raw_window_5,원데이터 0.5초
+normal_421,0,0.33856645,5,raw_window_5,원데이터 0.5초
+normal_429,0,0.35519314,5,raw_window_5,원데이터 0.5초
+normal_437,0,0.18326014,5,raw_window_5,원데이터 0.5초
+normal_445,0,0.21895418,5,raw_window_5,원데이터 0.5초
+normal_451,0,0.31555444,5,raw_window_5,원데이터 0.5초
+normal_455,0,0.36201853,5,raw_window_5,원데이터 0.5초
+normal_456,0,0.4109664,5,raw_window_5,원데이터 0.5초
+normal_458,0,0.4097193,5,raw_window_5,원데이터 0.5초
+normal_462,0,0.2026836,5,raw_window_5,원데이터 0.5초
+normal_463,0,0.5304822,5,raw_window_5,원데이터 0.5초
+normal_470,0,0.49861923,5,raw_window_5,원데이터 0.5초
+normal_471,0,0.54595906,5,raw_window_5,원데이터 0.5초
+normal_486,0,0.13650596,5,raw_window_5,원데이터 0.5초
+normal_505,0,0.1257283,5,raw_window_5,원데이터 0.5초
+normal_506,0,0.15358247,5,raw_window_5,원데이터 0.5초
+normal_510,0,0.14029522,5,raw_window_5,원데이터 0.5초
+normal_515,0,0.12013669,5,raw_window_5,원데이터 0.5초
+normal_516,0,0.14969164,5,raw_window_5,원데이터 0.5초
+normal_517,0,0.1056692,5,raw_window_5,원데이터 0.5초
+normal_520,0,0.20360593,5,raw_window_5,원데이터 0.5초
+normal_521,0,0.12112508,5,raw_window_5,원데이터 0.5초
+normal_522,0,0.07937664,5,raw_window_5,원데이터 0.5초
+normal_525,0,0.13462634,5,raw_window_5,원데이터 0.5초
+normal_532,0,0.12696885,5,raw_window_5,원데이터 0.5초
+normal_539,0,0.12108588,5,raw_window_5,원데이터 0.5초
+normal_543,0,0.07355197,5,raw_window_5,원데이터 0.5초
+normal_544,0,0.13171639,5,raw_window_5,원데이터 0.5초
+normal_545,0,0.13310665,5,raw_window_5,원데이터 0.5초
+normal_557,0,0.11170174,5,raw_window_5,원데이터 0.5초
+normal_558,0,0.09268408,5,raw_window_5,원데이터 0.5초
+normal_565,0,0.19057678,5,raw_window_5,원데이터 0.5초
+normal_576,0,0.43807048,5,raw_window_5,원데이터 0.5초
+normal_588,0,0.4002428,5,raw_window_5,원데이터 0.5초
+normal_590,0,0.23338346,5,raw_window_5,원데이터 0.5초
+normal_593,0,0.60616493,5,raw_window_5,원데이터 0.5초
+normal_594,0,0.37068912,5,raw_window_5,원데이터 0.5초
+anomaly_4,1,0.42995197,5,raw_window_5,원데이터 0.5초
+anomaly_14,1,46.260593,5,raw_window_5,원데이터 0.5초
+normal_3,0,0.16265416,5,raw_window_10,원데이터 1.0초
+normal_5,0,0.13472843,5,raw_window_10,원데이터 1.0초
+normal_13,0,0.6015831,5,raw_window_10,원데이터 1.0초
+normal_34,0,0.85283506,5,raw_window_10,원데이터 1.0초
+normal_43,0,0.2927713,5,raw_window_10,원데이터 1.0초
+normal_45,0,0.53427875,5,raw_window_10,원데이터 1.0초
+normal_48,0,0.7445102,5,raw_window_10,원데이터 1.0초
+normal_61,0,0.73584247,5,raw_window_10,원데이터 1.0초
+normal_63,0,1.4102936,5,raw_window_10,원데이터 1.0초
+normal_68,0,0.8064401,5,raw_window_10,원데이터 1.0초
+normal_70,0,0.11808708,5,raw_window_10,원데이터 1.0초
+normal_71,0,0.3942724,5,raw_window_10,원데이터 1.0초
+normal_79,0,0.34895557,5,raw_window_10,원데이터 1.0초
+normal_90,0,1.2828974,5,raw_window_10,원데이터 1.0초
+normal_98,0,0.8094002,5,raw_window_10,원데이터 1.0초
+normal_109,0,1.4655987,5,raw_window_10,원데이터 1.0초
+normal_120,0,0.90309167,5,raw_window_10,원데이터 1.0초
+normal_121,0,0.16715574,5,raw_window_10,원데이터 1.0초
+normal_122,0,0.42569625,5,raw_window_10,원데이터 1.0초
+normal_148,0,0.75397575,5,raw_window_10,원데이터 1.0초
+normal_155,0,0.22789285,5,raw_window_10,원데이터 1.0초
+normal_159,0,0.7575943,5,raw_window_10,원데이터 1.0초
+normal_160,0,0.25099075,5,raw_window_10,원데이터 1.0초
+normal_166,0,1.0034684,5,raw_window_10,원데이터 1.0초
+normal_170,0,0.3995647,5,raw_window_10,원데이터 1.0초
+normal_172,0,0.74273837,5,raw_window_10,원데이터 1.0초
+normal_180,0,1.1102034,5,raw_window_10,원데이터 1.0초
+normal_204,0,0.41664684,5,raw_window_10,원데이터 1.0초
+normal_207,0,0.39700186,5,raw_window_10,원데이터 1.0초
+normal_217,0,1.0472033,5,raw_window_10,원데이터 1.0초
+normal_219,0,0.25133833,5,raw_window_10,원데이터 1.0초
+normal_224,0,0.24802914,5,raw_window_10,원데이터 1.0초
+normal_230,0,0.7422403,5,raw_window_10,원데이터 1.0초
+normal_234,0,0.18669218,5,raw_window_10,원데이터 1.0초
+normal_236,0,1.1770532,5,raw_window_10,원데이터 1.0초
+normal_240,0,0.5448626,5,raw_window_10,원데이터 1.0초
+normal_252,0,0.98868287,5,raw_window_10,원데이터 1.0초
+normal_253,0,0.1623879,5,raw_window_10,원데이터 1.0초
+normal_258,0,0.19932753,5,raw_window_10,원데이터 1.0초
+normal_277,0,1.4796084,5,raw_window_10,원데이터 1.0초
+normal_287,0,1.382659,5,raw_window_10,원데이터 1.0초
+normal_294,0,0.7089412,5,raw_window_10,원데이터 1.0초
+normal_308,0,0.5532759,5,raw_window_10,원데이터 1.0초
+normal_312,0,0.60695714,5,raw_window_10,원데이터 1.0초
+normal_319,0,0.16262588,5,raw_window_10,원데이터 1.0초
+normal_326,0,1.3756623,5,raw_window_10,원데이터 1.0초
+normal_332,0,1.4349948,5,raw_window_10,원데이터 1.0초
+normal_362,0,1.3774438,5,raw_window_10,원데이터 1.0초
+normal_367,0,1.3280762,5,raw_window_10,원데이터 1.0초
+normal_385,0,0.48336506,5,raw_window_10,원데이터 1.0초
+normal_397,0,0.29383254,5,raw_window_10,원데이터 1.0초
+normal_403,0,0.19465365,5,raw_window_10,원데이터 1.0초
+normal_409,0,0.97152394,5,raw_window_10,원데이터 1.0초
+normal_418,0,0.5282309,5,raw_window_10,원데이터 1.0초
+normal_420,0,1.3766154,5,raw_window_10,원데이터 1.0초
+normal_421,0,1.104228,5,raw_window_10,원데이터 1.0초
+normal_429,0,0.6965196,5,raw_window_10,원데이터 1.0초
+normal_437,0,0.28092247,5,raw_window_10,원데이터 1.0초
+normal_445,0,1.37186,5,raw_window_10,원데이터 1.0초
+normal_451,0,1.388001,5,raw_window_10,원데이터 1.0초
+normal_455,0,0.47920766,5,raw_window_10,원데이터 1.0초
+normal_456,0,1.5164045,5,raw_window_10,원데이터 1.0초
+normal_458,0,0.5356342,5,raw_window_10,원데이터 1.0초
+normal_462,0,0.24626692,5,raw_window_10,원데이터 1.0초
+normal_463,0,0.57016534,5,raw_window_10,원데이터 1.0초
+normal_470,0,1.7096765,5,raw_window_10,원데이터 1.0초
+normal_471,0,0.7716442,5,raw_window_10,원데이터 1.0초
+normal_486,0,0.16653915,5,raw_window_10,원데이터 1.0초
+normal_505,0,0.13732702,5,raw_window_10,원데이터 1.0초
+normal_506,0,0.163669,5,raw_window_10,원데이터 1.0초
+normal_510,0,0.150903,5,raw_window_10,원데이터 1.0초
+normal_515,0,0.13204598,5,raw_window_10,원데이터 1.0초
+normal_516,0,0.16066028,5,raw_window_10,원데이터 1.0초
+normal_517,0,0.113300815,5,raw_window_10,원데이터 1.0초
+normal_520,0,0.2155621,5,raw_window_10,원데이터 1.0초
+normal_521,0,0.12587443,5,raw_window_10,원데이터 1.0초
+normal_522,0,0.0937229,5,raw_window_10,원데이터 1.0초
+normal_525,0,0.12796591,5,raw_window_10,원데이터 1.0초
+normal_532,0,0.1363807,5,raw_window_10,원데이터 1.0초
+normal_539,0,0.13348743,5,raw_window_10,원데이터 1.0초
+normal_543,0,0.08866981,5,raw_window_10,원데이터 1.0초
+normal_544,0,0.13825656,5,raw_window_10,원데이터 1.0초
+normal_545,0,0.1395577,5,raw_window_10,원데이터 1.0초
+normal_557,0,0.121870846,5,raw_window_10,원데이터 1.0초
+normal_558,0,0.10059455,5,raw_window_10,원데이터 1.0초
+normal_565,0,0.7389277,5,raw_window_10,원데이터 1.0초
+normal_576,0,1.2801373,5,raw_window_10,원데이터 1.0초
+normal_588,0,0.59831554,5,raw_window_10,원데이터 1.0초
+normal_590,0,1.0778954,5,raw_window_10,원데이터 1.0초
+normal_593,0,0.7804456,5,raw_window_10,원데이터 1.0초
+normal_594,0,0.4104951,5,raw_window_10,원데이터 1.0초
+anomaly_4,1,0.5061038,5,raw_window_10,원데이터 1.0초
+anomaly_14,1,45.722176,5,raw_window_10,원데이터 1.0초
+normal_3,0,0.20152058,5,raw_window_15,원데이터 1.5초
+normal_5,0,0.16535316,5,raw_window_15,원데이터 1.5초
+normal_13,0,0.6522733,5,raw_window_15,원데이터 1.5초
+normal_34,0,0.9552005,5,raw_window_15,원데이터 1.5초
+normal_43,0,0.34438404,5,raw_window_15,원데이터 1.5초
+normal_45,0,0.5840399,5,raw_window_15,원데이터 1.5초
+normal_48,0,0.809123,5,raw_window_15,원데이터 1.5초
+normal_61,0,0.78190905,5,raw_window_15,원데이터 1.5초
+normal_63,0,1.4369742,5,raw_window_15,원데이터 1.5초
+normal_68,0,0.92344314,5,raw_window_15,원데이터 1.5초
+normal_70,0,0.15844405,5,raw_window_15,원데이터 1.5초
+normal_71,0,0.43315616,5,raw_window_15,원데이터 1.5초
+normal_79,0,0.37762907,5,raw_window_15,원데이터 1.5초
+normal_90,0,1.4157056,5,raw_window_15,원데이터 1.5초
+normal_98,0,0.9304295,5,raw_window_15,원데이터 1.5초
+normal_109,0,1.6455065,5,raw_window_15,원데이터 1.5초
+normal_120,0,0.9314024,5,raw_window_15,원데이터 1.5초
+normal_121,0,0.19681035,5,raw_window_15,원데이터 1.5초
+normal_122,0,0.4554879,5,raw_window_15,원데이터 1.5초
+normal_148,0,0.9854984,5,raw_window_15,원데이터 1.5초
+normal_155,0,0.2667807,5,raw_window_15,원데이터 1.5초
+normal_159,0,0.7898713,5,raw_window_15,원데이터 1.5초
+normal_160,0,0.28120872,5,raw_window_15,원데이터 1.5초
+normal_166,0,1.038826,5,raw_window_15,원데이터 1.5초
+normal_170,0,0.48052225,5,raw_window_15,원데이터 1.5초
+normal_172,0,0.74179316,5,raw_window_15,원데이터 1.5초
+normal_180,0,1.1740248,5,raw_window_15,원데이터 1.5초
+normal_204,0,0.4388365,5,raw_window_15,원데이터 1.5초
+normal_207,0,0.3745389,5,raw_window_15,원데이터 1.5초
+normal_217,0,1.1957556,5,raw_window_15,원데이터 1.5초
+normal_219,0,0.27903318,5,raw_window_15,원데이터 1.5초
+normal_224,0,0.2887158,5,raw_window_15,원데이터 1.5초
+normal_230,0,0.7608416,5,raw_window_15,원데이터 1.5초
+normal_234,0,0.23194401,5,raw_window_15,원데이터 1.5초
+normal_236,0,1.2746967,5,raw_window_15,원데이터 1.5초
+normal_240,0,0.5548939,5,raw_window_15,원데이터 1.5초
+normal_252,0,1.0479969,5,raw_window_15,원데이터 1.5초
+normal_253,0,0.17905389,5,raw_window_15,원데이터 1.5초
+normal_258,0,0.22410633,5,raw_window_15,원데이터 1.5초
+normal_277,0,1.5791751,5,raw_window_15,원데이터 1.5초
+normal_287,0,1.454421,5,raw_window_15,원데이터 1.5초
+normal_294,0,0.71579957,5,raw_window_15,원데이터 1.5초
+normal_308,0,0.6533277,5,raw_window_15,원데이터 1.5초
+normal_312,0,0.6474894,5,raw_window_15,원데이터 1.5초
+normal_319,0,0.18930607,5,raw_window_15,원데이터 1.5초
+normal_326,0,1.44658,5,raw_window_15,원데이터 1.5초
+normal_332,0,1.5244646,5,raw_window_15,원데이터 1.5초
+normal_362,0,1.4968442,5,raw_window_15,원데이터 1.5초
+normal_367,0,1.4220158,5,raw_window_15,원데이터 1.5초
+normal_385,0,0.4867973,5,raw_window_15,원데이터 1.5초
+normal_397,0,0.37584034,5,raw_window_15,원데이터 1.5초
+normal_403,0,0.24061969,5,raw_window_15,원데이터 1.5초
+normal_409,0,1.1069373,5,raw_window_15,원데이터 1.5초
+normal_418,0,0.5769728,5,raw_window_15,원데이터 1.5초
+normal_420,0,1.4932653,5,raw_window_15,원데이터 1.5초
+normal_421,0,1.2011887,5,raw_window_15,원데이터 1.5초
+normal_429,0,0.7033679,5,raw_window_15,원데이터 1.5초
+normal_437,0,0.27979255,5,raw_window_15,원데이터 1.5초
+normal_445,0,1.5048093,5,raw_window_15,원데이터 1.5초
+normal_451,0,1.453886,5,raw_window_15,원데이터 1.5초
+normal_455,0,0.52536005,5,raw_window_15,원데이터 1.5초
+normal_456,0,1.7828356,5,raw_window_15,원데이터 1.5초
+normal_458,0,0.5650628,5,raw_window_15,원데이터 1.5초
+normal_462,0,0.2598149,5,raw_window_15,원데이터 1.5초
+normal_463,0,0.58442223,5,raw_window_15,원데이터 1.5초
+normal_470,0,1.8648536,5,raw_window_15,원데이터 1.5초
+normal_471,0,0.82124406,5,raw_window_15,원데이터 1.5초
+normal_486,0,0.1704713,5,raw_window_15,원데이터 1.5초
+normal_505,0,0.14272146,5,raw_window_15,원데이터 1.5초
+normal_506,0,0.17320125,5,raw_window_15,원데이터 1.5초
+normal_510,0,0.16328748,5,raw_window_15,원데이터 1.5초
+normal_515,0,0.13764064,5,raw_window_15,원데이터 1.5초
+normal_516,0,0.17555642,5,raw_window_15,원데이터 1.5초
+normal_517,0,0.12534088,5,raw_window_15,원데이터 1.5초
+normal_520,0,0.22603934,5,raw_window_15,원데이터 1.5초
+normal_521,0,0.13529512,5,raw_window_15,원데이터 1.5초
+normal_522,0,0.1069173,5,raw_window_15,원데이터 1.5초
+normal_525,0,0.13644183,5,raw_window_15,원데이터 1.5초
+normal_532,0,0.14441651,5,raw_window_15,원데이터 1.5초
+normal_539,0,0.13942727,5,raw_window_15,원데이터 1.5초
+normal_543,0,0.106023006,5,raw_window_15,원데이터 1.5초
+normal_544,0,0.15241815,5,raw_window_15,원데이터 1.5초
+normal_545,0,0.15576404,5,raw_window_15,원데이터 1.5초
+normal_557,0,0.13184682,5,raw_window_15,원데이터 1.5초
+normal_558,0,0.11286687,5,raw_window_15,원데이터 1.5초
+normal_565,0,0.8475942,5,raw_window_15,원데이터 1.5초
+normal_576,0,1.3529555,5,raw_window_15,원데이터 1.5초
+normal_588,0,0.6312106,5,raw_window_15,원데이터 1.5초
+normal_590,0,1.1890446,5,raw_window_15,원데이터 1.5초
+normal_593,0,0.84564406,5,raw_window_15,원데이터 1.5초
+normal_594,0,0.48831955,5,raw_window_15,원데이터 1.5초
+anomaly_4,1,0.93971163,5,raw_window_15,원데이터 1.5초
+anomaly_14,1,47.71333,5,raw_window_15,원데이터 1.5초
+normal_3,0,0.21583882,5,raw_window_20,원데이터 2.0초
+normal_5,0,0.18415222,5,raw_window_20,원데이터 2.0초
+normal_13,0,0.6775713,5,raw_window_20,원데이터 2.0초
+normal_34,0,0.95290935,5,raw_window_20,원데이터 2.0초
+normal_43,0,0.3566753,5,raw_window_20,원데이터 2.0초
+normal_45,0,0.5681301,5,raw_window_20,원데이터 2.0초
+normal_48,0,0.8318753,5,raw_window_20,원데이터 2.0초
+normal_61,0,0.7857665,5,raw_window_20,원데이터 2.0초
+normal_63,0,1.4440107,5,raw_window_20,원데이터 2.0초
+normal_68,0,0.9505387,5,raw_window_20,원데이터 2.0초
+normal_70,0,0.18081617,5,raw_window_20,원데이터 2.0초
+normal_71,0,0.44289812,5,raw_window_20,원데이터 2.0초
+normal_79,0,0.3681063,5,raw_window_20,원데이터 2.0초
+normal_90,0,1.3881017,5,raw_window_20,원데이터 2.0초
+normal_98,0,0.9442886,5,raw_window_20,원데이터 2.0초
+normal_109,0,1.6042387,5,raw_window_20,원데이터 2.0초
+normal_120,0,0.95510197,5,raw_window_20,원데이터 2.0초
+normal_121,0,0.21257333,5,raw_window_20,원데이터 2.0초
+normal_122,0,0.47420576,5,raw_window_20,원데이터 2.0초
+normal_148,0,0.9538295,5,raw_window_20,원데이터 2.0초
+normal_155,0,0.27964208,5,raw_window_20,원데이터 2.0초
+normal_159,0,0.80838567,5,raw_window_20,원데이터 2.0초
+normal_160,0,0.31220347,5,raw_window_20,원데이터 2.0초
+normal_166,0,1.0355344,5,raw_window_20,원데이터 2.0초
+normal_170,0,0.4638589,5,raw_window_20,원데이터 2.0초
+normal_172,0,0.7926208,5,raw_window_20,원데이터 2.0초
+normal_180,0,1.1569074,5,raw_window_20,원데이터 2.0초
+normal_204,0,0.46480247,5,raw_window_20,원데이터 2.0초
+normal_207,0,0.42998302,5,raw_window_20,원데이터 2.0초
+normal_217,0,1.2360238,5,raw_window_20,원데이터 2.0초
+normal_219,0,0.2688538,5,raw_window_20,원데이터 2.0초
+normal_224,0,0.29929402,5,raw_window_20,원데이터 2.0초
+normal_230,0,0.7251542,5,raw_window_20,원데이터 2.0초
+normal_234,0,0.23191114,5,raw_window_20,원데이터 2.0초
+normal_236,0,1.3250213,5,raw_window_20,원데이터 2.0초
+normal_240,0,0.5742807,5,raw_window_20,원데이터 2.0초
+normal_252,0,1.0608242,5,raw_window_20,원데이터 2.0초
+normal_253,0,0.18633094,5,raw_window_20,원데이터 2.0초
+normal_258,0,0.24171169,5,raw_window_20,원데이터 2.0초
+normal_277,0,1.5519882,5,raw_window_20,원데이터 2.0초
+normal_287,0,1.4669602,5,raw_window_20,원데이터 2.0초
+normal_294,0,0.730955,5,raw_window_20,원데이터 2.0초
+normal_308,0,0.625985,5,raw_window_20,원데이터 2.0초
+normal_312,0,0.6553605,5,raw_window_20,원데이터 2.0초
+normal_319,0,0.20994425,5,raw_window_20,원데이터 2.0초
+normal_326,0,1.4679263,5,raw_window_20,원데이터 2.0초
+normal_332,0,1.451888,5,raw_window_20,원데이터 2.0초
+normal_362,0,1.5756421,5,raw_window_20,원데이터 2.0초
+normal_367,0,1.3961458,5,raw_window_20,원데이터 2.0초
+normal_385,0,0.49532467,5,raw_window_20,원데이터 2.0초
+normal_397,0,0.40068275,5,raw_window_20,원데이터 2.0초
+normal_403,0,0.26710007,5,raw_window_20,원데이터 2.0초
+normal_409,0,1.0316802,5,raw_window_20,원데이터 2.0초
+normal_418,0,0.5978795,5,raw_window_20,원데이터 2.0초
+normal_420,0,1.4750139,5,raw_window_20,원데이터 2.0초
+normal_421,0,1.1565926,5,raw_window_20,원데이터 2.0초
+normal_429,0,0.70582026,5,raw_window_20,원데이터 2.0초
+normal_437,0,0.31397057,5,raw_window_20,원데이터 2.0초
+normal_445,0,1.5337404,5,raw_window_20,원데이터 2.0초
+normal_451,0,1.4474728,5,raw_window_20,원데이터 2.0초
+normal_455,0,0.5462419,5,raw_window_20,원데이터 2.0초
+normal_456,0,1.7497089,5,raw_window_20,원데이터 2.0초
+normal_458,0,0.6041994,5,raw_window_20,원데이터 2.0초
+normal_462,0,0.26059633,5,raw_window_20,원데이터 2.0초
+normal_463,0,0.56502503,5,raw_window_20,원데이터 2.0초
+normal_470,0,1.7575383,5,raw_window_20,원데이터 2.0초
+normal_471,0,0.78724945,5,raw_window_20,원데이터 2.0초
+normal_486,0,0.18547383,5,raw_window_20,원데이터 2.0초
+normal_505,0,0.15800747,5,raw_window_20,원데이터 2.0초
+normal_506,0,0.17737836,5,raw_window_20,원데이터 2.0초
+normal_510,0,0.1681785,5,raw_window_20,원데이터 2.0초
+normal_515,0,0.14808945,5,raw_window_20,원데이터 2.0초
+normal_516,0,0.18714759,5,raw_window_20,원데이터 2.0초
+normal_517,0,0.13694282,5,raw_window_20,원데이터 2.0초
+normal_520,0,0.24354535,5,raw_window_20,원데이터 2.0초
+normal_521,0,0.13995607,5,raw_window_20,원데이터 2.0초
+normal_522,0,0.11764649,5,raw_window_20,원데이터 2.0초
+normal_525,0,0.14655103,5,raw_window_20,원데이터 2.0초
+normal_532,0,0.15511346,5,raw_window_20,원데이터 2.0초
+normal_539,0,0.1469823,5,raw_window_20,원데이터 2.0초
+normal_543,0,0.11487926,5,raw_window_20,원데이터 2.0초
+normal_544,0,0.16066432,5,raw_window_20,원데이터 2.0초
+normal_545,0,0.1600252,5,raw_window_20,원데이터 2.0초
+normal_557,0,0.13866647,5,raw_window_20,원데이터 2.0초
+normal_558,0,0.111558735,5,raw_window_20,원데이터 2.0초
+normal_565,0,0.82972413,5,raw_window_20,원데이터 2.0초
+normal_576,0,1.4112785,5,raw_window_20,원데이터 2.0초
+normal_588,0,0.638042,5,raw_window_20,원데이터 2.0초
+normal_590,0,1.271317,5,raw_window_20,원데이터 2.0초
+normal_593,0,0.82066315,5,raw_window_20,원데이터 2.0초
+normal_594,0,0.48297447,5,raw_window_20,원데이터 2.0초
+anomaly_4,1,0.7975506,5,raw_window_20,원데이터 2.0초
+anomaly_14,1,47.177986,5,raw_window_20,원데이터 2.0초
+normal_3,0,0.0910001,5,derived_5,파생 0.5초
+normal_5,0,0.09261974,5,derived_5,파생 0.5초
+normal_13,0,0.26039535,5,derived_5,파생 0.5초
+normal_34,0,0.32310155,5,derived_5,파생 0.5초
+normal_43,0,0.1669141,5,derived_5,파생 0.5초
+normal_45,0,0.23527403,5,derived_5,파생 0.5초
+normal_48,0,0.37844244,5,derived_5,파생 0.5초
+normal_61,0,0.3172584,5,derived_5,파생 0.5초
+normal_63,0,0.52181506,5,derived_5,파생 0.5초
+normal_68,0,0.4880511,5,derived_5,파생 0.5초
+normal_70,0,0.07414103,5,derived_5,파생 0.5초
+normal_71,0,0.19521387,5,derived_5,파생 0.5초
+normal_79,0,0.1830025,5,derived_5,파생 0.5초
+normal_90,0,0.5115821,5,derived_5,파생 0.5초
+normal_98,0,0.3647204,5,derived_5,파생 0.5초
+normal_109,0,0.6599172,5,derived_5,파생 0.5초
+normal_120,0,0.34395975,5,derived_5,파생 0.5초
+normal_121,0,0.10931711,5,derived_5,파생 0.5초
+normal_122,0,0.20129672,5,derived_5,파생 0.5초
+normal_148,0,0.41444093,5,derived_5,파생 0.5초
+normal_155,0,0.12920967,5,derived_5,파생 0.5초
+normal_159,0,0.3139059,5,derived_5,파생 0.5초
+normal_160,0,0.12775956,5,derived_5,파생 0.5초
+normal_166,0,0.39576405,5,derived_5,파생 0.5초
+normal_170,0,0.25125128,5,derived_5,파생 0.5초
+normal_172,0,0.39038518,5,derived_5,파생 0.5초
+normal_180,0,0.47508675,5,derived_5,파생 0.5초
+normal_204,0,0.2168291,5,derived_5,파생 0.5초
+normal_207,0,0.21394083,5,derived_5,파생 0.5초
+normal_217,0,0.57501316,5,derived_5,파생 0.5초
+normal_219,0,0.19450133,5,derived_5,파생 0.5초
+normal_224,0,0.15959087,5,derived_5,파생 0.5초
+normal_230,0,0.32291752,5,derived_5,파생 0.5초
+normal_234,0,0.12670398,5,derived_5,파생 0.5초
+normal_236,0,0.5352942,5,derived_5,파생 0.5초
+normal_240,0,0.28856903,5,derived_5,파생 0.5초
+normal_252,0,0.37029964,5,derived_5,파생 0.5초
+normal_253,0,0.12344708,5,derived_5,파생 0.5초
+normal_258,0,0.12248306,5,derived_5,파생 0.5초
+normal_277,0,0.773517,5,derived_5,파생 0.5초
+normal_287,0,0.61196756,5,derived_5,파생 0.5초
+normal_294,0,0.3072741,5,derived_5,파생 0.5초
+normal_308,0,0.2595985,5,derived_5,파생 0.5초
+normal_312,0,0.25757203,5,derived_5,파생 0.5초
+normal_319,0,0.08415906,5,derived_5,파생 0.5초
+normal_326,0,0.5608056,5,derived_5,파생 0.5초
+normal_332,0,0.60182524,5,derived_5,파생 0.5초
+normal_362,0,0.56490237,5,derived_5,파생 0.5초
+normal_367,0,0.5535343,5,derived_5,파생 0.5초
+normal_385,0,0.21495342,5,derived_5,파생 0.5초
+normal_397,0,0.1963658,5,derived_5,파생 0.5초
+normal_403,0,0.15458699,5,derived_5,파생 0.5초
+normal_409,0,0.3710469,5,derived_5,파생 0.5초
+normal_418,0,0.23509708,5,derived_5,파생 0.5초
+normal_420,0,0.5651401,5,derived_5,파생 0.5초
+normal_421,0,0.4564434,5,derived_5,파생 0.5초
+normal_429,0,0.27045175,5,derived_5,파생 0.5초
+normal_437,0,0.18125701,5,derived_5,파생 0.5초
+normal_445,0,0.5655812,5,derived_5,파생 0.5초
+normal_451,0,0.5661051,5,derived_5,파생 0.5초
+normal_455,0,0.23300986,5,derived_5,파생 0.5초
+normal_456,0,0.8003421,5,derived_5,파생 0.5초
+normal_458,0,0.23822053,5,derived_5,파생 0.5초
+normal_462,0,0.14311057,5,derived_5,파생 0.5초
+normal_463,0,0.2514069,5,derived_5,파생 0.5초
+normal_470,0,0.74701977,5,derived_5,파생 0.5초
+normal_471,0,0.29561377,5,derived_5,파생 0.5초
+normal_486,0,0.109086476,5,derived_5,파생 0.5초
+normal_505,0,0.08818499,5,derived_5,파생 0.5초
+normal_506,0,0.08906686,5,derived_5,파생 0.5초
+normal_510,0,0.09770449,5,derived_5,파생 0.5초
+normal_515,0,0.07487998,5,derived_5,파생 0.5초
+normal_516,0,0.093447566,5,derived_5,파생 0.5초
+normal_517,0,0.07169628,5,derived_5,파생 0.5초
+normal_520,0,0.115807414,5,derived_5,파생 0.5초
+normal_521,0,0.07889994,5,derived_5,파생 0.5초
+normal_522,0,0.08257065,5,derived_5,파생 0.5초
+normal_525,0,0.097027175,5,derived_5,파생 0.5초
+normal_532,0,0.07435291,5,derived_5,파생 0.5초
+normal_539,0,0.08265442,5,derived_5,파생 0.5초
+normal_543,0,0.06810705,5,derived_5,파생 0.5초
+normal_544,0,0.08759175,5,derived_5,파생 0.5초
+normal_545,0,0.081286475,5,derived_5,파생 0.5초
+normal_557,0,0.082194574,5,derived_5,파생 0.5초
+normal_558,0,0.073779956,5,derived_5,파생 0.5초
+normal_565,0,0.31540218,5,derived_5,파생 0.5초
+normal_576,0,0.58585966,5,derived_5,파생 0.5초
+normal_588,0,0.27596498,5,derived_5,파생 0.5초
+normal_590,0,0.5919737,5,derived_5,파생 0.5초
+normal_593,0,0.3992248,5,derived_5,파생 0.5초
+normal_594,0,0.27921832,5,derived_5,파생 0.5초
+anomaly_4,1,0.22189271,5,derived_5,파생 0.5초
+anomaly_14,1,90.76274,5,derived_5,파생 0.5초
+normal_3,0,0.21217698,5,derived_10,파생 1.0초
+normal_5,0,0.21310265,5,derived_10,파생 1.0초
+normal_13,0,0.7623158,5,derived_10,파생 1.0초
+normal_34,0,0.8946905,5,derived_10,파생 1.0초
+normal_43,0,0.37047687,5,derived_10,파생 1.0초
+normal_45,0,0.5387424,5,derived_10,파생 1.0초
+normal_48,0,0.8506764,5,derived_10,파생 1.0초
+normal_61,0,0.65800476,5,derived_10,파생 1.0초
+normal_63,0,1.3713975,5,derived_10,파생 1.0초
+normal_68,0,1.1560342,5,derived_10,파생 1.0초
+normal_70,0,0.20106281,5,derived_10,파생 1.0초
+normal_71,0,0.47833028,5,derived_10,파생 1.0초
+normal_79,0,0.3768153,5,derived_10,파생 1.0초
+normal_90,0,1.3187647,5,derived_10,파생 1.0초
+normal_98,0,0.99529415,5,derived_10,파생 1.0초
+normal_109,0,1.5833436,5,derived_10,파생 1.0초
+normal_120,0,0.9788569,5,derived_10,파생 1.0초
+normal_121,0,0.28462505,5,derived_10,파생 1.0초
+normal_122,0,0.4609659,5,derived_10,파생 1.0초
+normal_148,0,0.9229902,5,derived_10,파생 1.0초
+normal_155,0,0.26390636,5,derived_10,파생 1.0초
+normal_159,0,0.7237691,5,derived_10,파생 1.0초
+normal_160,0,0.25998747,5,derived_10,파생 1.0초
+normal_166,0,1.0908773,5,derived_10,파생 1.0초
+normal_170,0,0.47661766,5,derived_10,파생 1.0초
+normal_172,0,0.82758933,5,derived_10,파생 1.0초
+normal_180,0,1.2020794,5,derived_10,파생 1.0초
+normal_204,0,0.5254321,5,derived_10,파생 1.0초
+normal_207,0,0.37841496,5,derived_10,파생 1.0초
+normal_217,0,1.2593553,5,derived_10,파생 1.0초
+normal_219,0,0.30080685,5,derived_10,파생 1.0초
+normal_224,0,0.38330036,5,derived_10,파생 1.0초
+normal_230,0,0.68297476,5,derived_10,파생 1.0초
+normal_234,0,0.30728865,5,derived_10,파생 1.0초
+normal_236,0,1.2278377,5,derived_10,파생 1.0초
+normal_240,0,0.53406537,5,derived_10,파생 1.0초
+normal_252,0,1.0420063,5,derived_10,파생 1.0초
+normal_253,0,0.27529722,5,derived_10,파생 1.0초
+normal_258,0,0.25924453,5,derived_10,파생 1.0초
+normal_277,0,1.7638518,5,derived_10,파생 1.0초
+normal_287,0,1.4947085,5,derived_10,파생 1.0초
+normal_294,0,0.62783134,5,derived_10,파생 1.0초
+normal_308,0,0.5684424,5,derived_10,파생 1.0초
+normal_312,0,0.5345718,5,derived_10,파생 1.0초
+normal_319,0,0.24467985,5,derived_10,파생 1.0초
+normal_326,0,1.4429018,5,derived_10,파생 1.0초
+normal_332,0,1.2385747,5,derived_10,파생 1.0초
+normal_362,0,1.5440745,5,derived_10,파생 1.0초
+normal_367,0,1.1315066,5,derived_10,파생 1.0초
+normal_385,0,0.4967848,5,derived_10,파생 1.0초
+normal_397,0,0.54512477,5,derived_10,파생 1.0초
+normal_403,0,0.30414477,5,derived_10,파생 1.0초
+normal_409,0,0.92542285,5,derived_10,파생 1.0초
+normal_418,0,0.60138816,5,derived_10,파생 1.0초
+normal_420,0,1.3502008,5,derived_10,파생 1.0초
+normal_421,0,1.0283743,5,derived_10,파생 1.0초
+normal_429,0,0.64073557,5,derived_10,파생 1.0초
+normal_437,0,0.3764911,5,derived_10,파생 1.0초
+normal_445,0,1.3432882,5,derived_10,파생 1.0초
+normal_451,0,1.3454194,5,derived_10,파생 1.0초
+normal_455,0,0.481018,5,derived_10,파생 1.0초
+normal_456,0,1.7887102,5,derived_10,파생 1.0초
+normal_458,0,0.521031,5,derived_10,파생 1.0초
+normal_462,0,0.3179824,5,derived_10,파생 1.0초
+normal_463,0,0.48413432,5,derived_10,파생 1.0초
+normal_470,0,1.6550572,5,derived_10,파생 1.0초
+normal_471,0,0.5900276,5,derived_10,파생 1.0초
+normal_486,0,0.20763908,5,derived_10,파생 1.0초
+normal_505,0,0.20066707,5,derived_10,파생 1.0초
+normal_506,0,0.18361181,5,derived_10,파생 1.0초
+normal_510,0,0.21769612,5,derived_10,파생 1.0초
+normal_515,0,0.17772847,5,derived_10,파생 1.0초
+normal_516,0,0.21004806,5,derived_10,파생 1.0초
+normal_517,0,0.166434,5,derived_10,파생 1.0초
+normal_520,0,0.22667973,5,derived_10,파생 1.0초
+normal_521,0,0.18175776,5,derived_10,파생 1.0초
+normal_522,0,0.16672601,5,derived_10,파생 1.0초
+normal_525,0,0.22290127,5,derived_10,파생 1.0초
+normal_532,0,0.17964381,5,derived_10,파생 1.0초
+normal_539,0,0.1850122,5,derived_10,파생 1.0초
+normal_543,0,0.16178325,5,derived_10,파생 1.0초
+normal_544,0,0.19510406,5,derived_10,파생 1.0초
+normal_545,0,0.19834585,5,derived_10,파생 1.0초
+normal_557,0,0.19320543,5,derived_10,파생 1.0초
+normal_558,0,0.16765884,5,derived_10,파생 1.0초
+normal_565,0,0.9626936,5,derived_10,파생 1.0초
+normal_576,0,1.4952804,5,derived_10,파생 1.0초
+normal_588,0,0.6277741,5,derived_10,파생 1.0초
+normal_590,0,1.2194775,5,derived_10,파생 1.0초
+normal_593,0,0.75425404,5,derived_10,파생 1.0초
+normal_594,0,0.5571593,5,derived_10,파생 1.0초
+anomaly_4,1,0.393905,5,derived_10,파생 1.0초
+anomaly_14,1,101.84741,5,derived_10,파생 1.0초
+normal_3,0,0.22946644,5,derived_15,파생 1.5초
+normal_5,0,0.24491118,5,derived_15,파생 1.5초
+normal_13,0,0.92408925,5,derived_15,파생 1.5초
+normal_34,0,1.0045962,5,derived_15,파생 1.5초
+normal_43,0,0.44925317,5,derived_15,파생 1.5초
+normal_45,0,0.68237704,5,derived_15,파생 1.5초
+normal_48,0,0.94063926,5,derived_15,파생 1.5초
+normal_61,0,0.6549395,5,derived_15,파생 1.5초
+normal_63,0,1.4052969,5,derived_15,파생 1.5초
+normal_68,0,1.1894965,5,derived_15,파생 1.5초
+normal_70,0,0.23293358,5,derived_15,파생 1.5초
+normal_71,0,0.4823959,5,derived_15,파생 1.5초
+normal_79,0,0.43812385,5,derived_15,파생 1.5초
+normal_90,0,1.5289961,5,derived_15,파생 1.5초
+normal_98,0,0.90928346,5,derived_15,파생 1.5초
+normal_109,0,1.6848321,5,derived_15,파생 1.5초
+normal_120,0,0.9894778,5,derived_15,파생 1.5초
+normal_121,0,0.31352243,5,derived_15,파생 1.5초
+normal_122,0,0.50677407,5,derived_15,파생 1.5초
+normal_148,0,1.1508385,5,derived_15,파생 1.5초
+normal_155,0,0.31575692,5,derived_15,파생 1.5초
+normal_159,0,0.64265454,5,derived_15,파생 1.5초
+normal_160,0,0.25557235,5,derived_15,파생 1.5초
+normal_166,0,1.0383574,5,derived_15,파생 1.5초
+normal_170,0,0.47506914,5,derived_15,파생 1.5초
+normal_172,0,0.94153136,5,derived_15,파생 1.5초
+normal_180,0,1.3312296,5,derived_15,파생 1.5초
+normal_204,0,0.59187084,5,derived_15,파생 1.5초
+normal_207,0,0.42787683,5,derived_15,파생 1.5초
+normal_217,0,1.2425697,5,derived_15,파생 1.5초
+normal_219,0,0.3380161,5,derived_15,파생 1.5초
+normal_224,0,0.39680544,5,derived_15,파생 1.5초
+normal_230,0,0.89251393,5,derived_15,파생 1.5초
+normal_234,0,0.3721937,5,derived_15,파생 1.5초
+normal_236,0,1.3265107,5,derived_15,파생 1.5초
+normal_240,0,0.5791492,5,derived_15,파생 1.5초
+normal_252,0,1.3295174,5,derived_15,파생 1.5초
+normal_253,0,0.2595097,5,derived_15,파생 1.5초
+normal_258,0,0.29866737,5,derived_15,파생 1.5초
+normal_277,0,2.2196074,5,derived_15,파생 1.5초
+normal_287,0,1.61934,5,derived_15,파생 1.5초
+normal_294,0,0.68468004,5,derived_15,파생 1.5초
+normal_308,0,0.6664765,5,derived_15,파생 1.5초
+normal_312,0,0.54482186,5,derived_15,파생 1.5초
+normal_319,0,0.27347058,5,derived_15,파생 1.5초
+normal_326,0,1.740313,5,derived_15,파생 1.5초
+normal_332,0,1.3970304,5,derived_15,파생 1.5초
+normal_362,0,1.4891318,5,derived_15,파생 1.5초
+normal_367,0,1.2680291,5,derived_15,파생 1.5초
+normal_385,0,0.509374,5,derived_15,파생 1.5초
+normal_397,0,0.67246413,5,derived_15,파생 1.5초
+normal_403,0,0.30642986,5,derived_15,파생 1.5초
+normal_409,0,1.1777248,5,derived_15,파생 1.5초
+normal_418,0,0.63317937,5,derived_15,파생 1.5초
+normal_420,0,1.5536968,5,derived_15,파생 1.5초
+normal_421,0,1.3339424,5,derived_15,파생 1.5초
+normal_429,0,0.812731,5,derived_15,파생 1.5초
+normal_437,0,0.50113004,5,derived_15,파생 1.5초
+normal_445,0,1.617776,5,derived_15,파생 1.5초
+normal_451,0,1.5908517,5,derived_15,파생 1.5초
+normal_455,0,0.4983828,5,derived_15,파생 1.5초
+normal_456,0,1.8431631,5,derived_15,파생 1.5초
+normal_458,0,0.5781236,5,derived_15,파생 1.5초
+normal_462,0,0.3306329,5,derived_15,파생 1.5초
+normal_463,0,0.4423105,5,derived_15,파생 1.5초
+normal_470,0,1.6582855,5,derived_15,파생 1.5초
+normal_471,0,0.5403108,5,derived_15,파생 1.5초
+normal_486,0,0.21532221,5,derived_15,파생 1.5초
+normal_505,0,0.21023978,5,derived_15,파생 1.5초
+normal_506,0,0.20396264,5,derived_15,파생 1.5초
+normal_510,0,0.21776472,5,derived_15,파생 1.5초
+normal_515,0,0.18881981,5,derived_15,파생 1.5초
+normal_516,0,0.23325638,5,derived_15,파생 1.5초
+normal_517,0,0.19265299,5,derived_15,파생 1.5초
+normal_520,0,0.27950895,5,derived_15,파생 1.5초
+normal_521,0,0.1933804,5,derived_15,파생 1.5초
+normal_522,0,0.19841601,5,derived_15,파생 1.5초
+normal_525,0,0.2224689,5,derived_15,파생 1.5초
+normal_532,0,0.19678229,5,derived_15,파생 1.5초
+normal_539,0,0.20242997,5,derived_15,파생 1.5초
+normal_543,0,0.18412201,5,derived_15,파생 1.5초
+normal_544,0,0.20572074,5,derived_15,파생 1.5초
+normal_545,0,0.20462975,5,derived_15,파생 1.5초
+normal_557,0,0.2148484,5,derived_15,파생 1.5초
+normal_558,0,0.17917003,5,derived_15,파생 1.5초
+normal_565,0,1.0808237,5,derived_15,파생 1.5초
+normal_576,0,1.6300411,5,derived_15,파생 1.5초
+normal_588,0,0.75361013,5,derived_15,파생 1.5초
+normal_590,0,1.3126713,5,derived_15,파생 1.5초
+normal_593,0,0.7719378,5,derived_15,파생 1.5초
+normal_594,0,0.586505,5,derived_15,파생 1.5초
+anomaly_4,1,0.46119857,5,derived_15,파생 1.5초
+anomaly_14,1,126.86496,5,derived_15,파생 1.5초
+normal_3,0,0.24122685,5,derived_20,파생 2.0초
+normal_5,0,0.24478197,5,derived_20,파생 2.0초
+normal_13,0,0.9224482,5,derived_20,파생 2.0초
+normal_34,0,1.019409,5,derived_20,파생 2.0초
+normal_43,0,0.40573704,5,derived_20,파생 2.0초
+normal_45,0,0.6667974,5,derived_20,파생 2.0초
+normal_48,0,0.9580557,5,derived_20,파생 2.0초
+normal_61,0,0.61758256,5,derived_20,파생 2.0초
+normal_63,0,1.4192051,5,derived_20,파생 2.0초
+normal_68,0,1.3900032,5,derived_20,파생 2.0초
+normal_70,0,0.2381184,5,derived_20,파생 2.0초
+normal_71,0,0.5324287,5,derived_20,파생 2.0초
+normal_79,0,0.415621,5,derived_20,파생 2.0초
+normal_90,0,1.5222167,5,derived_20,파생 2.0초
+normal_98,0,0.99975485,5,derived_20,파생 2.0초
+normal_109,0,1.7625315,5,derived_20,파생 2.0초
+normal_120,0,0.9816654,5,derived_20,파생 2.0초
+normal_121,0,0.31414896,5,derived_20,파생 2.0초
+normal_122,0,0.53872776,5,derived_20,파생 2.0초
+normal_148,0,1.0859207,5,derived_20,파생 2.0초
+normal_155,0,0.32349473,5,derived_20,파생 2.0초
+normal_159,0,0.7834946,5,derived_20,파생 2.0초
+normal_160,0,0.29970098,5,derived_20,파생 2.0초
+normal_166,0,1.1138198,5,derived_20,파생 2.0초
+normal_170,0,0.4524364,5,derived_20,파생 2.0초
+normal_172,0,0.965586,5,derived_20,파생 2.0초
+normal_180,0,1.2960339,5,derived_20,파생 2.0초
+normal_204,0,0.5647322,5,derived_20,파생 2.0초
+normal_207,0,0.42812556,5,derived_20,파생 2.0초
+normal_217,0,1.3555093,5,derived_20,파생 2.0초
+normal_219,0,0.3473653,5,derived_20,파생 2.0초
+normal_224,0,0.43469286,5,derived_20,파생 2.0초
+normal_230,0,0.80955905,5,derived_20,파생 2.0초
+normal_234,0,0.3924678,5,derived_20,파생 2.0초
+normal_236,0,1.3997793,5,derived_20,파생 2.0초
+normal_240,0,0.58609587,5,derived_20,파생 2.0초
+normal_252,0,1.2076187,5,derived_20,파생 2.0초
+normal_253,0,0.2879995,5,derived_20,파생 2.0초
+normal_258,0,0.3012797,5,derived_20,파생 2.0초
+normal_277,0,1.779872,5,derived_20,파생 2.0초
+normal_287,0,1.6677976,5,derived_20,파생 2.0초
+normal_294,0,0.646937,5,derived_20,파생 2.0초
+normal_308,0,0.65325814,5,derived_20,파생 2.0초
+normal_312,0,0.5590794,5,derived_20,파생 2.0초
+normal_319,0,0.29757285,5,derived_20,파생 2.0초
+normal_326,0,1.608617,5,derived_20,파생 2.0초
+normal_332,0,1.4296285,5,derived_20,파생 2.0초
+normal_362,0,1.5868767,5,derived_20,파생 2.0초
+normal_367,0,1.3028505,5,derived_20,파생 2.0초
+normal_385,0,0.48979723,5,derived_20,파생 2.0초
+normal_397,0,0.64046544,5,derived_20,파생 2.0초
+normal_403,0,0.32726443,5,derived_20,파생 2.0초
+normal_409,0,1.0453627,5,derived_20,파생 2.0초
+normal_418,0,0.69796485,5,derived_20,파생 2.0초
+normal_420,0,1.4214479,5,derived_20,파생 2.0초
+normal_421,0,1.3277206,5,derived_20,파생 2.0초
+normal_429,0,0.6955419,5,derived_20,파생 2.0초
+normal_437,0,0.4297324,5,derived_20,파생 2.0초
+normal_445,0,1.4146981,5,derived_20,파생 2.0초
+normal_451,0,1.5824482,5,derived_20,파생 2.0초
+normal_455,0,0.50794464,5,derived_20,파생 2.0초
+normal_456,0,2.0322022,5,derived_20,파생 2.0초
+normal_458,0,0.61071974,5,derived_20,파생 2.0초
+normal_462,0,0.33362564,5,derived_20,파생 2.0초
+normal_463,0,0.45400754,5,derived_20,파생 2.0초
+normal_470,0,1.7844521,5,derived_20,파생 2.0초
+normal_471,0,0.53094494,5,derived_20,파생 2.0초
+normal_486,0,0.23676926,5,derived_20,파생 2.0초
+normal_505,0,0.20714492,5,derived_20,파생 2.0초
+normal_506,0,0.21102138,5,derived_20,파생 2.0초
+normal_510,0,0.22133604,5,derived_20,파생 2.0초
+normal_515,0,0.19305116,5,derived_20,파생 2.0초
+normal_516,0,0.24715748,5,derived_20,파생 2.0초
+normal_517,0,0.19909509,5,derived_20,파생 2.0초
+normal_520,0,0.2639697,5,derived_20,파생 2.0초
+normal_521,0,0.20415023,5,derived_20,파생 2.0초
+normal_522,0,0.20588852,5,derived_20,파생 2.0초
+normal_525,0,0.23735419,5,derived_20,파생 2.0초
+normal_532,0,0.1943759,5,derived_20,파생 2.0초
+normal_539,0,0.2007078,5,derived_20,파생 2.0초
+normal_543,0,0.18526816,5,derived_20,파생 2.0초
+normal_544,0,0.22758767,5,derived_20,파생 2.0초
+normal_545,0,0.21521626,5,derived_20,파생 2.0초
+normal_557,0,0.21844675,5,derived_20,파생 2.0초
+normal_558,0,0.17355016,5,derived_20,파생 2.0초
+normal_565,0,0.9724524,5,derived_20,파생 2.0초
+normal_576,0,1.7018064,5,derived_20,파생 2.0초
+normal_588,0,0.7034802,5,derived_20,파생 2.0초
+normal_590,0,1.4523727,5,derived_20,파생 2.0초
+normal_593,0,0.7471321,5,derived_20,파생 2.0초
+normal_594,0,0.61179185,5,derived_20,파생 2.0초
+anomaly_4,1,0.48381558,5,derived_20,파생 2.0초
+anomaly_14,1,132.00258,5,derived_20,파생 2.0초

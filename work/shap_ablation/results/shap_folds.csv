@@ -1,0 +1,311 @@
+﻿family,model,window_seconds,fold,method,class,feature,mean_abs_shap,mean_signed_shap,samples
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS,0.1880151148524157,0.13086331731277423,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS,0.6986741753092,0.6986741753092,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS,0.14092951258197003,0.10687517477959624,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS,0.16323051980926656,0.160747837414945,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.09274127274311822,0.07433554325268578,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.4745223170475915,0.4731343302551063,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_ratio,0.08578122953651628,0.08389042011927754,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_ratio,0.24878858113168117,0.24878040037699187,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_corr,0.11195280450273015,0.10832208671343964,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_corr,0.1479204697689776,0.1479204697689776,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS,0.13982627001913506,0.11223059246431784,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS,0.07978964978320498,0.07978520058581944,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI0_RMS_ratio,0.12324162048148979,0.10847014198026651,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI0_RMS_ratio,0.10663430053406263,0.10663430053406263,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI1_RMS_ratio,0.131911511109354,0.12822630828284473,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI1_RMS_ratio,0.09189613896505418,0.09189613896505418,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.10325706366024444,0.08130271893590875,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.43810063060126886,0.43810063060126886,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.1392658236692391,0.13735906982415924,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.9203847442661799,0.9203847442661799,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.12313290557138416,0.12307694452537943,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.5773448780110907,0.5773448780110907,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.22763867833952586,0.22601276591186217,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.1751402667982679,0.17511925661610173,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.13801176342684965,0.13658262092751758,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.0646163257176323,0.0646163257176323,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI0_RMS,0.12349124578138578,0.12336982244316937,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI0_RMS,1.2978715609950513,1.2978715609950513,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI1_RMS,0.29231809195459363,0.29125914960840443,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI1_RMS,0.5632037372190345,0.5632037372190345,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_kurtosis,0.1413919729977363,0.12399434567329466,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_kurtosis,0.14494324228218305,0.1445099196689613,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_kurtosis,0.08529976906084759,0.07193939603556318,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_kurtosis,0.1173825717716426,0.1173825717716426,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_crest_factor,0.15979905081123533,0.1515673284273635,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_crest_factor,0.08308946153873686,0.08241163890498107,14
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_crest_factor,0.05218377133796703,0.04518641293520129,24
+tabular,One-Class SVM,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_crest_factor,0.07434886555024897,0.0743289030276939,14
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS,0.14403316366940178,0.08832969406849801,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS,0.5442605309342258,0.5228170178272932,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS,0.14226267759926214,0.10434281810083744,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS,0.03792998452972783,0.025369074308302705,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.12600047275705054,0.10596308307443207,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.5267852768846126,0.5251080227537647,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_ratio,0.11547771133758761,0.11309393611965034,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_ratio,0.4608342924212758,0.4608342924212758,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_corr,0.16065099694669752,0.15695678187827095,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_corr,0.24769533729398188,0.24769533729398188,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS,0.13285193545590568,0.08658138228890111,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS,0.20569453697181783,0.20569453697181783,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI0_RMS_ratio,0.057887953114278405,0.03382471519065763,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI0_RMS_ratio,0.23268978901285745,0.23268978901285745,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI1_RMS_ratio,0.0765856706983419,0.06329600146226753,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI1_RMS_ratio,0.12110063225777142,0.1209738979848297,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.075317217007684,0.05651444567974556,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.469340143039571,0.469340143039571,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.10826405393572809,0.10129881410244235,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.8700059085277017,0.8700059085277017,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.24895044759365823,0.24891501768080382,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.3720622175020555,0.3720622175020555,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.13733247772566834,0.13674178743127915,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.5970914355738135,0.5970914355738135,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.2352611579908799,0.2352611579908799,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.06671081347085422,0.0666525994751806,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI0_RMS,0.325577160836472,0.325217519727278,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI0_RMS,0.7268539342929612,0.7268539342929612,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI1_RMS,0.1003358667121917,0.10003394757657896,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI1_RMS,0.28155630174086294,0.28155630174086294,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_kurtosis,0.1652903547120497,0.10409349598236838,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_kurtosis,0.16635598570061455,0.1562886115430613,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_kurtosis,0.08569923924962797,0.0680807237113706,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_kurtosis,0.18262639578534604,0.1824902170300448,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_crest_factor,0.13148330026317182,0.11755333458758281,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_crest_factor,0.23004645774567634,0.22885667977161714,15
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_crest_factor,0.08480574239076943,0.07543491977115079,24
+tabular,One-Class SVM,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_crest_factor,0.20038636148389682,0.20036162581692216,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS,0.14746133767281613,0.09781785619951962,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS,0.30111983534619363,0.28191564350098086,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS,0.1364567258680395,0.11353612285171859,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS,0.16875202278890342,0.16105796880016837,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.12131526564837454,0.10885244269873177,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.41019953788528235,0.40752061810212314,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_ratio,0.08658711890018539,0.07818297010749056,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_ratio,0.16273483503718839,0.16273483503718839,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_corr,0.1991337240391656,0.18949152817902123,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_corr,0.14784386864955593,0.14780555461974082,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS,0.13651688163984918,0.10854557719216347,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS,0.1919415009886199,0.19153403474582964,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI0_RMS_ratio,0.1290900276874926,0.11922159135467841,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI0_RMS_ratio,0.24922032700315422,0.24922032700315422,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI1_RMS_ratio,0.10349099482151584,0.09879032082578072,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI1_RMS_ratio,0.05666211800691207,0.05666211800691207,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.09946067275966468,0.08626800018806724,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.5012218924336677,0.5012218924336677,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.08696984776266307,0.0825947590298612,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.45679040863404485,0.45679040863404485,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.06690782262948643,0.06690782262948643,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.6341428371950251,0.6341428371950251,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.16627171258738868,0.16622050860407972,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.3712059301712794,0.3712059301712794,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.1629115019323468,0.16169935984734327,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.10381766741789153,0.10342414328037014,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI0_RMS,0.0563947807747743,0.05592857676625321,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI0_RMS,0.5303262314071646,0.5303262314071646,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI1_RMS,0.058907963325530534,0.05880922078603123,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI1_RMS,1.0910411714824653,1.0910411714824653,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_kurtosis,0.14964920712369645,0.11974448222734087,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_kurtosis,0.15305223873709375,0.1496894336798623,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_kurtosis,0.10608779144259922,0.09943075185221743,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_kurtosis,0.19290839826767142,0.19283058917432444,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_crest_factor,0.21577817615645167,0.20414305118865864,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_crest_factor,0.10851943075094747,0.10767189111153726,15
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_crest_factor,0.10909685681206262,0.10381651497067407,24
+tabular,One-Class SVM,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_crest_factor,0.10621709906638496,0.10555374198421316,15
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS,0.24553068369393558,0.204989851154455,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS,0.46966719433649706,0.46966719433649706,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS,0.1225969229343103,0.09349195715331497,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS,0.03842819811998561,0.03503073960500609,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.08423280880407023,0.06698342236331416,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.02931509705129611,0.02404033699394787,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_ratio,0.040652206840331655,0.03816965170741928,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_ratio,0.04892759755105412,0.04892759755105412,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_corr,0.2641909230257068,0.2625304517675413,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_corr,0.08949976378426508,0.08949976378426508,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS,0.15551100935042447,0.12671917068174124,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS,0.15906372346322503,0.15906372346322503,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI0_RMS_ratio,0.17062461191835424,0.1440571089899678,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI0_RMS_ratio,0.4073799375245109,0.4073799375245109,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI1_RMS_ratio,0.029781706777166864,0.018072817494639987,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI1_RMS_ratio,0.09925167151540175,0.09915174217620706,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.09823862925156501,0.09111796750086915,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.273121440511402,0.273121440511402,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.1777300169190068,0.17552213492175625,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.9450408705515887,0.9450408705515887,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.1771905736926435,0.17566465906844997,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.21618429248778376,0.21586579964160119,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.13404814592734132,0.13358033144997047,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.17937611565944808,0.17937611565944808,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.18705485133899832,0.1862427131011617,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.129458030775434,0.129458030775434,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI0_RMS,0.06584656111029158,0.06511782210566043,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI0_RMS,1.0684312983573845,1.0684312983573845,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI1_RMS,0.05755111204105818,0.0552705451767633,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI1_RMS,1.4551568227280254,1.4549613555852257,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_kurtosis,0.20478339012650706,0.15505579354873625,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_kurtosis,0.14896354967139372,0.14157231245465,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_kurtosis,0.10135522240466079,0.09237601126336097,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_kurtosis,0.5075028126692548,0.5075028126692548,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_crest_factor,0.18491180473539862,0.18260231859271334,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_crest_factor,0.07124897244323708,0.06888741509594676,10
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_crest_factor,0.1652232624681952,0.1650353561251284,24
+tabular,One-Class SVM,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_crest_factor,0.2072998038997119,0.20708192709726575,10
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS,0.09403273478884104,0.02640871646235111,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS,0.4230848857274208,0.41398190781159805,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS,0.11034275998553751,0.03821581161149068,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS,0.09806879779310969,0.0921486841609885,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.11227045588723077,0.07827400390513993,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.32259853825709556,0.32106795478411637,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_ratio,0.1691169649437149,0.16868110868641004,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_ratio,0.14522977252138905,0.14522977252138905,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_corr,0.11412558947267855,0.10788124149051727,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_corr,0.2693844180597632,0.2693844180597632,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS,0.11143196868710192,0.04832037515247515,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS,0.22699525885032537,0.22699525885032537,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI0_RMS_ratio,0.09114128634111658,0.08241191348081531,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI0_RMS_ratio,0.14750806559444807,0.14750806559444807,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_to_AI1_RMS_ratio,0.1317664194931434,0.1308106820871724,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_to_AI1_RMS_ratio,0.09581173478654506,0.09581173478654506,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.05465781013338547,0.02922679393144051,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.4170489023160268,0.4170489023160268,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.12399063871383564,0.12003435165170373,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.6399984972933223,0.6399984972933223,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.23075582969096772,0.23075582969096772,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.32040938318455275,0.32038124619302966,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.10257807091292896,0.1022379320411871,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.6643280660525335,0.6643280660525335,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.15641286567545143,0.15599376005719953,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.281383226741308,0.281383226741308,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI0_RMS,0.2011148424819388,0.20098626559427932,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI0_RMS,0.6018863912401239,0.6018863912401239,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,dCurrent_RMS_x_dAI1_RMS,0.02487315595142964,0.022362258242071668,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,dCurrent_RMS_x_dAI1_RMS,0.6718681462361622,0.6718681462361622,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_kurtosis,0.17754146734882317,0.16334168353008002,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_kurtosis,0.26222510818387046,0.25803195540813234,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_kurtosis,0.09637749989318634,0.08761302633096911,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_kurtosis,0.27519565227390524,0.27519565227390524,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_crest_factor,0.2262615255285516,0.212664062408411,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_crest_factor,0.13322479733991527,0.1320298641466843,9
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_crest_factor,0.10730303893489747,0.102129327681703,24
+tabular,One-Class SVM,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_crest_factor,0.0936972870119833,0.0936972870119833,9
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_Vibration,0.014260162378680738,-0.013087770273462715,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_Vibration,0.040194808059641075,0.00424223063593167,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_Vibration,0.027361297184749372,-0.025751828153261158,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_Vibration,0.025204624891167832,0.0232033663798055,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI2_Current,0.03919784389472625,-0.028953020528206252,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI2_Current,0.06730933216497346,0.052216378484766936,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_short_RMS,0.0499166813510025,0.011888620845108258,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_short_RMS,0.43049903398579253,0.4251715379068628,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_short_RMS,0.02080822896452143,0.01090015223727884,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_short_RMS,0.011405996305822239,-0.004985049306710161,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_short_RMS,0.020903267919796537,-0.015693767537413805,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_short_RMS,0.03823320215469904,0.03779766562026765,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.02263535769088776,-0.018954043231133255,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.04947908837816328,-0.03948058916191753,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.029582977416036254,0.029582977416036254,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.36272817643891486,0.36272817643891486,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.029387204308780685,0.02892646554391831,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.05251241141436428,0.05251241141436428,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.020659833253982168,-0.020659833253982168,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.065422980660418,-0.065422980660418,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.016664660948663368,-0.016664660948663368,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.03259575995381508,-0.03259575995381508,14
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.06543183588352501,-0.06543183588352501,24
+temporal,1D-CNN,1.5,1,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.016135252828695417,-0.016111333478718404,14
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_Vibration,0.02126406496366447,-0.02115316462368355,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_Vibration,0.061981054127682,-0.012002310634125024,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_Vibration,0.027486992058887456,-0.024621169970487244,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_Vibration,0.14990409373228128,0.12074820630950853,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI2_Current,0.04029019897764859,0.006955979974009097,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI2_Current,0.11681041158153675,0.08965865600039251,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_short_RMS,0.012511727698438335,0.01029068666442375,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_short_RMS,0.25901804998672256,0.2589962123039489,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_short_RMS,0.07949454575282289,-0.07949454575282289,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_short_RMS,0.034005933592561634,-0.023069529231482495,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_short_RMS,0.044123119792250996,-0.04156820718708332,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_short_RMS,0.033205257286317645,0.03201198968260239,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.06609389328029162,-0.06609389328029162,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.09985070573942115,-0.03682910566373418,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.01326709702819547,0.013065414919158988,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.15313090071237337,0.15313090071237337,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.02411509539767091,-0.023878354906628374,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.046083503623958674,-0.04199174855602905,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.010287641581574766,-0.009220219726557843,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.03170336285644832,-0.02050130201387219,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.01694616538467623,-0.01691169229525258,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.015984142140951008,-0.015226155243969213,15
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.022533518180959316,-0.022428525637224084,24
+temporal,1D-CNN,1.5,2,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.010805848714274665,-0.006211945329171916,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_Vibration,0.007235479237124309,-0.005266206548109646,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_Vibration,0.1338692485886895,0.1338692485886895,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_Vibration,0.01319499346595876,-0.009416906842867926,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_Vibration,0.13256790984057715,0.06195525516472268,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI2_Current,0.023677676735284574,-0.008643809897724472,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI2_Current,0.20884671107426886,0.10973811049176826,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_short_RMS,0.002235087589269824,0.00031031272798524395,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_short_RMS,0.12580830475029264,0.12360079995523847,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_short_RMS,0.026823504210521303,-0.022545836791474965,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_short_RMS,0.05361852357194342,0.02599902551864943,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_short_RMS,0.03061267070120266,-0.027296875999960928,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_short_RMS,0.04058384158073333,-0.010249025647470943,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.024752886954805337,-0.024752886954805337,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.03789319074308537,0.007456291658633063,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.004091877144257221,0.003694941328111175,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.13730413948069325,0.13730413948069325,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.024080236726983156,-0.0016277577744858718,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.17775167559642188,0.16372654479540263,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.006028448652386942,-0.006023983751902051,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.02407196729387048,-0.018180255475321396,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.010095174757642175,-0.009985327933577537,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.01827561238137605,-0.01800458846281193,15
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.015843730095184583,-0.015843730095184583,24
+temporal,1D-CNN,1.5,3,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.007932412799315594,-0.004781713180697504,15
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_Vibration,0.01107758018810164,-0.0010683305764409567,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_Vibration,0.02041368472040155,0.019701262777173056,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_Vibration,0.006550660595988707,-0.006550660595988707,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_Vibration,0.029859369623096876,0.02933902942822919,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI2_Current,0.021036017580246497,-0.007699518473674634,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI2_Current,0.3406852259886364,0.3406852259886364,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_short_RMS,0.023663896222982334,0.006955071821406496,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_short_RMS,0.12807999582249466,0.05255314687580892,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_short_RMS,0.015642709033264996,-0.005754832530033245,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_short_RMS,0.014512801324797342,0.003335801808446026,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_short_RMS,0.04553097868779332,0.01324316195746178,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_short_RMS,0.13581727717246395,-0.09010671077121515,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.015613441817009743,0.006595905853761981,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.024387538519546847,-0.012765065063648518,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.010496602452448656,0.002050225110049079,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.024535823326962004,-0.00475918607409298,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.032398761375570594,-0.008831929781099626,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.05203606650951194,-0.014096825776672327,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.008080250394823926,-0.006212600156793258,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.016546311676466273,-0.015499073615392689,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.016825185902334283,-0.016825185902334283,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.029687515277368702,-0.028279962208075205,10
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.037964191499564016,-0.037964191499564016,24
+temporal,1D-CNN,1.5,4,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.06877172795410295,-0.06773920753829224,10
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_Vibration,0.00807458590134047,-0.006043876977249359,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_Vibration,0.03999332478269935,-0.00046973049433694943,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_Vibration,0.011950084832884992,-0.011916565485686684,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_Vibration,0.043334940965804786,-0.018867293269269995,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI2_Current,0.01678441953845322,-0.01061063896243771,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI2_Current,0.05824811446170012,0.02340882219788101,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_short_RMS,0.017088623222662136,0.0012506594551571955,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_short_RMS,0.16087641825692522,0.16087641825692522,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_short_RMS,0.06994119038184483,-0.02594300623362263,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_short_RMS,0.07967193921407063,0.0625434886250231,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_short_RMS,0.027440353626540553,-0.024164359803156305,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_short_RMS,0.024675890751596954,0.0009971921746101645,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_AI1_RMS_diff,0.015006091348671665,-0.01321964910797154,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_AI1_RMS_diff,0.010962121602561738,-0.010393470629221864,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_current_residual,0.005017500477454935,-0.0009757856896612793,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_current_residual,0.11642038299598628,0.11642038299598628,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_current_residual,0.032413242772842445,-0.003237390502666434,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_current_residual,0.087644857664903,0.04990938761168056,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI0_RMS_slope,0.0084081888004827,-0.0020246611481222012,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI0_RMS_slope,0.019458860158920288,-0.009475005997551812,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,AI1_RMS_slope,0.006190147008358811,-0.006057457231994097,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,AI1_RMS_slope,0.007714983282817734,-0.007714983282817734,9
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),normal,Current_RMS_slope,0.013802276468292499,-0.013802276468292499,24
+temporal,1D-CNN,1.5,5,Monte Carlo permutation SHAP (32 permutations),anomaly,Current_RMS_slope,0.007560241243077649,-0.007560241243077649,9

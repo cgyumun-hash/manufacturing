@@ -1,0 +1,11 @@
+﻿특징,PC1,PC2
+AI0_RMS,0.259,0.335
+AI1_RMS,0.486,-0.017
+Current_RMS,0.423,-0.184
+AI0_kurtosis,0.228,0.325
+AI1_kurtosis,-0.266,0.409
+Current_kurtosis,0.223,0.398
+AI0_crest_factor,0.231,0.259
+AI1_crest_factor,-0.346,0.341
+Current_crest_factor,0.295,0.351
+AI0_AI1_signed_corr,0.292,-0.342

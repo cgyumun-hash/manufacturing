@@ -1,0 +1,10 @@
+name: press-anomaly
+# conda로는 Python만 설치하고, 패키지는 requirements.txt(검증한 버전 고정)를 pip로 설치한다.
+# (conda-forge에서는 pandas 2.2.2와 numpy 2.2.6 조합이 풀리지 않아 pip 휠을 그대로 쓴다)
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - -r requirements.txt
