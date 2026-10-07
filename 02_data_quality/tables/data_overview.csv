@@ -1,3 +1,0 @@
-class,source_file,raw_rows,clean_rows,removed_exact_duplicate_rows,start_timestamp,end_timestamp,wall_time_seconds,equipment_state_values
-normal,press_data_normal.csv,20000,19999,1,2022-07-12 00:00:00.019,2022-07-12 01:16:55.828,4615.809,0
-anomaly,outlier_data.csv,600,600,0,2022-07-17 10:51:07.943,2022-07-17 10:53:53.540,165.597,1
